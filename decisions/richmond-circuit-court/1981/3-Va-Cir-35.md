@@ -1,0 +1,38 @@
+---
+court: "Richmond Circuit Court"
+docket: "Case No. LE-409"
+decided: "1981-10-13"
+citations: ["3 Va. Cir. 35"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William D. Feismuth v. Virginia Employment Commission and Bogart’s Restaurant"]
+source_url: "https://static.case.law/va-cir/3/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3784937
+cites_cases: ["182 Va. 426", "195 Va. 997", "197 Va. 816", "204 Va. 18", "219 Va. 609"]
+---
+
+# Feismuth v. Virginia Employment Commission
+
+## Majority (By JUDGE WILLARD I. WALKER)
+
+By JUDGE WILLARD I. WALKER
+This case is before the court on the employee’s petition for review of the Virginia Employment Commission’s (Commission) denial of unemployment benefits. That decision was based upon the employer’s allegations of the employee’s willful misconduct.
+The case has followed prescribed administrative determination and review. Sections 60.1-60 through 67.1, Code of Virginia (1950), as amended. Petitioner filed his claim for unemployment benefits on April 27, 1980. The Deputy determined that the petitioner qualified for benefits. The employer (Bogart’s) appealed the Deputy’s determination to the Appeals Examiner. The Appeals Examiner, after a hearing, reversed the Deputy’s determination, holding that Bogart’s discharge for misconduct in connection with his work disqualified petitioner’s claim for unemployment benefits. Petitioner appealed to the Commission. Petitioner, through counsel, sought to present additional evidence to the Commission at the hearing. The Commission denied this request, ruling that the presentation of additional evidence, while at the Commission’s discretion, is allowed only in matters involving either after-discovered evidence or an insufficient evidentiary record. R:12. Petitioner’s counsel then delineated the elements of after-discovered evidence for the requested testimony and forwarded the gist of what the testimony would show. The Commission again denied the request based upon petitioner’s knowledge of the testimony’s potential prior to the Appeals Examiner’s hearing. The Commission did not mention the sufficiency of the record presented by the Appeals Examiner.
+This court’s decision necessarily hinges upon petitioner’s alleged misconduct. The Appeal Examiner’s "Findings of Fact" predominantly restate the testimony proffered at the hearing.
+The Examiner’s recitation of mere contentions and allegations offered at the hearing do not constitute findings of fact. Strictly construing the Examiner’s "Findings of Fact," therefor omitting contentions and allegations, the Appeals Examiner’s factual determinations were:
+The employer appealed from a determination of the Deputy which held the claimant not subject to a disqualification effective April 27, 1980, for having separated from his last employment.
+Bogart’s Restaurant, Richmond, Virginia, was the claimant’s last employer for whom he worked from October, 1979, until April 25, 1980. The claimant was employed as a cook-host, and he was being paid $3.50 when he was performing cooking chores, and $4.00 an hour when serving in the capacity of a host.
+During the course of his employment, the claimant was given two warnings regarding his poor attitude .... After placing orders, the claimant had to make a correction in the preparation of a meal .... R:8
+The Commission’s Special Examiner made no further findings of fact. R:18.
+The findings of fact by the Commission are conclusive and binding if supported by the evidence and in the absence of fraud. Section 60.1-67.1, Code of Virginia (1950), as amended; Unemployment Compensation Commission of Virginia and John D. Jones v. Dan River Mills, Inc., 197 Va. 816, 817 (1956); Virginia Employ ment Commission v. William H. Coleman, 204 Va. 18, 23 (1963). The court may not delve into the transcripts except to test the sufficiency of the Commission’s factual basis for its decision. This court’s review jurisdiction is confined to questions of law. Section 60.1- 67.1, Code of Virginia (1950), as amended; U. C. C. of Va. v. Dan River Mills, 197 Va. 816, 817 (1956).
+The factual determinations made by the Appeals Examiner are insufficient to support the Commission’s conclusion of employee misconduct. Though evidence adduced at the hearing may have given rise to employee misconduct, further fact-finding is beyond the purview of this court.-
+The Commission has consistently held that the burden is on the employer to prove misconduct. Wilkes v. V. E. C., Case No. 7703, filed June 19, 1975, (Richmond Circuit Court, Division I). Employee misconduct may be found either for deliberate violation of a company rule or for behavior that manifests a willful disregard of the employer’s interests. Branch v. V. E. C., 219 Va. 609, 611 (1978). This definition of misconduct comports with the beneficent aims of the liberally construed statute. U. C. C. v. Collins, 182 Va. 426 (1944).
+"[T]wo warnings regarding his poor attitude" (R:8) is not sufficiently egregious behavior to constitute misconduct.
+There being no findings of fact rising to the level of employee misconduct, this court holds that the claimant is not disqualified as a matter of law from collecting unemployment benefits based upon 60.1- 58(b) of the Code of Virginia (1950), as amended.
+Even if this court were liberally to construe the Appeals Examiner’s restatement of allegations and contentions as factual determinations, the claimant’s inability to cooperate with his fellow workers does not rise to the level of "misconduct" as enunciated in Branch v. Virginia Employment Commission, 219 Va. 609 (1978).
+The crux of the Appeals Examiner’s opinion focuses upon claimant’s attitudinal problems, specifically, his hot temper. The employer discharged the claimant "because he displayed an inability to cooperate with his fellow coworkers and his attitude was improper." (R:8(b)) The Appeals Examiner may be correct in stating that "[i]t’s proper to assume that the employer has the right to expect cooperation from an employee." It does not follow, however, that if this type of expectation goes unfulfilled the employee is conclusively guilty of misconduct. Mere displeasure with an employee’s conduct does not show misconduct on the part of the claimant. Decision of Commission (6039-C), July 23, 1973. Likewise, the employer’s unhappiness with his employee’s attitude does not constitute misconduct. Decision of Commission (6039-C), July 23, 1973. "[WJhen it appears that the General Assembly has acquiesced in the Commission’s construction of the statute, ‘such construction is entitled to great weight with the court.’ " Branch v. Virginia Employment Commission, 219 Va. 609, 612 (1978), quoting Dan River v. Unemployment Commission, 195 Va. 997, 1002 (1954).
+The Appeals Examiner may have found that the employee’s poor attitude, when coupled with some specific act adverse to his employer’s interest, is sufficient to justify a conclusion of willful misconduct. Decision of Commission (SUA-69), June 16, 1976. However, the Examiner’s decision, as supported by his "Findings of Fact" reveal no such specific act. The Commission made no additional factual determinations.
+This court holds that mere displeasure with an employee’s attitude does not constitute employee misconduct according to the Branch test. Absent misconduct on his part, the claimant is entitled to unemployment benefits.
+This court does not reach the question regarding the Commission’s denial of claimant’s proffer of additional evidence on review, nor the Commission’s refusal to subpoena the witness with such evidence.
