@@ -1,0 +1,27 @@
+---
+court: "Fredericksburg Circuit Court"
+decided: "1983-10-03"
+citations: ["6 Va. Cir. 68"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mack Rhodes and Thomas Harris, Co-Administrators, etc., v. John W. Painter et al."]
+source_url: "https://static.case.law/va-cir/6/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3784374
+cites_cases: ["207 Va. 1032", "254 F.2d 224", "575 F.2d 922"]
+---
+
+# Rhodes v. Painter
+
+## Majority (By JUDGE JOHN A. JAMISON)
+
+By JUDGE JOHN A. JAMISON
+After hearing argument of counsel on Monday, September 26, 1983, I received Mr. Goodman’s letter of September 27 th with enclosures consisting of the case of Semler v. Psychiatric Institute of Washington, D.C., 575 F.2d 922 (D.C. Cir. 1978), photocopy of Sections 8.01-25 and 8.01-50 of the Code of Virginia, photocopy of the case of Ellis B. Grady, Jr., Administrator v. Richard Eugene Irvine, 254 F.2d 224 (4th Cir. 1958), and the first page of the Virginia case of Wilson v. Whitticar, Administrator, 207 Va. 1032 (1967). Also received was Mr. Maginnis’s letter and his proposed order permitting an instruction to the jury.
+I have studied the cases cited and have gone back over the memoranda in the Court file with care. This has resulted in my agreeing with Mr. Goodman’s position that in the present posture of Virginia law such a "double barrelled" or alternative instruction as proposed by Mr. Maginnis is without basis in our law, at this time. While the case of Semler v. Psychiatric Institute, supra, a District of Columbia federal appellate case, is of course not binding on this Court, it .contains cogent reasoning and is so persuasive in analyzing the present state of Virginia law on wrongful death and of our survival act that in my opinion it is a voice of authority which can be hardly be ignored. On page 925 is the following language:
+It is the policy and purpose of Virginia under this Act not to allow two actions in favor of the personal representative, one representing the estate and the other the beneficiaries, against the same defendant for the same wrong. Although Virginia does have a general survival statute, the statute does not apply to wrongful death claims and hence, the survival statute does not provide an additional basis of recovery for wrongful death. Indeed, the availability of the wrongful death remedy in Virginia is predicated upon the non-availability of the survival remedy, (italics not supplied)
+Likewise, it would seem certain to me that the Virginia wrongful death statute does not provide an additional recovery under the survival statute. The two are clearly separate types of action, as the well written analysis of Sender explains. The problem would not have existed if the suit could have been brought in the District of Columbia where both the Survival Act and Wrongful Death Act each give rise to two independent and separately maintainable causes of action. That is not the case in Virginia. There must be an election in an appropriate case where factually warranted, of one cause or the other since neither cause includes recovery under the other.
+The Plaintiff here has elected to proceed under the Virginia Wrongful Death Act and a reading of the Motion for Judgment, notwithstanding the fact that the specific nature of the action is not delineated, clearly shows Plaintiff’s intention. As stated in Sender.
+Under Virginia’s remedial scheme, the Wrongful Death Act is designed to be the exclusive basis of recovery for wrongful death; it exists in lieu of an action based on the survival of the deceased’s original claim and is intended to replace that claim. . . Thus, recovery under the Wrongful Death Act is conceptually predicated on the non-survival of the deceased’s original claim. While the District of Columbia views wrongful death and survival actions as complementary, the Commonwealth of Virginia views them as mutually exclusive. It is clear, then, that a necessary element in the Virginia court’s judgment was the determination that the deceased’s original claim did not survive, (italics not supplied)
+I repeat unnecessarily of course, that this Court is certainly not bound by that language but I must say that I could not compose a plainer explanation of the position I feel required to take. The ultimate result of this reasoning in the Court’s decision here is that although we do not have a Virginia case "on all fours" with Sender, I am constrained to adopt its reasoning in preventing the jury from being permitted to select another alternative under which to award recovery if the evidence does not justify recovery under the wrongful death statute, Virginia Code 8.01-50. The day may come when Virginia will adopt such a statute as exists in the District of Columbia. It does make sense and is certainly a modern and reasonable approach but in the present state of the law here, I feel I would be in error to permit the giving of an instruction such as Mr. Maginnis requests.
+I do not believe it necessary that a formal order be submitted at this time. A proposaed instruction can be submitted and refused at the conclusion of the evidence at trial. This opinion being a part of the record, it can be referred to if Mr. Maginnis feels that it is necessary to proffer the instruction and the Court refuses it at that time.
