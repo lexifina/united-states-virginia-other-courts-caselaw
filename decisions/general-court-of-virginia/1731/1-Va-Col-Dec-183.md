@@ -1,0 +1,23 @@
+---
+court: "General Court of Virginia"
+decided: "1731"
+citations: ["1 Va. Col. Dec. 183"]
+reporter: "va-col-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eppes vs Redford"]
+source_url: "https://static.case.law/va-col-dec/1/cases/0R74-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6038750
+---
+
+# Eppes v. Redford
+
+## Majority
+
+The Pit. Declares that one Thomas Hulsey was Indebted to him £.12. by Bond, that he intended to sue him upon the Bond And that the Deft, in Consideration the Pit. wou’d forbear promised to pay it for the Deft, and avers forbearance. Upon Non Ass’t we proved the Debt due from Tho’s Hulsey to the Pit. and that the Deft, promised to pay it, and we likewise proved that Hulsey who is since Dead was at the time of the Promise in the Defts. Service But it being insisted at the Trial that we ought to prove the Consideration expressly as it is laid in the Decl. the Jury found a Special Verd’t that Hulsey was Indebted as the Pit. in the Decl. hath set forth, and that the Deft, promised to pay it And the Question is whether this Evidence will Support the Declaration and prove the matter in issue
+I conceive it does For there are Cases. Cro. Eliz. 201. Huth. 50. [184] Where it is say’d the Consideration must be proved Yet we are not obliged to prove the Consideration precisely as it is laid This appears in Linley’s Case. Clayton 145. Where it is said the Judge did at first Hesitate whether the Pit. did not fail in his whole Cause, because the Consideration was not as he had made his Case but was after satisfyed that the Law was otherwise But a Case more strong to this purpose is that of Holdich and Broderick 2 Rolls. Abr. 681. pi. 6. Where the Pit. declared that I. S. was Indebted to him 1130^. & Appointed the Deft, to pay part of it That afterwards I. S. paid 1050;£. & in Consideration the Pit. wou’d forbear the rest 64;£. till ano’r Person shou’d pay the Deft, that Sum which he owed him The Deft, promised to pay it The Deft, pleaded Non Ass’t and the Promise was proved And the Deft, wou’d have discharged himself by proveing that the Person that owed him the 64£. had not paid it But by the Opinion of all the Judges at Serjeants Inn in Fleet Street Except Jones and Littleton, The Issue is only on the Promise and that Evidence wou’d not help the Deft., tho’ it is shewed the Pit. had no Cause of Action But he Shou’d have Traversed the payment of the 64. and Confessed the Promise
+Then in this Case as we have proved part of the Consideration [So] That H. was Indebted to the Pit. nothing remains but the Pits, promise to forbear which is the rest of the Consideration
+It was admitted at the trial that the Pit. need not prove his Averment But that that ought to come from the Deft, if the Pit. did not forbear Now upon the Evidence of the Debt & the Defts. promise to pay it, the Pits. Promise to forbear shall be intended, for it cannot be supposed that the Deft, shou’d be chargeable upon his Promise if the Pit. did not forbear Hulsey Nor can it be supposed that the Defts. Promise was made on any other Consideration than that of forbearing the Principal Debtor So is the Case of Sadler and Hawkes 1. Rol. Abr. 27. pl. 49. 1. Danv. 56. Where if A. is Indebted to B. and C. Promises that if A. will not pay him in Convenient time he will This will be a good Consid’n for B. to have an Action ag’t C. because it must be intended there was a Promise to forbear A. in the mean time
+According to that Case if the Pit. here had no need to have set forth the Consid’n as'he has done since the Law wou’d intend it to be so Then'it must follow that tho’ it is not expressly proved that the Deft. Actually spoke these words “ In Consideration that you shall forbear [185] Hulsey I promise to pay you the money, But only that he promised to pay the Debt without more words, that Evidence is sufficient to charge him Because the Agreem’t of the other side to forbear must be necessarily Intended and implyed altho’ nothing was say’d about it
+And the Court in April 1732. Adjudged that the Evidence did Support the Issue, tho’ it is ag’t the Opinion of all the bar Yet I think it was a very good Judgment It being admitted that the Pit. did forbear Hulsey Otherwise no undertaking of one Person to pay the Debt of another can be of any force unless he pronounces the words as they are laid in the Decl. Whereas the pronouncing those words cannot be material when the Substance of the Consideration was forbearing Hulsey and Accepting the Deft, for his paymaster which was allowed to be so upon the Trial
