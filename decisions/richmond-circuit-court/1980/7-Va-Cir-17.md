@@ -1,0 +1,27 @@
+---
+court: "Richmond Circuit Court"
+docket: "Case No. D-8063-3"
+decided: "1980-07-18"
+citations: ["7 Va. Cir. 17"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hartford Accident and Indemnity Co. v. Liberty Mutual Ins. Co. et al."]
+source_url: "https://static.case.law/va-cir/7/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3940112
+cites_cases: ["123 W. Va. 478", "127 S.E.2d 65", "182 Va. 567", "20 S.E.2d 700", "203 Va. 760", "29 S.E.2d 856", "34 S.E. 900", "78 Va. 65", "97 Va. 734"]
+---
+
+# Hartford Accident & Indemnity Co. v. Liberty Mutual Ins.
+
+## Majority (By JUDGE WILLARD I. WALKER)
+
+By JUDGE WILLARD I. WALKER
+This case is before the court for a declaratory judgment to resolve certain insurance coverage questions which arose out of an accident involving a rented vehicle. Hartford Accident and Indemnity Company (Hartford), the petitioner, is the insurer of the family automobile of the lessee, Walter Neighbors. Liberty Mutual Insurance Company (Liberty), the respondent, is the insurer of the lessor of the vehicle, Koons Leasing Co., Inc. A partial ruling has been made from the bench with one issue reserved for this decision. I have held that restrictions on the Koons lease prohibiting drivers under twenty-one years of age from using the vehicle were not void as against public policy. I further held that Koons Leasing had granted permission for the lessee's daughter to drive its vehicle, but that such permission had been granted because of Walter Neighbors^ fraudulent representation of his daughter s age. The issue remaining to be addressed is whether Koons Leasing had a duty to make further inquiry regarding Cynthia's age. After reviewing the facts and arguments of counsel, I find that no duty existed.
+The facts as stipulated by the attorneys are as follows: Mr. Walter Neighbors, in need of a larger vehicle than the family automobile for bringing his daughter’s possessions home from college, went to Koons Leasing to make arrangements to lease a van. At that time he was informed that no one under 21 was allowed to drive the van. This restriction also appeared on the written lease agreement. He requested that his wife and his father-in-law be included on the list of approved drivers, and specified that they were both over 21. When his wife and father-in-law arrived at the college, they found that the daughter, Cynthia, planned on returning with them, rather than with others, as previously decided. Mr. Neighbors telephoned Koons Leasing and requested that his daughter’s name be added to the list of drivers. When he was asked by the Koons’s employee whether his daughter was over 21, he responded that she was an adult. The employee added the daughter's name to the list. Cynthia, at the time, was 18 years of age and a licensed driver. Mr. Neighbors later told a Liberty investigator that he guessed he remembered being told that no one under 21 was to drive the van. Mrs. Neighbors, at her daughter's request, gave the keys to Cynthia so that she could visit some friends. On this trip, Cynthia was involved in an accident after failing to stop for a red light.
+I find that Koons Leasing was under no duty to make further investigation as to the true age of Cynthia Neighbors. A person can justifiably rely on the representation by another and need make no further inquiry as to its truthfulness. Lowe v. Trembles, 78 Va. 65 (1883).
+Exceptions do exist to this rule, but they are not applicable on these facts. It is generally held that, in an arms-length transaction, a person cannot justifiably rely on a statement, particularly where the means of knowledge are at hand and available to both parties. Costello v. Larson, 182 Va. 567, 29 S.E.2d 856 (1944). However, this follow-up transaction, after the original leasing agreement was made and after the lessee had possession of the car, does not qualify as an arms-length transaction. In the original transaction the employee told Mr. Neighbors that no one under 21 was to drive the van, and Mr. Neighbors responded that his wife and father-in-law were over 21. In the later telephone call, the employee again asked if Mr. Neighbors’s daughter was over 21. Koons Leasing had already received supposedly reliable information from Mr. Neighbors and had no reason to doubt his word on the subsequent contact.
+Another exception is when the defrauded party has initiated a separate inquiry. Harris v. Dunham, 203 Va. 760, 127 S.E.2d 65 (1962). This rule is not applicable to these facts. The rule also does not apply when the defrauded party has been provided with an opportunity to investigate and has discovered the facts. West End Company v. Claiborne, 97 Va. 734, 34 S.E. 900 (1900). The Koons Leasing employee had no opportunity in a telephone call to verify whether Cynthia Neighbors was over 21.
+Finally a person is not justified in relying upon a statement when the circumstances surrounding it cast suspicion on its truthfulness or put the inquirer on his guard. Morrison v. Bank of Mount Hope, 123 W. Va. 478, 20 S.E.2d 700 (1942). Koons Leasing, having had a previous transaction with Mr. Neighbors, would have no reason to be suspicious when he called to get permission for an additional driver.
+Finding that Koons Leasing was under no duty to investigate the truthfulness of Mr. Neighbors’s statement, I hold that Hartford is the insurer obligated in this matter.
