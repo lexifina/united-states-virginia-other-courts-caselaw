@@ -1,0 +1,40 @@
+---
+court: "Fairfax County Circuit Court"
+docket: "Case No. (Chancery) 162430"
+decided: "2000-02-09"
+citations: ["52 Va. Cir. 48"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael Zeaman v. Anna Zeaman"]
+source_url: "https://static.case.law/va-cir/52/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5728847
+cites_cases: ["165 Va. 196", "193 Va. 320", "2 Va. App. 16", "241 Va. 547", "339 U.S. 306", "Va. Code Ann. § 8.01-623"]
+---
+
+# Zeaman v. Zeaman
+
+## Majority (By Judge M. Langhorne Keith)
+
+By Judge M. Langhorne Keith
+This matter came on for a hearing on Friday, February 4, 2000, on the Defendant’s Motion to Dismiss the Complainant’s Bill of Review. At the conclusion of the hearing, I took the matter under advisement. For the reasons set forth below, I now deny the Motion to Dismiss.
+The Zeamans were divorced by Final Decree of this Court on December 6,1985. That case was styled Anna Zeaman v. Michael Zeaman, In Chancery No. 88566. The Final Decree incorporated a Property Settlement Agreement (“PSA”), which the parties had entered into on September 25,1985. Among the terms of the PSA was an agreement regarding Mr. Zeaman’s pension plan with his employer, AT&T. Paragraph 27 of the PSA states, in pertinent part:
+The Husband covenants and agrees that the Wife shall be entitled to receive when, as, and if he receives any pension from his employer, AT&T, $360.00 per month beginning with husband’s retirement, and the same shall be paid each and every month for so long as the Husband receives his retirement....
+On June 7,1999, Ms. Zeaman filed a Petition for a Rule to Show Cause, alleging that Mr. Zeaman had “cashed in” and liquidated his AT&T pension plan and had made no payments to her in violation of this court’s December 6,1985, Final Decree. The Petition prayed that Mr. Zeaman:
+show cause, if any he can, why he should not be found in contempt and punished for his defiance of this Court’s Order entered December 6,1985; that he be required to secure a performance bond to insure his future compliance with this Court’s Order; and for all Petitioner’s attorney’s fees and costs occasioned by his willful misconduct and for such other and further relief as this Court deems appropriate under the circumstances.
+On June 14,1999, the Court entered an Order granting the Petition for a Rule to Show Cause and further ordering Michael Zeaman to appear on June 25,1999, “and show cause, if any he can, as to why he should not be found in willful contempt of this Court for his intentional violations of this Court’s Order of December 5,1985.” On June 25,1999, Mr. Zeaman did not appear, and the Court held the Show Cause hearing in his absence. On June 28,1999, the Court entered an Order finding Mr. Zeaman in contempt “for his failure to abide by [the terms of] this Court’s Final Decree of December 6,1985____” The Order also entered judgment against Mr. Zeaman, in the amount of $133,920.00, plus interest at a rate of 9% from July 1,1998, the date on which Mr. Zeaman’s payments to Ms. Zeaman were supposed to have begun.
+Mr. Zeaman filed a Bill of Review in this Court on August 26,1999. He alleges that the June 28,1999, Order contains two categories of errors of law apparent on the face of the record. He avers that (1) the Court denied him due process of law; and (2) the Court misapplied the law of damages relating to a breach of contractual obligation to pay money in installments. Ms. Zeaman, the defendant here, filed a Motion to Dismiss the Bill of Review, alleging that the June 28,1999, Order became final after 21 days had passed and no appeal or petition for rehearing had been filed. She further avers that the Bill of Review should not be substituted for Mr. Zeaman’s appellate remedies, and that in any event, the relief afforded by the Court in the June 28,1999, Order was appropriate under the circumstances.
+The Supreme Court of Virginia’s most recent pronouncement on Bills of Review came in Blunt v. Lentz:
+A bill of review does not lie to review or correct errors of judgment in the determination of facts. If there be error in this particular, after a final decree, it can be corrected only by an appellate court. But if error of law be apparent from inspection of the record in the cause and a final decree has been entered, a proper case for a bill of review is prima facie presented.
+Blunt v. Lentz, 241 Va. 547, 550 (1991), quoting Harrington v. Woodfin, 193 Va. 320, 325 (1952).
+Where a bill of review is filed on the grounds of error on the face of the record, the decree complained of must be contrary to some statutory enactment or some principle or rule of law or equity recognized and acknowledged, or settled by decision, or be at variance with the forms and practice of the Court. 3A Michie’s Jurisprudence (2d), Bill of Review, § 15. A bill of review ought to specify with some degree of accuracy and definiteness the errors relied upon. Id. at § 17. Va. Code Ann. § 8.01-623 further provides that a Bill of Review must be filed within six months of entry of the final decree being excepted to.
+Mr. Zeaman contends that the June 28, 1999, Order violates the law of damages by accelerating all the future installments as if they were due instantaneously when there was no acceleration clause in the PSA. Mr. Zeaman contends that the largest amount he could have been liable for at the time of the June 25,1999, hearing was $3,920.00 (plus interest), which would have represented 12 months’ worth of arrearages at $360.00 per month. The Court agrees with Mr. Zeaman’s contention that in Virginia, absent an acceleration clause, damages arising from the breach of a contract to pay money in installments are limited to the amount of unpaid installments. Thus, the June 28,1999, Order appears to contain an error on the face of the record.
+There is no provision in Virginia procedure for a “Motion to Dismiss” a Bill of Review; rather, a demurrer is the proper pleading to be filed. 3A Michie’s Jurisprudence (2d), Bill of Review, § 24. However, in chancery proceedings, it is the substance of the motion that is controlling. Since the court has already read the pleadings and heard arguments on this matter, Ms. Zeaman’s “Motion to Dismiss” will be treated as a demurrer. See Harrington v. Woodfin, 193 Va. at 326 (1952).
+Mr. Zeaman also contends that his Due Process rights were violated when judgment for a sum certain was entered against him, when all that he had been noticed for and all that had been prayed for in the Petition for the Rule to Show Cause was for the setting of a performance bond. The Court agrees with Mr. Zeaman. The Virginia Court of Appeals has stated the rule thusly:
+Fundamental rules of pleading provide that no court can base its judgment or decree upon a right which has not been pleaded and claimed .... No court can base its decree upon facts not alleged, nor render its judgment upon a right, however meritorious, which has not been pleaded and claimed ... A decree cannot be entered in the absence of pleadings upon which to found the same, and if so entered is void.
+Boyd v. Boyd, 2 Va. App. 16, 18 (1986); quoting Potts v. Mathieson Alkali Works, 165 Va. 196, 207 (1935).
+The U.S. Supreme Court has also held that pleadings must give sufficient notice of the claim and that failure to do so is a violation of due process.
+The office of pleadings is to give notice to the opposing party of the nature and character of the claim, without which the most rudimentary due process safeguards would be denied.
+Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306, 314 (1950).
+Without reaching a final decision on the actual merits of Mr. Zeaman’s Bill of Review and applying the standard of Va. Code Ann. § 8.01-623, as well as Blunt v. Lentz and Harrington v. Woodfin, the Court finds that the Bill of Review properly states a cause of action. Therefore, Ms. Zeaman’s Motion to Dismiss the Bill of Review is denied. A full hearing on the merits of the Bill of Review will still need to be conducted.
