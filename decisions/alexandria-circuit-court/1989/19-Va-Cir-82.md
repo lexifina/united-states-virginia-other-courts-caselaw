@@ -1,0 +1,30 @@
+---
+court: "Alexandria Circuit Court"
+docket: "Case No. (Law) 12198"
+decided: "1989-12-11"
+citations: ["19 Va. Cir. 82"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cullen Jones, Administrator of Mary Beth Jones Burton v. Circle Terrace Hospital et al."]
+source_url: "https://static.case.law/va-cir/19/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3852538
+cites_cases: ["231 Va. 228"]
+---
+
+# Jones v. Circle Terrace Hospital
+
+## Majority (By JUDGE ALFRED D. SWERSKY)
+
+By JUDGE ALFRED D. SWERSKY
+This matter is before the Court on defendants’ pleas of the statute of limitations. The parties agree that if the tolling provisions of Code of Virginia, Section 8.01- 229(E)(3) apply to this action for wrongful death, then the action is timely commenced. Defendants further move to dismiss on the grounds that this filing, even if timely, is a nullity because an improper party has begun the action.
+Defendants contend that the tolling provisions of Section 8.01-229(E)(3) do not apply to actions for wrongful death. They argue from the plain language of § 8.01-244 and rely upon the authority of Horn v. Abernathy, 231 Va. 228 (1986). Since § 8.01-244 governs, they argue, no additional six months for the filing of an action for wrongful death is granted. That is, they contend that the action must be filed within the remaining period of the statute of limitations.
+Plaintiff argues that the clear language of Section 8.01- 229(E)(3) governs this action and grants him an additional six months from the date of the nonsuit order to refile. Further, plaintiff argues that the order granting the nonsuit in the previous matter did provide for an additional six months in which to refile.
+The pleas of the statute of limitations must be overruled.
+The argument of the plaintiff that the nonsuit order itself provided for an additional six months is without merit. No signature on behalf of any of the defendants appears on the order. Further, it does not appear from the record that any hearing was held before that Court prior to the entry of the order. The six months extension contained in that order did not become the law of this case.
+However, while it is true that § 8.01-244(B) does have within its terms provision for the refiling of any wrongful death action that abates or is dismissed other than on the merits, these terms do not purport to be the exclusive limitation upon the refiling of any action. The question then becomes whether or not § 8.01-229(E)(3) applies. By its express terms, § 8.01-229(E) applies to "any action" and § 8.01-229(E)(3) states that if "such action" is nonsuited, the six months extension provision would apply. The word "action" is defined in § 8.01-2 as including "all civil proceedings whether at law, in equity, or statutory in nature and whether in circuit courts or district courts." Emphasis added.
+Defendant’s reliance on Horn is misplaced. While there is some language that might indicate the Court held that the entire tolling scheme as set forth in § 8.01-229 did not apply to actions for wrongful death, a close reading of that case belies such an interpretation. Section 8.01-228 defines the scope of limitations and says "every action for which a limitation period is prescribed by law must be commenced within the period prescribed in this chapter unless otherwise specifically provided in this Code." (Emphasis added.) This section then goes on to state that when the term "personal action" is used, it includes an action for a judgment for money whether for damages to person or property. It is significant that the only place in this chapter in which the term "personal action" appears is Section 8.01-229(B). The legislature intended to exclude the operation of § 8.01-229(B)(1) from wrongful death actions by its use of the term "personal action." It is equally significant that this term does not appear in any other subsection of § 8.01-229. Moreover, the language in Horn emphasizes that § 8.01-244 begins with an exclusion of the operation of § 8.01-229(B) and indicates to this Court that the Supreme Court did not intend to nullify all tolling provisions found within § 8.01-229 as to wrongful death actions. Only the tolling provisions found in § 8.01-229(B)(1) are being dealt with in Horn.
+The statutes (§ 8.01-224(B) and § 8.01-229(E)(3)) do not contradict one another. In giving effect to the intent of the legislature, the statutes can be harmonized. This is apparent by virtue of the revisers’ note to Section 8.01-244 that indicates certain tolling provisions relating to a defendant’s obstruction of prosecution of the claim had been transferred to § 8.01-229(D). If one looks at subsection D of § 8.01-229, it refers only to "an action" and no reference is made specifically to actions for wrongful death. The Court, therefore, concludes that the six months extension provision for actions that are non-suited as found in § 8.01-229(E)(3) does apply to actions for wrongful death.
+Defendants next argue that an improper plaintiff has brought this matter, if timely filed. They argue that the plaintiff who suffered the nonsuit was Cullen B. Jones, III, the brother of the deceased. The defendants refer to paragraph three of the Motion for Judgment which alleges that the plaintiff is the father of decedent and has been appointed by this Court as administrator. Plaintiff argues that the confusion is caused by a similarity in names of the father and brother of the decedent. They argue that, indeed, the decedent’s brother is the personal representative of the estate, and they intend this suit to be brought in his name. It is not a situation of a misnomer; however, this matter is easily disposed of by granting leave to the plaintiff to amend paragraph three with regard to the allegation that the plaintiff is the father of decedent.
+For these reasons, the pleas in bar of the defendants will be denied.
