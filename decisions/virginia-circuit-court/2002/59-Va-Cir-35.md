@@ -1,0 +1,60 @@
+---
+court: "Virginia Circuit Court"
+docket: "Case No. (Law) 24177"
+decided: "2002-03-18"
+citations: ["59 Va. Cir. 35"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William D. Palum v. John C. Quinn"]
+source_url: "https://static.case.law/va-cir/59/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3776679
+cites_cases: ["2 Va. (2 Wash.) 219", "240 Va. 12", "240 Va. 140", "250 Va. 436", "257 Va. 579", "261 Va. 203", "393 S.E.2d 390", "393 S.E.2d 394", "463 S.E.2d 836", "515 S.E.2d 124", "540 S.E.2d 867"]
+---
+
+# Palum v. Quinn
+
+## Majority (By Judge James H. Chamblin)
+
+By Judge James H. Chamblin
+The case came before the Court oh March 1,2002, for argument on the Motion to Dismiss filed herein by the Defendant, John C. Quinn. The parties agreed that, for purposes of the Motion to Dismiss, the Court may consider the evidence presented at the hearing on February 7, 2002, on the Defendant’s previously filed Motiori to Quash Service and Motion to Dismiss.
+For the reasons hereinafter set forth, the Motion to Dismiss is denied.
+Facts
+The parties agreed at argument on March l, 2002, that, for the purposes of deciding the Motion to Dismiss, I could consider the evidence presented at the hearing on February 7,2002, on the Defendant’s earlier Motion to Quash Service and Motion to Dismiss.
+The following facts are based upon (1) findings of fact from the evidence presented on February 7,2002; arid (2) the pleadings and other papers filed in this case and the prior case between the parties, Law No. 20857.
+The accident giving rise to this personal injury litigation occurred oh May 30,1996.
+On May 28,1998, the Plaintiff filed his first Motion for Judgment, Law No. 20857. The Defendant was served with process on May 26, 1999. The Defendant was served personally at 504 Hunt Club Road, Apartment 206, Blacksburg, Virginia. On the first day of trial, May 22, 2000, the Plaintiff took a nonsuit. The order of nonsuit was entered June 1,2000. At the time of the nonsuit, the Plaintiff was aware that the Defendant resided with his mother at 45830 Woodland Road, Sterling, Virginia. He continued to reside there until January 2001 when he returned to school at Virginia Tech, residing in Blacksburg.
+On November 21,2000, counsel for the Plaintiff requested a new address or change of address for the Defendant from the Postmaster in Blacksburg. The Postmaster replied to Plaintiffs counsel that the Defendant’s new address was the Woodland Road address in Sterling. This information was correct in November 2000 because the Defendant was in fact residing with his mother in Sterling at that time.
+On November 22, 2000, the Plaintiff filed his second motion for judgment, this case, Law No. 24177. He did not request service on the Defendant at that time.
+On August 11,2001, the Defendant had finished school at Virginia Tech and came to reside with his father at 10521 Cedar Creek Drive, Manassas, Virginia. He has continued to reside with his father since that time. At no time after August 2001 did the Defendant return to reside with his mother at the Woodland Road address.
+On October 13, 2001, counsel for the Plaintiff again requested a new address or change of address for the Defendant from the Postmaster in Blacksburg. The Postmaster replied to Plaintiffs counsel that the Defendant was not known at the Hunt Club Road address in Blacksburg and that there was no such address.
+On November 12, 2001, Plaintiffs counsel requested a new address or change of address from the Postmaster in Sterling. On November 13, 2001, the Postmaster advised Plaintiff s counsel that there was no change of address order on file for the Defendant at the Woodland Road address.
+On November 14, 2001, the Plaintiff requested the Clerk to prepare process for service on the Defendant.
+On November 19, 2001, the Defendant’s mother was served at the Woodland Road address in Sterling. The return of service states, “That on 11-17-2001 at the time of 12:17 p.m., at the address of45830 Woodland Road, Sterling, VA 20166, substitute service was made on John C. Quinn by serving his mother (Name refused), an adult female who resides at the same address as that of the defendant.”
+In November 2001, when his mother was served, the Defendant (1) received mail at the Woodland Road address in Sterling; (2) used a bank account with the Woodland Road address; (3) had a valid Virginia driver’s license with the Woodland Road address; and (4) had a motor vehicle registered in Virginia with the Woodland Road address. However, there was no evidence that Plaintiffs counsel was aware in November 2001 of any of the above four facts except that the Defendant received mail at the Woodland Road address.
+On December 10,2001, the Defendant filed a Motion to Quash Service and a Motion to Dismiss. At the hearing on February 7,2002, the Motion to Quash Service was granted because the Defendant’s mother was not at his usual place of abode when she was served. See Va. Code § 8.01-296(2)(a). The Motion to Dismiss, based on the failure to serve the Defendant within one year under Rule 3:3 and Va. Code § 8.01-275.1 was denied without prejudice to the Defendant to file any further motion or motions he may be advised because of the return of service filed February 7,2002 (the Court was not aware it had been filed until after the hearing concluded) indicating that the Defendant was served by posting on February 5, 2002, at the Manassas address. Rule 3:3 does not apply unless there has been service of process. Gilpin v. Joyce, 257 Va. 579, 515 S.E.2d 124 (1999).
+On February 22,2002, the Defendant filed the present Motion to Dismiss because he was not served with process within one year of the commencement of the action. The motion for judgment was filed November 22, 2000, and the Defendant was served by posting on February 5,2002.
+Process in this action, Law No. 24177, never reached the Defendant in any manner until he was served by posting on February 5, 2002. However, the Defendant was advised by his mother in early December 2001 that she had been served. On the day the Defendant’s mother was served, she so advised the Defendant’s attorney. The Defendant’s mother returned the papers served on her to the office of counsel for the Plaintiff. She never gave a copy of them to the Defendant.
+Legal Analysis
+The Defendant’s Motion to Dismiss relies upon the portion of Rule 3:3(c) which provides, “No judgment shall be entered against a defendant who was served with process more than one year after the commencement of the action against him unless the court finds as a fact that the plaintiff exercised due diligence to have timely service on him.”
+Also, Va. Code § 8.01-275.1 states:
+Service of process in an action or suit within twelve months of commencement of the action or suit against a defendant shall be timely as to that defendant. Service of process on a defendant more than twelve months after the suit or action was commenced shall be timely upon a finding by the court that the plaintiff exercised due diligence to have timely service made on the defendant.
+There is no variance between the rule and the statute. Waterman v. Halverson, 261 Va. 203, 207, 540 S.E.2d 867 (2001). The purpose of both is to promote the timely prosecution of lawsuits and to avoid abuse of the judicial system.
+Under Rule 3:3(c) and Va. Code § 8.01-275.1 effective service of process within one year of the commencement of the action is considered timely. If a plaintiff does not effect service within the one year period, then service is timely and a condition precedent to a judgment against the defendant only if the plaintiff exercised due diligence to have timely service made on the defendant.
+The Plaintiff attempted to have the Defendant served only once within the one-year period, and that service was quashed for the reasons stated above. The only other service is the posting service effected on February 5, 2002, more than fifteen months after the action was commenced.
+The issue is whether the Plaintiff exercised due diligence to have timely service made on the Defendant.
+As stated in Dennis v. Jones:
+“The noun “diligence” means “devoted and painstaking application to accomplish an undertaking.” Webster’s Third New International Dictionary 633 (1981). Cf. STB Marketing Corp. v. Zolfaghari, 240 Va. 140, 144, 393 S.E.2d 394, 397 (1990), decided today (defining due diligence to reasonably discover in context of statute of limitations in action for fraud). The determination whether diligence . has been used is a factual question to be decided according to the circumstances of each case. Mackie v. Davis, 2 Va. (2 Wash.) 219, 226, 228 (1796).
+240 Va. 12,15, 393 S.E.2d 390-16 (1990),
+I will infer from the evidence that the Plaintiff knew that the Defendant had as his usual place of abode the Woodland Road address when the Plaintiff took his nonsuit in May 2000. The information received by the Plaintiff in October and November 2001 from the postmasters in Blacksburg and Sterling would have led the Plaintiff to reasonably believe that the Defendant was receiving mail at his mother’s address on Woodland Road.
+Thus, the Plaintiff had reason to believe that the Defendant’s usual place of abode was on Woodland Road when the Plaintiff attempted service on the Defendant at that address in November 2001.
+While the definition of “due diligence” approved in Dennis appears to impose upon a plaintiff a strong duty to accomplish timely service, I think that the duty needs to be considered in relation to the reason for the rule and the statute. It is best described by Professor W. Hamilton Bryson in his book on Virginia civil procedure as follows:
+Since the trial court has the discretion to wáive the rule where it finds the plaintiff to have behaved in good faith, the rule cannot be considered to be a jurisdictional rule; it is, rather, an administrative, quasi-penal one.
+The purpose of Rules 2:4 and 3:3(c) is to prevent harassment by use of the judicial process. It is to be noted that the judge cannot dismiss the case at all unless he has found bad faith or culpable negligence on the part of the plaintiff, the bad faith being the failure to exercise due diligence.
+W. H. Bryson, Virginia Civil Procedure (3d ed.) at 110.
+I think that the Plaintiff acted in good faith. He had a reasonable belief that the Defendant resided with his mother at the Woodland Road address when service was made on the Defendant’s mother on November 17, 2001. The law allows the Plaintiff the one-year window for service on a defendant. A plaintiff can completely ignore his case for 364 days and then have the defendant properly served on the 365th day and failure to use due diligence would never be an issue. However, if the defendant is properly served on the 366th day, then due diligence does become an issue. The line must be drawn somewhere, of course, but because only one day can make a big difference under the rule and statute, I think that viewing it as an administrative rule rather than as a jurisdiction rule, as done by Professor Bryson, is more appropriate.
+The potential harm to the Defendant must also be considered. He was certainly aware that the Plaintiff would probably refile after the nonsuit. The Defendant was not sued for the second time unexpectedly. The Defendant’s attorney was aware that the Plaintiff had at least attempted service within the one year. The Defendant has shown no prejudice in defending the second motion for judgment because he was not validly served until a little over fifteen months after the action was instituted.
+Under all the circumstances of this case, I do not feel that this case should be dismissed with prejudice because of the actions or inactions of the Plaintiff.
+The Motion to Dismiss is denied.
+Under Gilbreath v. Brewster, 250 Va. 436, 463 S.E.2d 836 (1995), a dismissal for failure to effect timely service is with prejudice.
