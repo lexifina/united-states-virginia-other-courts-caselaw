@@ -1,0 +1,37 @@
+---
+court: "Virginia Circuit Court"
+docket: "Case No. (Law) 118367"
+decided: "1991-01-21"
+citations: ["23 Va. Cir. 64"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas M. Fulcher et al. v. Alma L. Palmer"]
+source_url: "https://static.case.law/va-cir/23/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5719919
+cites_cases: ["150 Va. 33", "170 Va. 458", "197 S.E. 426", "228 Va. 12", "237 Va. 87", "376 S.E.2d 525", "71 Va. (30 Gratt.) 547", "74 Va. (33 Gratt.) 351"]
+---
+
+# Fulcher v. Palmer
+
+## Majority (By JUDGE JACK B. STEVENS)
+
+By JUDGE JACK B. STEVENS
+This matter has been under advisement by the Court upon the Bill of Complaint filed herein for relief under Section 8.01-428(C), Code of Virginia (1950), as amended, from enforcement of the judgment obtained by the defendant in another action between the parties, Palmer v. Fulcher, et al., at Law no. 67416, a medical malpractice case, on the ground that a part of that judgment, a portion of the damages, is void. The previous action resulted in a verdict for Palmer for $3,700,000.00 which was reduced by the trial court to $1,500,000.00 pursuant to Section 8.01-581.15, Code of Virginia (1950), as amended.
+Defendant Palmer contends that the complainants’ action here is barred by res judicata since the same matter has been raised and determined against the complainants in previous actions involving the same parties.
+It does not appear to the Court that the complainants attack here is barred by res judicata. Other than this Court’s determination in Law 67416 on Motion of the complainants, which was reversed by the Supreme Court, presumably for lack of jurisdiction since the Supreme court cited Rule 1:1, no other action between the same parties is apparent where the same assertion was considered and a final ruling made by a Court. Certainly the appeal in this action on the refusal to issue an injunction would not constitute a bar. Cf. Omega Corp. v. Malloy, 228 Va. 12 (1984).
+Complainant asserts that so much of the judgment in Law 67416 as exceeds $750,000.00 is void as exceeding the statutory cap existing at the time of judgment pursuant to § 8.01-581.15, Code of Virginia (1950), as amended, citing Etheridge v. Medical Center Hospitals, 237 Va. 87, 376 S.E.2d 525 (1989). Etheridge, as complainants state, holds that the cap of $750,000.00 existing at the time of trial applied, regardless of the number of tortfeasors, since the claimed injury was indivisible. The Supreme Court referred to this finding as involving "the interpretation of statutes." 237 Va. at 105. The Court did not expressly state whether a judgment entered that was greater than the cap would be void or voidable. Etheridge, of course, was a direct appeal, not a collateral attack as the case at bar.
+The Court notes that the judgment in Law 67416 was appealed, the appeal was accepted by the Supreme Court, and the appeal was subsequently withdrawn without a decision on the merits. The appeal was pending while Etheridge was pending and was withdrawn following the Etheridge opinion.
+In Withers v. Fuller, 71 Va. (30 Gratt.) 547 (1878), cited by complainants, the Court, after noting that a judgment by a court having no jurisdiction is a nullity and entirely void, stated:
+There is an obvious distinction between such a case where the court has no jurisdiction to enter the judgment complained of, and a case where the court having a general jurisdiction over the subject matter has erroneously exercised it. In the latter case, the judgment cannot be questioned in any collateral proceeding, and if not appealed from, is final ....
+71 Va. at 552.
+In Commonwealth v. Beavers, 150 Va. 33 (1928), the defendant challenged his conviction for a felony in a habeas corpus proceeding on the ground that the Supreme Court had held in another case, decided after his conviction, that his indictment only charged a misdemeanor. In denying habeas relief, the Court stated:
+The question was one for judicial determination, and it was by no means one without difficulty. To say that since the decision in the Gimmell Case, supra, every judgment for felony rendered prior to that decision upon indictments charging simply the unlawful manufacture of ardent spirits is void, is inconceivable. It may be true that all the courts were in error in holding such indictments charged a felony, but such holding was the law of each case, subject to review for error, and did not render the judgment of the court void because it had no power to pronounce the judgment.
+150 Va. at 40. (Emphasis added.)
+Generally, a ruling made by a court with jurisdiction over the subject matter and the parties is binding regardless of error, until reversed. However, a ruling of a court without such jurisdiction is void and may be assailed in any court, anywhere. Gray v. Stuart & Palmer, 74 Va. (33 Gratt.) 351 (1880).
+Once a court has properly acquired jurisdiction, it has a right to decide every question which arises in the cause, and its judgment or decree, however erroneous, cannot be collaterally assailed. Buchanan v. Buchanan, 170 Va. 458, 197 S.E. 426 (1938). However, this is only true where the court proceeds according to the established modes governing the class to which the case belongs and does not transcend in the extent and character of its judgment or decree the law or statute which is applicable to it. Id. at 477.
+In the case at bar, the court had jurisdiction over the parties and the subject matter of this suit and had the authority to award monetary damages. The jury returned a verdict in favor of the plaintiff, Palmer, in the amount of $3,700,000.00, against two doctors, the complainants herein. Virginia Code § 8.01-581.15 stated at the time that:
+In any verdict returned against a health care provider in any action for malpractice . . . the total amount recoverable for any injury to or death of, a patient shall not exceed Seven Hundred Fifty Thousand Dollars.
+At trial of Law 64716, the Court, upon defendants’ motion (complainants here) acknowledged the limitation upon malpractice recovery under § 8.01-581.15 and reduced the verdict to $750,000.00 per doctor. Defendants objected, asserting, as here,- that the statute meant to limit recovery per patient, not per doctor. The Court disagreed and entered judgment for $1,500,000.00. In light of the decision in Etheridge, the Court has no doubt that the judgment was in error; the Court does have a doubt, however, that it was void.
+Since the Court had proper jurisdiction over the subject matter and the parties, it had jurisdiction to make all rulings of law in that action. Acting on that authority the Court made an erroneous ruling of law in interpreting the statute. In so doing, the Court did not disregard established modes governing medical malpractice cases, because it did reduce an excessive verdict. Further, the Court did not transcend the character of judgments allowed because money damages are permitted in cases of this type. The Court simply made an error of law regarding meaning of the statute. Accordingly, the judgment of this Court, although erroneous, was not void. It was voidable and remained valid unless reversed on appeal. As such, the Court finds for the defendant Palmer in this matter and dismisses the Bill of Complaint herein.
