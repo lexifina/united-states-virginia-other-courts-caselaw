@@ -1,0 +1,24 @@
+---
+court: "Richmond Circuit Court"
+docket: "Case No. LS-1180-1"
+decided: "2004-08-27"
+citations: ["66 Va. Cir. 37"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frances Boynton, Cheryl L. French, Jerry W. Ham, Yi-Jer Huang, Bonita B. Keller, Carolyn Lumpkin, Rhonda McGarvey, Terry Noziglia, Sandra B. Riggs, Elsonia P. Ryan, William Siegfried, and Sherie F. Sensabaugh v. Jerry W. Kilgore, Attorney General of the Commonwealth of Virginia, and David A. Von Moll, Comptroller of the Commonwealth of Virginia"]
+source_url: "https://static.case.law/va-cir/66/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3790056
+---
+
+# Boynton v. Kilgore
+
+## Majority (By Judge Melvin R. Hughes, Jr.)
+
+By Judge Melvin R. Hughes, Jr.
+Twelve former employees of the Office of the Attorney General for the Commonwealth of Virginia have brought suit against the Attorney General and the Comptroller ofthe Commonwealth of Virginia seeking judgment in the amounts of transitional severance benefits allegedly due each of them. The defendants have responded with a Demurrer, which was argued on August 10, 2004.
+Plaintiffs’ claims are under the Work Force Transition Act (WTA), Va. Code § 2.2-3203, et seq. The WTA allows benefits to covered employees based on the employee’s length of service. The defendants assert that plaintiffs are not eligible for WTA severance benefits because that eligibility is dependent on coverage under the Virginia Personnel Act (VPA), Va. Code § 2.2-2900 et seq., which is not applicable. Plaintiffs claim they are entitled to WTA severance benefits because they fall within the class of eligible employees under the WTA as full time employees whose positions are covered by the VPA. In other words, they assert they are eligible for severance benefits under the WTA because they held “position[s] . . . covered by the Virginia Personnel Act (§ 2.2-2900, et seq.).” See § 2.2-3202(A)(i). “Plaintiffs were given five (5) weeks severance pay, a ‘lesser’ pecuniary benefit than that available under the WTA.” (Defendants’ Demurrer ¶ I(A), n. 2 (quoting Motion for Judgment, ¶ 7.)
+The VPA covers all state employees except those excluded by an exemption found in Va. Code § 2.2-2905. That provision extends an exemption to “officers and employees for whom the Constitution specifically directs the manner of selection.” Plaintiffs see this exemption as only covering the Attorney General himself. Thus, by being neither an officer nor employee for whom the Constitution directs their selection, plaintiffs say the exemption does not apply, the WTA applies, extending severance benefits to them. The court does not agree with this interpretation.
+Plaintiffs’ position does not take into account the separate treatment allowed by law and the Virginia Constitution to the Office of the Attorney General in Virginia and persons in his employ in that office. The Governor of Virginia is the “Chief Personnel Officer of the Commonwealth” and directs the execution of Chapter 29 of the Virginia Code, which includes the VPA. The literal reading of the VPA exemption plaintiffs rely on defies the reality of the separateness of the Attorney General from the executive and legislative branches of the state government and the number of ways the General Assembly has made employee benefits and treatment of Attorney General employees distinct from state employees covered by the VPA and, thereby, under the direction and control of the Governor. This is shown on the chart comparing benefits between Attorney General employees and classified state employees in Defendants’ Demurer. Accordingly, Attorney General employees are not covered by the VPA. Subject to statutory authority not applicable here, the Attorney General is the sole authority over personnel actions within that office. Were the Governor to control the personnel actions over Attorney General employees under the VPA, as he does over all covered state employees covered by the VPA, an inconsistency would be apparent and thereby negate the specific authority given to the Attorney General over the selection, classification, and compensation of Attorney General employees as provided by law. See Va. Code §§ 2.2-501 and 2.2-502 (allowing the Attorney General to appoint such persons for the efficient operation of his office “as he deems proper”). To decide otherwise would frustrate the Attorney General’s independence provided by the Virginia Constitution.
+For these reasons, defendants’ Demurrer is sustained. Plaintiffs shall have leave to amend within ten days of entry of the order implementing this ruling. Defendants shall have ten days following receipt of any amended pleading to file any responsive pleading. In the alternative, plaintiffs may stand on the present pleading, in which case, this action shall be dismissed.
