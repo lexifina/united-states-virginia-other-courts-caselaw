@@ -1,0 +1,29 @@
+---
+court: "Spotsylvania County Circuit Court"
+decided: "1987-06-22"
+citations: ["9 Va. Cir. 122"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State Highway & Transportation Commissioner of Virginia v. Larry D. Silver Re: Route 620, Parcel 014"]
+source_url: "https://static.case.law/va-cir/9/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5727502
+cites_cases: ["186 Va. 554"]
+---
+
+# State Highway & Transportation Commissioner v. Silver
+
+## Majority (By JUDGE JOHN A. JAMISON)
+
+By JUDGE JOHN A. JAMISON
+This will refer to the post trial hearing had on February 25th in the above eminent domain matter and to conversations with both of you on June 18, 1987, which did not go into the merits but was simply to confirm my recollection of the status of the case before this opinion was dictated.
+I have of course had the matter under advisement to decide whether or not my setting aside the award should become final so that the case could be retried on the issue of the take as well as damages, or whether the Commissioners' Report should be sustained and confirmed in its present form, or if the Court has authority to leave the damage award intact and on its own motion, in light of the evidence, fix an amount for the take, consonant with the evidence in the case.
+In setting aside the award, I had no quarrel with the amount of damages awarded, but was concerned that the Commissioners completely ignored evidence of the actual value of the take which was fixed by witnesses at $29.00. Though this amount was minuscule, it appears initially to have been agreed to by counsel for both parties, if not in exact amount then in principle.
+Mr. Jarrell feels that if the Commissioners ignored the evidence of the value of the take, their judgment in doing this might also be faulty in arriving at the amount of damages. I cannot agree, however, that this would follow.
+In reading the case of West v. Anderson, 186 Va. 554 (1947), also a highway case, it does appear that the Supreme Court interpreted the then Code Section 1969 J(l) et seq., which appears to be the present Section 8.1-430, et seq., as applying, at least by analogy, to awards of condemnation commissioners as well as civil jury verdicts. In West, the court states that 1969 J(2) "gives a trial court the same power over a commissioners’ report as it has over verdicts of juries in civil actions."
+The Court continues:
+When the verdict of a jury in a civil action is set aside by a trial court upon the ground that it is contrary to the evidence or without evidence to support it, a new trial shall not be granted if there is sufficient evidence before the court to enable it to decide the case upon its merits, but such final judgment shall be entered as to the court shall seem right and proper. (Emphasis supplied).
+It is clear from the reading of the West case that the Supreme Court intended the statute to apply to awards of commissioners in eminent domain cases as well as to conventional civil trials, and the above quoted excerpt from the case gives the Court the right to change either the amount allowed for the take, or for damages, if one or both fail to conform to the evidence. I was originally under the impression that if I set aside any part of the award then the entire award must be set aside. After careful study of the question, I no longer hold that view. The logic in this particular case is to assume, as the Court should, that the question of damages was fully considered by the Commissioners. Their figure of $4,700.00 bears a direct relationship to the evidence presented, and is not without evidence to support it; nor is it contrary to the evidence. If the entire report of the Commissioners should be set aside, this would be error, since both parties now agree on the value of the take although it was found notwithstanding the evidence to be nil. Yet, there is evidence on which the Court, acting under authority of Section 8.01-430 may supply a value to the take provided there is evidence to support the Court’s figure. Since evidence supplied by the landowner indicated the worth of the value of the take as only $29.00 and the Department of Highways does not disagree, I believe that this is the highest figure the Court could fix for the temporary take in this case. This is certainly not a case of the Court fixing an arbitrary sum but merely supplying the missing element of value as indicated by the evidence. A condemnation case is severable at least to the extent that two values are to be reported by the Commissioners, that of the take and of the damages. I see no violence being done here by the Court to the rights of either party regarding either segment of the case so long as the Court’s action is based upon the evidence. The fact that the Commissioners overlooked reporting any value at all for the take, or more accurately, finding that value to be zero, the latter being contrary to the evidence, requires the Court to resort to its authority under Code Section 8.01-430 and fix a value as indicated by the evidence.
+Accordingly, the report of the Commissioners will not be set aside as to the damages, but will be with respect to the finding concerning the take, and the Court, in accordance with the evidence, will fix that value at $29.00.
+Examination of the court file does not reveal any action at all by counsel or the Court following the Commissioners' Report. It would therefore appear that no order setting aside the report was presented to the Court and the report was simply "left hanging.” The Court did. express its feeling that it would have to set aside the entire award if it took any action at all, but then decided, at the request of Mr. Ashby, to take the matter under further advisement, and the foregoing is the result.
