@@ -1,0 +1,26 @@
+---
+court: "Loudoun County Circuit Court"
+docket: "Case No. (Law) 8031; Cases No. (Law) 8027, Consol. (Law) 8027; Case No. (Chancery) 9772"
+decided: "1985-07-26"
+citations: ["7 Va. Cir. 253"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Algar H. Cosby et ux. v. Board of Zoning Appeals James E. Clarke et al. v. Board of Zoning Appeals James E. Clarke et al. v. Bull Run Stone Co., Inc., et al."]
+source_url: "https://static.case.law/va-cir/7/cases/0253-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3940852
+cites_cases: ["224 Va. 514"]
+---
+
+# Cosby v. Board of Zoning Appeals
+
+## Majority (By JUDGE THOMAS D. HORNE)
+
+By JUDGE THOMAS D. HORNE
+In light of the findings of the Court, as set forth herein, the motion to file a late answer in these cases will be denied. However, the papers relating thereto will be filed and made a part of the record. Mrs. Holden may submit a separate order of non-suit pursuant to her motion. A separate order and decree shall be prepared for the law and chancery cases. Copies of this opinion shall be cross-filed by the Clerk. Such order and decree may incorporate by reference the findings herein contained.
+A zoning board may act in both a quasi-judicial capacity or in a legislative capacity. In the denial or approval of the Bollings* application for a special exception to use and operate a stone quarry, the Board performed a legislative function. Fairfax County v. Southland Corp., 224 Va. 514 (1982). As part of the process of the review of the application, the Planning Commission asked for and received an opinion from the Zoning Administrator relative to the zoning status of an accessory rock crusher on the Bolling property. The Administrator determined that, among other things, a rock crusher was a non-conforming use under the existing zoning of the parcel. This interpretation was sustained on appeal to the Board of Zoning Appeals and later on appeal to this Court. In interpreting the ordinance, the Board was performing a quasi-judicial function. This prior determination by the Board of Zoning Appeals settled the issue as to the status of the crusher. This issue is identical to the issue raised in the present certiorari proceedings. The procedural setting is identical (i.e. the appeal of a decision of the Zoning Administrator), as are the parties or their privities. Therefore, the parties were and are barred from further litigation of that issue under the doctrines of res judicata and collateral estoppel. Even assuming, without deciding, that the act of interpreting an ordinance as part of the review process was such an integral part of the overall legislative process of reviewing and acting upon the application of the Bollings as to be a "legislative act," nevertheless, the Court would need to find a "change of circumstances" to justify a contrary opinion. The Court finds that in the context of the evidence before it, no such "changed circumstances" existed or could exist as a matter of law. Accordingly, the Court will reverse the decision of the Board of Zoning Appeals of January 17, 1985, and substitute therefor the decision of this Court as reflected in its opinion letter of October 25, 1983.
+Decisions of the Board of Zoning Appeals, and particularly those appealed to the courts must have about them a sense of finality. The fact that one regrets having made a decision cannot be the basis for making a new decision where the rights of others can be and are affected. The doctrines of res judicata, collateral estoppel and stare decisis apply to proceedings such as these. 3 Rathkopf, The Law of Zoning and Planning, § 48.01 et seq. (4th ed. 1982). Thirty days after the filing of the decision in the office of the Board, it would become final. § 15.1-497, Code of Virginia. Had the Petitioners failed to challenge that decision within that time, they would have forfeited their right to appeal. Having challenged a decision, the Board should likewise be bound by its finality.
+The Board of Zoning Appeals does not have the power to rezone property. S 15.1-495(e). Were this Court to confirm the action of the Board of January 17, 1985, it would be tantamount to permitting the Board to rezone. This the Court cannot do. The Board and intervenors are estopped from taking a contrary position.
+Accordingly, the Court, having reviewed the decision of the Board of January 17, 1985, and substituted in its place the decision of the Court reflected in its letter of October 25, 1983, and order of April 20, 1984, will, in Chancery No. 9772, enjoin the Defendants or their agents from the use of the crusher, under the existing zoning of the parcel, in the processing of stone extracted from the 66 acres acquired in 1959. Use of the crusher shall be limited to the processing of stone extracted pursuant to the 1955 permit. The parties shall be responsible for their attorney’s fees and costs in consolidated Law No. 8027. Complainants may recover their costs in Chancery No. 9772; however, they shall be responsible for their own attorney’s fees.
+Bull Run Civic Assn. v. Board of Zoning Appeals, which is printed above at page 201.
