@@ -1,7 +1,8 @@
 ---
 court: "High Court of Chancery of Virginia"
 decided: "1789-10"
-citations: ["2 Va. Ch. Dec. 51", "1 Va. Ch. Dec. 51"]
+decided_precision: "month"
+citations: ["2 Va. Ch. Dec. 51"]
 reporter: "va-ch-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["*Between JAMES MAZE, plaintiff, and WILLIAM HAMILTON and Andrew Hamil
 source_url: "https://static.case.law/va-ch-dec/2/cases/0124-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6714326
-cites_cases: ["1 Call 202", "2 Wash. 47", "4 Call, 196", "4 Call, 207", "4 Call, 21", "4 Call, 32", "4 Call, 33", "4 Call. 207", "4 Call. 32", "4 Call. 35", "4 Call., 208", "5 Leigh 627"]
+cites_cases: ["1 Call 202", "2 Wash. 47", "4 Call, 196", "4 Call, 21", "4 Call. 207", "4 Call. 32", "4 Call. 35", "4 Call., 208", "5 Leigh 627"]
 ---
 
 # Maze v. Hamilton
