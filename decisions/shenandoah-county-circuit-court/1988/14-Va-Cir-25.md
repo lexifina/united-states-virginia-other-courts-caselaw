@@ -1,0 +1,40 @@
+---
+court: "Shenandoah County Circuit Court"
+docket: "Case No. (Law) 10174"
+decided: "1988-02-26"
+citations: ["14 Va. Cir. 25"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth of Virginia v. Ronnie Ray Atkins"]
+source_url: "https://static.case.law/va-cir/14/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3879867
+cites_cases: ["104 S. Ct. 3430", "211 Va. 146", "213 Va. 67", "228 Va. 219", "287 U.S. 206", "378 U.S. 108", "393 U.S. 410", "462 U.S. 213", "468 U.S. 897", "468 U.S. 981"]
+---
+
+# Commonwealth v. Atkins
+
+## Majority (By JUDGE PERRY W. SARVER)
+
+By JUDGE PERRY W. SARVER
+This matter was submitted to the Court on a proffer of the evidence and argument of counsel. At issue is the validity of a search warrant issued September 16, 1987, and whether or not evidence seized pursuant to said search should be suppressed and not be received in evidence at the trial of these matters.
+The question presented is whether the affiant or applicant alleged sufficient facts in Part 4 of the affidavit to constitute probable cause. There are no allegations as to time; therefore, Defendant argues since the time was not set forth in the affidavit, the magistrate was unable to determine whether the facts presented created a reasonable belief that the same conditions described in the affidavit existed at the time of the issuance of the warrant.
+According to the proffer, Investigator Garlan Gochenour of the Shenandoah County Sheriff’s Department and State Police Investigator E. W. Heflin appeared before the magistrate. While only Gochenour executed the affidavit, both were under oath and advised the magistrate as to the facts in Part 4 of the affidavit that the purchase from Anthony Sutherly, described in Part 4, occurred around 8:30 p.m. on September 15, 1987, that Sutherly’s statements were to Heflin, and that Heflin and Gochenour were also obtaining a juvenile petition at the same time through the Juvenile and Domestic Relations Court intake officer.
+Has there been a compliance with:
+(1) The Fourth Amendment of the U. S. Constitution which provides in part that "no warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized," and
+(2) The more restrictive Va. Statute, Code § 19.2-54 which requires an affidavit "alleging, briefly material facts constituting probable cause."
+The Court rules that the motion to suppress should be denied.
+A magistrate must be satisfied that probable cause to search exists at the time the warrant is issued. His conclusion must be based upon facts reasonably related in time to the date of the issuance of the warrant. Stovall v. Commonwealth, 213 Va. 67 (1972), citing Sgro v. United States, 287 U.S. 206, 210-11 (1932), et al.
+I am of the opinion that since time is an integral element or requirement of probable cause that the affidavit cannot be supplemented or rehabilitated by the oral statements of Gochenour and Heflin, made under oath to the magistrate. While this may satisfy the Fourth Amendment of the U. S. Constitution, it does not meet the requirements of Code § 19.2-54. The affidavit must include any supplementary facts presented to the magistrate to establish probable cause. McCary v. Commonwealth, 228 Va. 219 (1984).
+However, I uphold the validity of the search warrant under the "good faith" exception to the exclusionary rule under United States v. Leon, 468 U.S. 897, 104 S. Ct. 3430 (1984); Massachusetts v. Sheppard, 468 U.S. 981, 104 S. Ct. 3424 (1984). These cases were embraced by the Virginia Supreme Court in McCary, Id. at 232.
+Leon also involved a stale affidavit. The lower Courts (the U. S. District Court and the Court of Appeals for the Ninth Circuit) found that the affidavit was fatally stale. The court of Appeals also concluded that the information was inadequate under Aguilar v. Texas, 378 U.S. 108 (1964), and Spinelli v. United States, 393 U.S. 410 (1969). The two-pronged test ((1) facts establishing probable cause, (2) the reliability of the facts) set forth in these cases [has] been abandoned and replaced by a totality of the circumstances approach. Illinois v. Gates, 462 U.S. 213 (1983).
+The Court stated that exclusion had no significant effect on judges and magistrates. Leon, Id. at 916. If exclusion is to have a deterrent effect, it must alter the behavior of individual law enforcement officers. Id. at 918.
+One could argue that applying the exclusionary rule in cases where police failed to demonstrate probable cause in the warrant application deters future inadequate presentations and may further encourage officers to scrutinize more closely the form of the warrant and to point out suspected judicial errors. Id. at 918. The Court found such to be speculative and that exclusion or suppression should be on a case-by-case basis.
+The Court has frequently questioned whether the exclusionary rule has a deterrent effect when the offending officers acted in the objectively reasonable belief that their conduct did not violate the Fourth Amendment. Even if one assumes that the rule effectively deters some police conduct and provides incentives for the law enforcement profession as a whole to conduct itself in accord with the Fourth Amendment, it cannot be expected, and should not be applied, to deter objectively reasonable law enforcement activity.
+The deterrent purpose of the exclusionary rule necessarily assumes that the police have engaged in willful, or at the very least negligent, conduct which has deprived the defendant of some right. Id. at 919. But, where the official action was pursued in complete good faith, the deterrence rationale loses much of its force.
+Excluding the evidence will not further the ends of the exclusionary rule in any appreciable way; for it is painfully apparent that . . . the officer is acting as a reasonable officer would and should act in similar circumstances. Excluding the evidence can in no way affect his future conduct unless it is to make him less willing to do his duty. This is particularly true when an officer acting with objective good faith has obtained a search warrant from a judge or magistrate and acted within its scope. Id. at 920.
+It is the magistrate’s responsibility to determine whether the officer’s allegations establish probable cause and, if so, to issue a warrant comporting in form with the requirements of the Fourth Amendment.
+Officers Heflin and Gochenour gave the magistrate sufficient information, under oath, to establish probably cause. They left out the necessary date, and it was the duty of the magistrate to correct this error by adding it to the affidavit. There is no evidence of any bad faith on the part of either of the officers, or the magistrate either for that matter, in securing, issuing, or executing the search warrant.
+This is not a situation involving misleading information furnished to the magistrate that is false or that the affiant should have known was false, except for his reckless disregard of the truth. Nor did the magistrate abandon his judicial role. He obtained all necessary information establishing probable cause but failed to see that it was inserted in the affidavit as required by Code § 19.2-54.
+Defendant also argues as to the sufficiency of the address of the premises. The affidavit and warrant gives the street address as 319 A Street. The actual address is 317 A Street. In addition, the affidavit and warrant (and the warrant refers to part two of the affidavit) gives a detailed description of the premises and further describes the premises as being occupied by Ronnie Ray Atkins. The description is such that an officer charged with executing the warrant can, with reasonable effort, ascertain, and identify the place intended. Manley v. Commonwealth, 211 Va. 146 (1970) at 151. The description also satisfies the requirement contained in Manley as to a multiple occupancy structure. Id. at 151.
