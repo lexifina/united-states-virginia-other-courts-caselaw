@@ -1,0 +1,46 @@
+---
+court: "Chesterfield County Circuit Court"
+docket: "Case No. CH00-1075"
+decided: "2003-11-20"
+citations: ["64 Va. Cir. 21"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nita K. Pathak, Trustee v. Mukesh Trivedi et al."]
+source_url: "https://static.case.law/va-cir/64/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3788271
+cites_cases: ["14 Va. Cir. 348", "15 Va. Cir. 199"]
+---
+
+# Pathak v. Trivedi
+
+## Majority (By Judge Cleo E. Powell)
+
+By Judge Cleo E. Powell
+The parties, represented by Counsel, came before this Court on October 17, 2003, to present argument on Plaintiff’s Motion to Appoint a Certified Public Accountant (CPA) to prepare tax returns for the years 2000 to 2002. Upon hearing the arguments presented, the Court took this matter under advisement, and after reviewing the Memoranda filed on this matter and all relevant case and statutory law, the Court rules as follows.
+The Court finds that it has authority to appoint a CPA to prepare tax returns. Under Virginia Code Annotated § 13.1-747(E), the Court may take action to preserve corporate assets. The Court finds that if tax returns are not prepared for Trivedi, L.L.C., penalties will be imposed by the Internal Revenue Service, thereby depleting the corporate assets of Trivedi, L.L.C. Defendants’ argument that it will cost Trivedi, L.L.C., much more to pay a CPA than to pay any penalties imposed for not filing is not persuasive. Trivedi, L.L.C., has a legal obligation to file tax returns. Therefore, the Court finds that appointing a CPA is an appropriate action for the Court to take under § 13.1-747(E) and that it is in the best interests of all of the parties for a CPA to be appointed to prepare tax returns for Trivedi, L.L.C., for the years 2000 to 2002.
+Counsel was given the opportunity to provide the Court with a list of willing CPAs. Defendants provided the Court with no names. Upon review of the names provided to the Court, the Court finds that Paul Young at Goodman & Company is a suitable and willing licensed CPA. The Court appoints Paul Young to prepare tax returns for Trivedi, L.L.C., for the 2000, 2001, and 2002 tax years. The Court orders Paul Young’s fees to be paid out of the assets of Trivedi, L.L.C.
+February 9, 2004
+The parties appeared on January 6, 2004, and argued various motions. At the conclusion of the arguments, the Court ruled in several motions and took two issues under advisement. Those two issues were (1) Defendant’s Demurrer and Plaintiffs’ response thereto and (2) Plaintiffs Motion to Quash Defendants’ Exceptions due to late filing. With regard to those two items, the Court mies as follows.
+I. Demurrer
+A. Count I
+Plaintiff continues to raise issues regarding the Trusts’ alleged failures to make their capital contributions. In 2001, this Court sustained a demurrer to a similar argument and ruled that pursuant to Virginia Code § 13.1-1043, Plaintiff lacked standing to raise a breach that occurred prior to the time she became a member. The Trusts’ obligations arose pursuant to the Operating Agreement signed in 1997. Plaintiff did not become a member until November 1997.
+To the extent Plaintiff implied that the Trusts’ obligations were continuing, the Court gave Plaintiff the opportunity to plead this claim with specificity. In response, Plaintiff filed a Second Amended Bill of Complaint in which Plaintiff again raised the issue of the 1997 and 1998 Operating Agreements and the obligations of the Trusts to make contributions. Again, Defendants demurred. After considering the arguments, the Court dismissed paragraphs 82, 83, and 84 with prejudice. Those are the same allegations raised in the Third Amended Bill of Complaint in paragraphs 54, 55, and 56. They still have not been pleaded with specificity and, moreover, were dismissed with prejudice from this lawsuit and cannot be repleaded.
+Plaintiff relies on Virginia Code § 13.1-1027(B) in support of her argument that the obligation was “reimposed” because a member remains obligated to the Trivedi, L.L.C. (hereinafter “the L.L.C.”), to perform any enforceable promise to contribute cash. Plaintiff cites the Code correctly, but this Code section does not answer the question as to who may seek to enforce that obligation. That answer lies within Va. Code § 13.1-1043, which gives standing to a member who was a member at the time the obligation arose. Plaintiff has failed to specifically state any facts or law supporting her argument that, because the 1998 agreement includes the same language from the 1997 agreement, the obligation is continuing and gives the Plaintiff a cause of action. Therefore, the demurrer as to Count I is sustained without leave to amend.
+B. Count II
+In Count II, Plaintiff pleaded a claim for Breach of Operating Agreement Improper Distributions. She relies on paragraph 60 of her Third Amended Bill of Complaint, which provides that the Trusts, along with others, have received distributions from the L.L.C., that were not made according to the terms of the Operating Agreement and constitutes a breach thereof.
+To the extent that Virginia Code § 13.1-1036 creates this cause of action, the demurrer as to Count II is overruled.
+In support of their demurrer, Defendants rely on comments made by the Court in response to Plaintiff’s question concerning the Court’s ruling on a Motion for Declaratoiy Judgment. Today’s ruling does not affect the Court’s ruling on the request for declaratory judgment. Nor does it affect the Court’s ruling regarding the dismissal of Devi Trivedi from the case. Devi Trivedi had been previously dismissed, among other reasons, for Plaintiff’s failure to state a claim against her because, at the time Plaintiff joined, the Operating Agreement showed no contribution was required by Devi Trivedi. (See, June 24,2002, Order.)
+C. Count III
+With regard to Count III of the Third Amended Motion for Judgment, Plaintiff has adequately pleaded a cause of action for judicial expulsion against both Mukesh and the Trust defendants pursuant to Va. Code § 13.1-1040.1. Therefore, Defendants’ demurrer is overruled as to this count. The parties’ arguments focused mainly on the remedy the Court could impose if a member is expelled. These arguments are more properly raised in some form or forum other than a demurrer.
+D. Count IV
+Plaintiff concedes that Count IV only applies to Mukesh and only to events occurring since 1998. Defendants’ demurrer as to Count IV is sustained to the extent that there are allegations in paragraph 78 that would imply otherwise.
+II. Motion to Strike Exceptions
+The final issue before the Court is Plaintiff’s Motion to Strike Defendant’s Exceptions to the Commissioner’s Report. Plaintiff argues that Defendants’ exceptions were filed one day late and, therefore, should be stricken as untimely filed. Defendants argue that good cause has been shown to allow a late filing. In support of their argument for good cause, Defendants state:
+The Commissioner’s Report was mailed to Mr. Bayliss and received on a date he was out of town. The report was sent to the Trivedi defendants’ CPA to review, analyze, and provide his opinion as to the effect of the report. Contraiy to Plaintiffs assertion that we had three months to review these findings, we were waiting for the report to be issued before making any assumptions as to the Commissioner’s findings.
+At precisely the same time that the Trivedi defendants received the Commissioner’s Report, counsel for the Trivedi defendants were addressing another issue raised by the plaintiff. ... The Trivedi defendants filed this Memorandum on the day on which Plaintiff contends the Exceptions would have been due, prepared for that Motion that day and argued that Motion the next day....
+(Reply to Plaintiff’s response to the Demurrer and Special Plea of the Trivedi Defendants to the Third Amended Bill of Complaint at p. 10.)
+Petitioner is correct that the language of the statute seems to be mandatory. Greenwood Estates Ass’n v. King, 15 Va. Cir. 199 (Spotsylvania County 2000). However, the statute does contain a provision that allows the court to extend the time “for good cause shown.” Id. The Court has found no case law that defines the factors to consider in determining good cause. Winters v. Rosillo, 14 Va. Cir. 348 (Chesterfield County 1989). Considering the reasons advanced by Defendants, specifically that the report was submitted to their CPA for his review, analysis, and opinion and the fact that it was filed one day late coupled with the fact that equity practice does not allow a court to confirm a commissioner’s report simply because exceptions are not filed, the Court will consider the reasons cited to be good cause and allow a late filing.
+The parties are to set the exceptions for a hearing separate from and prior to trial.
+A court in a proceeding brought to dissolve a corporation may issue injunctions, appoint a receiver or custodian pendente lite with such powers and duties as the court may direct, take other action required to preserve the corporate assets wherever located, and carry on the business of the corporation until a full hearing can be held.” Virginia Code Annotated § 13.1-747(E) (emphasis added).
