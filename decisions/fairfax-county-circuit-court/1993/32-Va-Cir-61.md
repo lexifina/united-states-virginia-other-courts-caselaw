@@ -1,0 +1,31 @@
+---
+court: "Fairfax County Circuit Court"
+docket: "Case No. (Chancery) 112262"
+decided: "1993-09-13"
+citations: ["32 Va. Cir. 61"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tallent v. Rosenbloom"]
+source_url: "https://static.case.law/va-cir/32/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3938010
+cites_cases: ["223 Va. 557"]
+---
+
+# Tallent v. Rosenbloom
+
+## Majority (By Judge Thomas S. Kenny)
+
+By Judge Thomas S. Kenny
+This matter is before the court on Mr. Rosenbloom’s motion to terminate his own residual parental rights in the two children born of his marriage to Ms. Tallent. There is a long and sad history of alienation between the children and their father, much of it actively aided and abetted by their mother. It is perhaps best epitomized by a remark that the elder child once made, in which he referred to his father as “my mother’s ex-husband.”
+Mr. Rosenbloom now lives in Africa, where he is on assignment for the federal government. Ms. Tallent and the children now live in Florida. Accordingly, a situation which is already replete with alienation is made worse by the vast geographical separation of the parties.
+Against this backdrop, Mr. Rosenbloom has filed what is essentially a bill of divorce against his children. His counsel has acknowledged that one of the anticipated consequences of my granting his motion to terminate his parental rights in the children will be the termination of any further obligation to support them.
+Before proceeding to hear any evidence on this motion or any argument as to why it should be granted, I asked counsel to address as a threshold matter the question of whether I have any jurisdiction even to consider it. After reviewing the briefs submitted by counsel and considering the authorities cited therein, I have concluded that I do not have such jurisdiction and, accordingly, deny the motion on that basis.
+Ms. Goldenberg urges me to act on the basis of general equity powers, which she says I can exercise once I have jurisdiction over the divorce between the parties. A court does have jurisdiction over the custody, support, and visitation of children once it acquires divorce jurisdiction, but it is too much of a stretch, even under the most expansive view of equity, to conclude that such jurisdiction extends to something so extraordinary as the termination of parental rights.
+Divorce is a creature of statute, and any action taken in the context of a divorce must have some jurisdictional grounding in statute. Of course, once that jurisdiction has been established, a divorce court should be able to utilize the equitable tools available to it. But those tools can only be applied to the specific subjects set out in the statutes as within the jurisdiction of this court in a divorce action. I will not imply jurisdiction over the termination of parental rights in this statutory scheme.
+Like divorce itself, the termination of parental rights is a creature of statute. Walker v. Dept. of Public Welfare, 223 Va. 557 (1982). A court must strictly comport with the statute and limit its actions to those enabled by it. The statutes which deal with termination of residual parental rights are set out in the title of the Code of Virginia which deals with the jurisdiction, powers, and procedures of the juvenile and domestic relations district courts. Because the circuit court has jurisdiction over appeals from that court, many of the statutes involved make reference to both the juvenile and the circuit courts. Nevertheless, whatever authority a circuit court has to terminate residual parental rights would have to be grounded on those statutes, rather than on the divorce statutes. As pointed out earlier, there is simply nothing in the divorce statutes which would authorize a circuit court to initiate a termination action.
+Ms. Goldenberg, therefore, urges me to look to the termination statutes, particularly §§ 16.1-278.3 and 16.1-283, for authority to terminate Mr. Rosenbloom’s residual parental rights in this case. Aside from the obvious fact that termination is a juvenile court proceeding and this court only gets its jurisdiction on appeal, there is a more fundamental problem with using this statutory approach: these statutes clearly and obviously have no applicability to this kind of situation. Section 16.1-283, for example, deals with children who are “abused or neglected,” who have been “abandoned,” or who have been placed in foster care by court commitment or voluntary entrustment, none of which applies in this case. Section 16.1-278.3 deals with voluntary requests by custodial parents to be relieved of the care and custody of children for good cause shown.
+In short, these statutes are in place to protect children who are at risk. There is nothing in them that would suggest that a non-custodial parent can voluntarily terminate his residual rights (and concomitant duties) on the basis of an unsatisfactory relationship with his children.
+That brings me to my final reason for refusing jurisdiction in this matter. If there is any concept that has been clearly and repeatedly expressed as the public policy of our Commonwealth and our society, it is that when children are involved, the courts’ paramount concern must be the best interests of the children, and those best interests require that they be supported by their parents. While I deplore the state of the relationship between Mr. Rosenbloom and his children, and have on prior occasions expressed my thoughts on what has contributed to that miserable state, and have entered several orders strongly acknowledging and enforcing Mr. Rosenbloom’s visitation rights, I cannot countenance a resolution of that problem which would enable him to merely wash his hands of his children and be done with them. It is seriously wrong that this man’s relationship with his children is so poisoned; it would be no less wrong to use that as an excuse to punish them and their mother by allowing this sort of motion to proceed. The precedent that would be set by considering such a motion is awful to contemplate.
+For all the foregoing reasons, the father’s motion to terminate his residual parental rights is denied for lack of jurisdiction.
