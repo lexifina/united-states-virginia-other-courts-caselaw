@@ -1,0 +1,38 @@
+---
+court: "Wise County Circuit Court"
+docket: "Case No. F88-236"
+decided: "1988-12-21"
+citations: ["16 Va. Cir. 38"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth of Virginia v. William Burton Bozzell"]
+source_url: "https://static.case.law/va-cir/16/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3920393
+cites_cases: ["106 S. Ct. 3309", "221 Va. 436", "224 Va. 127", "229 Va. 469", "230 Va. 99", "232 Va. 266", "233 Va. 313", "234 Va. 114", "271 S.E.2d 123", "295 S.E.2d 643", "331 S.E.2d 422", "334 S.E.2d 838", "351 S.E.2d 1", "356 S.E.2d 157", "360 S.E.2d 352", "417 U.S. 600", "460 U.S. 1029", "470 U.S. 68", "475 U.S. 1099"]
+---
+
+# Commonwealth v. Bozzell
+
+## Majority (By JUDGE JAMES C. ROBERSON)
+
+By JUDGE JAMES C. ROBERSON
+On November 3, 1988, the accused filed a motion to require the Commonwealth to provide defendant’s counsel with adequate funds to hire an investigator trained in criminal work to aid defendant’s counsel in preparation of the defense for the accused. This motion was argued before the Court on November 7, 1988.
+After consideration of argument of counsel and the authorities city the Court has now ruled on the motion.
+The Supreme Court of Virginia has considered the issue of the requirement of the appointment of an investigator for an indigent defendant. As recently as September 4, 1987, the Supreme Court of Virginia in Pope v. Commonwealth, 234 Va. 114, 360 S.E.2d 352 (1987), stated at page 119:
+Before trial, Pope moved the Court to appoint an investigator to "comb the neighborhood" for potential witnesses. The Court denied the motion, noting that we have recently held that an indigent defendant has no constitutional right to the appointment, at public expense, of a private investigator. Gray v. Commonwealth, 233 Va. 313, 330, 356 S.E.2d 157, 166 (1987); Watkins v. Commonwealth, 229 Va. 469, 478, 331 S.E.2d 422, 430 (1985), cert. denied 475 U.S. 1099 (1986); Quintana v. Commonwealth, 224 Va. 127, 135, 295 S.E.2d 643, 646 (1982), cert. denied 460 U.S. 1029 (1983). On appeal, Pope argues that the appointment of a private investigator is required by an analogy to the reasoning in Ake v. Oklahoma, 470 U.S. 68, 83-84 (1985). We do not agree. Ake applies only to the appointment of an independent psychiatrist to assist an indigent defendant who has made a preliminary showing that his sanity at the time of the offense is likely to be a significant factor in his defense, or where the prosecution intends to rely on psychiatric evidence to prove the defendant’s future dangerousness. See Pruett v. Commonwealth, 232 Va. 266, 275 n. 3, 351 S.E.2d 1, 7, n. 3 (1986); Tuggle v. Commonwealth, 230 Va. 99, 104-108, 334 S.E.2d 838, 841-43 (1985), cert. denied; 478 U.S. [1010], 106 S. Ct. 3309 (1986). Ake is inapplicable here. We adhere to our holding in Watkins.
+The holding in Watkins v. Commonwealth, supra, which the Supreme Court of Virginia adheres to, is stated on page 478 of that 1985 decision:
+Watkins asked the Court to appoint an investigator to assist in the preparation of his defense. The trial Court denied the motion. We affirm this ruling. We have held that an indigent defendant has no constitutional right under the Due Process or Equal Protection Clauses to appointment, at public expense, of a private investigator. See Stockton, 227 Va. at 140-141, 314 S.E.2d at 382; Quintana v. Commonwealth, 224 Va. 127, 135, 295 S.E.2d 643, (1982) cert. denied 460 U.S. 1029 (1983); Martin v. Commonwealth, 221 Va. 436, 446, 271 S.E.2d 123, 130 (1980).
+Watkins contends, however, that failure to appoint an investigator to assist in his defense violated his Sixth Amendment Rights. Citing no authority, he equates the advantage of having the assistance of an investigator to the right to compulsory process for obtaining witnesses and the right to assistance of counsel expressly guaranteed by the Sixth Amendment. The Sixth Amendment does not mandate appointment of an investigator, however, and we will not infer such a requirement from the clear language of the amendment which outlines the constitutional prerequisites for criminal prosecution. As the Supreme Court has stated in another context, "the fact that a particular service might be of benefit to an indigent defendant does not mean that the service is constitutionally required." Ross v. Moffitt, 417 U.S. 600, 616 (1974).
+In Gray v. Commonwealth, 233 Va. 313, 356 S.E.2d 157 (1987), the Supreme Court of Virginia stated at page 330:
+Gray contends that the trial court erred in denying his request for a publicly paid investigator. The contention is without merit. See Watkins, 229 Va. at 478, 331 S.E.2d at 430; Stockton, 227 Va. at 140-41, 314 S.E.2d at 382; Quintana v. Commonwealth, 224 Va. 127, 135, 295 S.E.2d 643, 646 (1982), cert. denied 460 U.S. 1029 (1983); Martin v. Commonwealth, 221 Va. 436, 445-46, 271 S.E.2d 123, 129-30 (1980). A publicly paid investigator for an indigent defendant is "an act of judicial grace not constitutionally required." Quintana, 224 Va. at 135, 295 S.E.2d at 646.
+Virginia Code § 19.2-163 authorizes the Circuit or District Court to compensate counsel appointed to represent an indigent accused in a criminal case. It provides in part:
+The Circuit or District Court shall direct the payment of such reasonable expenses incurred by such court appointed attorney as it deems appropriate under the circumstances of the case.
+Under this section of the Code of Virginia, if the defendant is convicted, the amount allowed by the court to the attorney appointed to defend him shall be taxed against the defendant as a part of the costs of prosecution and, if collected, the same shall be paid to the Commonwealth.
+The Court rules that:
+1. The accused has no constitutional right to the appointment, at public expense, of a private investigator. The appointment of a full time investigator would create a new public employee. This is not authorized by statute nor justified by the facts as presently disclosed to the Court.
+2. On motion of the accused by counsel, the Court may appoint an additional counsel under the authority of § 19.2-159 of the Code of Virginia. The present counsel or an additionally appointed counsel may perform investigative services and be compensated for reasonable expenses deemed appropriate under the circumstances pursuant to the authority of § 19.2-163 of the Code of Virginia.
+3. Although the Court will not appoint a full time investigator for the accused to be compensated from public funds, the Court may upon motion of counsel under appropriate circumstances approve payment of reasonable expenses incurred or to be incurred by court appointed counsel for limited temporary employment of an investigator to collect specific information or to render specific services deemed significant and reasonably necessary in the defense of the accused. These expenses may be authorized as reasonable expenses of court appointed counsel under authority of § 19.2-163 and as "an act of judicial grace not constitutionally required."
+The Court will consider each motion, to incur expenses for employment of an investigator, upon its own merit. This ruling shall not be construed as blanket authority or precedent for either the employment of an investigator or the expenditure of specific amounts of funds.
+4. The Court denies the defendant’s motion to provide funds to hire a full time investigator for use in preparation of the defense for the accused. The Court will rule independently on motions filed under paragraphs two and three as indicated therein.
