@@ -1,7 +1,8 @@
 ---
 court: "High Court of Chancery of Virginia"
 decided: "1791-10"
-citations: ["2 Va. Ch. Dec. 133", "1 Va. Ch. Dec. 133"]
+decided_precision: "month"
+citations: ["2 Va. Ch. Dec. 133"]
 reporter: "va-ch-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Between DAVID COCHRAN, plaintiff, and JOHN STREET, defendent."]
 source_url: "https://static.case.law/va-ch-dec/2/cases/0161-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6714471
-cites_cases: ["1 Wash. 158"]
 ---
 
 # Cochran v. Street
