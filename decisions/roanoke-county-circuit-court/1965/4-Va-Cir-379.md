@@ -1,0 +1,28 @@
+---
+court: "Roanoke County Circuit Court"
+decided: "1965-04-10"
+citations: ["4 Va. Cir. 379"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth of Virginia ex rel. State Highway Commissioner v. Rockydale Quarries Corp., Earl E. Bowman, and Annie Frances Bowman"]
+source_url: "https://static.case.law/va-cir/4/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3893306
+---
+
+# Commonwealth ex rel. State Highway Commissioner v. Rockydale Quarries Corp.
+
+## Majority (By JUDGE F. L. HOBACK)
+
+By JUDGE F. L. HOBACK
+On December 9, 1963, a Petition for Declaratory Judgment was filed; the Answer of Earl E. Bowman and Annie Frances Bowman was filed on December 27, 1963; and the Answer of Rockydale Quarries Corporation was filed on December 28, 1963.
+By Decree entered herein on February 24, 1964, the matter was referred to William L. Martin, Master Commissioner in Chancery, to report to the Court on certain inquiries set out in said Decree. By Decree entered on August 12, 1964, the Commissioner's Partial Report was filed herein, in which report the Commissioner stated that in view of his opinion as to Inquiry No. 3 in the Decree of February 25, 1964, he did not deem it necessary to answer the other inquiries. The Commissioner reported that the Memorandum of Agreement of February 26, 1958, which principally constituted the reason for the Petition for Declaratory Judgment, violated the Rule against perpetuities and was void and unenforceable. Exceptions to the Commissioner's Partial Report were filed on August 21, 1964, by Rockydale Quarries Corporation, and after hearing oral arguments by Counsel concerning said exceptions, Counsel for Rockydale Quarries Corporation requested leave to file Memorandum of Authorities and, accordingly, a Memorandum of Authorities in behalf of said corporation was filed herein on October 16, 1964. Thereafter Memorandum of Authorities on behalf of the Complainant was filed with the Clerk on October 29, 1964, and inasmuch as this matter was not brought to the attention of the Court until a few weeks ago, no further action has been taken.
+The Court has now reviewed all of the pleadings, the Partial Report of the Commissioner in Chancery and the Memoranda of Authorities and is of the opinion that the Commissioner’s Partial Report should be approved and confirmed and that the exceptions to the Commissioner's Partial Report filed herein by Rockydale Quarries Corporation should not be sustained.
+In addition to the authorities set forth by Commissioner Martin in his report and the authorities set out in the Memorandum filed herein on behalf of the Complainant, attention is also called to Minor on Real Property, Ribble Edition, Vol. 1, Sec. 823, page 1063, wherein it is recited:
+The rule against perpetuities does not apply to contracts generally, but it does apply to those contracts which attempt to pass a future equitable right in property. Thus options to buy or sell land, which may not be exercised in the period prescribed by the rule cannot be specifically enforced. Such options are clearly within the type of limitation which restricts the use and alienability of property, and are thus in the scope of the rule. An option contract is close by analogous [sic] to a springing limitation subject to a contingency, the contingency being the exercise of the option. (Citing cases).
+See also 14 M.I., page 405, Section 11, "Perpetuities and Restrictions on Alienation" wherein it is recited:
+"The rule against perpetuities does not apply to contracts generally, but it does apply to those contracts which attempt to pass a future equitable right in property.” Thus, whenever a contract raises an equitable right in property which the obligee can enforce in chancery by a decree for specific performance, such equitable right is subject to the rule against perpetuities.
+It has been repeatedly held that option contracts which do not necessarily expire within the period of limitation fixed by the rule against perpetuities are within the ban of that rule and cannot be enforced by either party. This rule applies to options to sell as well as options to buy. (Citing cases)
+Counsel for Rockydale Quarries Corporation contends that the instrument in question is actually a lease, and, consequently, is not within the provisions of the rule against perpetuities. However, the instrument in question, in the opinion of the Court is not an actual lease, but is a "right and option" as stated in the instrument itself to enter on the lands as long as the second party desired and continued the payment for the right and option for the purpose of testing and core drilling. This is not a lease, but it is a privilege without limitation as to time, and conditioned only on paying the $50.00 per month for the purpose of "testing and core drilling," and which payments were to continue "so long as the party of the second part desires to retain said right and option, but without establishing a quarry on said property." In reading the instrument in question it is apparent that it is an option and not a lease and without any limita-, tion as to the time for this to extend, it violates the rule against perpetuity, consequently, the instrument is not enforceable.
+A proper Decree may be presented for entry overruling the exceptions to the Commissioner's report, ratifying and approving said report and adjudicating the instrument in question as being void and unenforceable for the reason that it violates the rule against perpetuities, and dismissing the suit at the cost of the Defendants.
