@@ -1,0 +1,39 @@
+---
+court: "Virginia Beach Circuit Court"
+docket: "Case No. (Law) 10,178"
+decided: "1981-08-03"
+citations: ["7 Va. Cir. 73"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Coons & Thompson, Inc., t/a etc. v. William S. Lapin"]
+source_url: "https://static.case.law/va-cir/7/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3941753
+cites_cases: ["106 Va. 304", "85 Va. 421"]
+---
+
+# Coons & Thompson, Inc. v. Lapin
+
+## Majority (By JUDGE HENRY L. LAM)
+
+By JUDGE HENRY L. LAM
+This case is pending before the court at this time for a decision on the defendant's motion to set aside a Default Judgment that was entered against him on October 23, 1980. He moves to vacate this judgment on the basis of a lack of proper service of process.
+The defendant's present motion, and the evidence and argument presented thereupon do not pertain to the merits of the case. Also, the defendant, by his present appearance, does not supply a basis for jurisdiction, if the same should otherwise be found lacking. If correct, then the judgment entered on October 23, 1980, must be vacated and the plaintiff may then proceed again to obtain service of process.
+After studying this matter, I have concluded that: (a) the attempt at substituted service of process on the defendant was legally incorrect; and (b) the Default Judgment entered on October 23, 1980, is voidable, and hence is hereby vacated.
+Following the institution of suit on September 11, 1980, the Sheriff filed his return showing "door service" upon the defendant; this on September 13, 1980.
+Defendant alleges that "door service" pursuant to Section 8.01-296(2)(b), and notice pursuant to Rule 3:17 did not grant jurisdiction. He bases this on the sole fact that service was made at a place which was not "his usual place of abode." His evidence offered in support of such allegation was presented under the authority of § 8.01-326, and such evidentiary hearing was held on July 10, 1981.
+Capsuled, the evidence shows and defendant argues that service was made at his wife's legally titled residence. Both stated they were temporarily separated and although he had at times resided there, that her home was not his "usual place of abode." Mrs. Lapin supported his contentions. She further stated that although she physically came into possession of the process herein involved, she did not, because of their personal differences, communicate the receipt of the papers to her husband.
+The uncontradicted evidence further shows that the defendant does operate a business, and does reside and have a home in Utah for about one-half of each year.
+The fact that one may have more than one place of abode is legally recognized. That such can lead to unusual and irregular results and hardships, both to plaintiffs and to defendants, must be recognized. This does not, however, change the legal problem.
+The issue that causes me most concern is the obvious opportunity for fraud. Carefully nurtured, a husband and wife could easily cover one another, thus using their secret knowledge of their relationship as a shield against attacks by creditors. It is for this reason all dealings between husband and wife that tend to benefit or protect one or the other, or both, from creditors are suspicious by their very nature, and generally suspect to the courts. The law is well settled that dealings between husband and wife detrimental to a creditor (my use here includes a potential creditor) are presumed to be fraudulent. In this case, the temporary separation is most suspect. I regard it as such and hesitate to give any credence thereto.
+Why then do I mention these circumstances between the husband and wife when we are here involved with the sole issue of door service? I do so because of the law, and more so, because of the strict interpretation the court has placed on substituted service.
+In 14B M.J., § 3, 334, it is stated as a simple and fundamental proposition that "[t]he object of the service of process is to notify a party of the suit and bring him into court."
+Or to state such in the alternative; service is not for the sole purpose of allowing the plaintiff to obtain judgment upon the defendant, but for a purpose more important; and that is to give notice of a claim and bring the defendant into court so that there, under an appropriate system, issues in controversy may be litigated and resolved.
+It would thus appear that where the "return" is attacked, that rule of law is most just, would turn on the issue of "notice." That the defendant have "notice" and the opportunity to defend is the essence of justice.
+I draw your attention to the foregoing because under Section 8.01-296(2)(a), service on the defendant’s wife at the husband's usual place of abode is sufficient. In the case of Fowler v. Mosher, 85 Va. 421, 424 (1888), it is said, "[i]ts purpose was to require service upon some person who would feel interested by the ties of consanguinity, and the relation of dependence, to communicate the fact of service to the party for who it was designed."
+Under the section quoted, Mrs. Lapin saying that she was mad at her husband, hence never informed him of the process received, would be of no avail to her husband; jurisdiction would have been obtained if served on her at his usual place of abode.
+Yet here, where a more inferior form of substituted service (door service) is shown by the return, her acquiring the papers and testifying that she gave no notice to her husband because she was not interested and it did not involve her does not grant jurisdiction. If posted on the door of his usual place of abode, service would have been good and jurisdiction would have been obtained. But proof that it be his abode is essential.
+In the case of Fowler v. Mosher, supra, service had been made by delivering the papers to an adult boarder who resided at defendant’s abode. The adult boarder had delivered the papers to the defendant. The court (again on page 424) said that "although it may be said that in this case the appellant had actual notice of the service of process, and that the object and purpose of the law has been accomplished, yet this is fully answered, in our judgment, by the fact that it has not been done in the mode prescribed by law."
+Even a stricter construction on facts and more in keeping with this case may be found in Park v. Lane, 106 Va. 304 (1906). There the defendant husband received from his wife the process delivered to her, and this in time for the husband to have made defense to the charges. The court found, however, that the Sheriff had failed to show on his "return" that he had, at the time of delivery, given to the wife information of its "purport." The court then said "no proposition of law is better settled than that where constructive service of process is allowed in lieu of personal service, the terms of the statute by which it is authorized must be strictly complied with, or the service will be invalid."
+Consider if you will the fact that the courts have allowed the "residence" and "home” as proper alternatives to the term "abode.” "Abode" is easier understood when considered in connection therewith. As to this defendant, forgetting what has occurred in the past or what might reasonably be expected to occur in the future, at the time of the service in this case, was the site of service his "home"? As argued, the witness Shipp did refer to the defendant as her neighbor. But she also said that after the defendant had moved in, he stayed but a short while, then left. This latter supports his contentions, and the whole of the testimony appears consistent with and supportive of the defendant. For these reasons I conclude that service was not made at "his usual place of abode"; hence, was faulty.
