@@ -1,0 +1,44 @@
+---
+court: "Norfolk Circuit Court"
+docket: "Case No. (Law) L-83-321"
+decided: "1983-08-19"
+citations: ["6 Va. Cir. 54"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth of Virginia v. Michael Frederick Corwin"]
+source_url: "https://static.case.law/va-cir/6/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3784329
+cites_cases: ["213 Va. 330", "222 Va. 690"]
+---
+
+# Commonwealth v. Corwin
+
+## Majority (By JUDGE EDWARD L. RYAN, JR.)
+
+By JUDGE EDWARD L. RYAN, JR.
+Michael Frederick Corwin was served with an information under the Habitual Offenders Act alleging against him five convictions of driving on a suspended license. (An habitual offender is defined, inter alia, as any person convicted three times or more for driving on a suspended license. § 46.1-387.2(4).)
+It was suggested to the court that this matter be deferred for a period of twelve months and if defendant remains violation-free for that period then the information to be dismissed. The reasoning supporting the suggestion was that if the defendant can show cause, i.e. demonstrate reasons why he should not be so declared an habitual offender, then the court has the authority to exercise "its inherent discretion" in taking "whatever action it deems appropriate," including deferral of finding and ultimate dismissal. It was further said that if the court deems that the defendant has put forth "sufficient reasons," the court can, pursuant to Section 46.1-387.8, find the defendant is not an habitual offender and dismiss the proceeding. The court does not agree.
+The proceeding is entirely statutory and the court has no authority to do anything except those things actually authorized by the statute. The "inherent discretion" supposedly residing in the court would permit the dismissal of the action for any reason under the sun. This is neither good reasoning nor good law. As said in a Virginia case (McIntosh v. Commonwealth, 213 Va. 330 (1972)), where an unwarranted construction of a statute was urged on the court, "our construction would be a sheer invention, a trespass upon the legislative domain and an incursion upon the field of policy making."
+Section 46.1-387.1 declares it to be the policy of Virginia:
+1. To provide maximum safety for all persons using the highways; and
+2. To deny the privilege of operating motor vehicles to persons who by their conduct and record have shown their disrespect for the laws and safety of the highways; and
+3. To discourage repetition of criminal acts by individuals and to impose "increased and added deprivation of the privilege to operate motor vehicles upon habitual offenders who have been convicted repeatedly of violations of traffic laws."
+In McClure v. Commonwealth, 222 Va. 690 (1981), the Supreme Court said approvingly "The carnage on Virginia’s highways is a matter of common knowledge. The General Assembly enacted the Habitual Offender Act ‘[t]o provide maximum safety for all persons who travel or otherwise use the public highways of the State.’ Code § 46.1-387.1. Its judgment that certain persons, because of their past driving records, be denied the privilege of driving on our highways is a rational one."
+It has been said by some that the law is harsh, but this is the legislative will and the General Assembly has given no circuit court judge the unparalleled power to nullify the act if he thinks he should exercise some "inherent discretion" in any way he sees fit. The General Assembly has granted relief by an exercise of judicial discretion in certain instances, but this is carefully spelled out in the statute and no where is a circuit court granted general discretion to grant unfettered relief in any and all cases. Specifically, they are, as follows:
+1. If a person over twenty-one years of age has been adjudged an habitual offender based in whole or in part on findings of not innocent as a juvenile, the court may, on good cause shown, and in its discretion, restore to such person his driving privileges. Section 46.1- 387.2(d).
+2. If such person denies he was convicted the court may, in its discretion, certify the matter to the convicting court which shall forthwith conduct a hearing to determine such issue. § 46.1-387.5.
+3. If the court finds that such person is not the same person named in the transcript or abstract the proceeding shall be dismissed. This is also true if such person is not an habitual offender as defined in this act. § 46.1-387.6. (These are the only truly affirmative defenses provided for.)
+4. At the expiration of ten (10) years the court may, in its discretion, and for good cause shown, restore the privilege to operate a motor vehicle upon such terms and conditions as the court may prescribe. § 46.1-387.9.
+5. Any person adjudicated an habitual offender under Section 46.1-387.2(a)(5), now repealed, may petition for restoration of his driving privileges and also to purge from D.M.V. records the order declaring such person an habitual offender. § 46.1-387.9:1.
+6. Any person who has recovered from an addiction may be restored, after 5 years, if the court is satisfied from the evidence that such person is no longer addicted or psychologically dependent upon the use of alcohol or other drug and that such person does not constitute a threat to the safety and welfare of himself and others with regard to the operation of a motor vehicle. Section 46.1- 387.9:2. (In argument it was suggested that a proper defense would be a showing at any time that the person had completed successfully an alcohol rehabilitation program, but this could not be so as shown from No. 6, above.)
+It is not at once apparent what reasons the defendant in this case assigns as the grounds for the court to exercise its supposed "inherent discretion" and relieve him of being declared an habitual offender. It was said that this case was that rare one not involving aggravated features such as hit and run and drunk driving; also that defendant had somewhat innocently not realized that "mere" driving on a suspended license would or could lead to a 10-year deprivation of his operating privileges. Even if this argument had any appeal or merit, there is not statutory authority authorizing this court to take "whatever action it deems appropriate" in an exercise of "its inherent discretion." Such a holding would be an exercise in the unwarranted, because the statute does not authorize or permit such a result. The General Assembly has by definition declared his acts to be that of an habitual offender and no mere court can set that definition aside.
+The court must construe the law as it is written. The function of the courts is to ascertain what the law is and apply it as it exists, and not to ascertain what the law should be, or to legislate upon the subject. 4A M.J., Constitutional Law, § 51.
+If a change in a statute is desirable, it must be effected by the law-making body and not by the court. . . . And no liberality of construction will permit a court to read into a statute a provision which is not there, solely because such provision, if included, would in the opinion of the court make the statute more effective. Ibid., § 53.
+"Judicial discretion" is not an unlimited power but is one subject to fixed principles.
+"Judicial discretion" is not a capricious or arbitrary discretion, but an impartial discretion, guided and controlled in its exercise by fixed legal principles, and is not a mental discretion, to be exercised ex gratia, but a legal discretion, to be exercised in conformity with the spirit of the law and in a manner to subserve and not to impede or defeat ends of substantial justice.
+"Judicial discretion" is not the arbitrary will of the judge, but is a legal discretion to be exercised in discerning the course prescribed by law, which when discerned it is the duty of courts to follow. (Italics added.) 23 Words and Phrases, p. 497.
+"Judicial discretion” is liberty, privilege and power prescribed by and conferred upon the judiciary by law, and unless conferred by law it does not exist. Ibid., p. 498.
+It is true that § 46.1-387.5 provides that an order be directed to the person "to show cause why he should not be barred from operating a motor vehicle on the highways of this state." But this does not mean that defendant prevails if he shows anything that might appeal to the sympathies of an indulgent court. It means simply that he show one of the causes within the statute that palliates or grants some form of relief to him.
+By definition the defendant is an habitual offender and he has not shown any legal cause as to why he should not be barred from operating an automobile on the highways of this state for the statutory period. The Commonwealth’s Attorney may present an order for entry saving exceptions unto the defendant.
