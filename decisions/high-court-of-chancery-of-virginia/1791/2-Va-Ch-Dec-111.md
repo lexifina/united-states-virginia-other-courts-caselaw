@@ -1,7 +1,8 @@
 ---
 court: "High Court of Chancery of Virginia"
 decided: "1791-05"
-citations: ["2 Va. Ch. Dec. 111", "1 Va. Ch. Dec. 111"]
+decided_precision: "month"
+citations: ["2 Va. Ch. Dec. 111"]
 reporter: "va-ch-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Between WOOD JONES, appellant. and ELISHA WHITE, appellee."]
 source_url: "https://static.case.law/va-ch-dec/2/cases/0151-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6714413
-cites_cases: ["1 Wash, 116", "1 Wash. 116", "4 Call 253"]
+cites_cases: ["1 Wash. 116", "4 Call 253"]
 ---
 
 # Jones v. White
