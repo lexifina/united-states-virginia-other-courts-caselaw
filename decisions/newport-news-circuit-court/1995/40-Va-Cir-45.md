@@ -1,0 +1,36 @@
+---
+court: "Newport News Circuit Court"
+docket: "Case No. (Chancery) 26362"
+decided: "1995-08-23"
+citations: ["40 Va. Cir. 45"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Newcomb v. Martin’s Service Center et al."]
+source_url: "https://static.case.law/va-cir/40/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3857077
+cites_cases: ["102 Va. 914", "119 Va. 247", "218 Va. 625", "242 Va. 102", "246 Va. 22"]
+---
+
+# Newcomb v. Martin's Service Center
+
+## Majority (By Judge Verbena M. Askew)
+
+By Judge Verbena M. Askew
+This matter is before the Court on a demurrer filed by Defendant, Parker, on February 6, 1995. It states that Plaintiff’s Bill of Complaint contains “insufficient factual allegations to form a cause of action against Defendant Parker and, therefore, the . . . complaint should be dismissed as to defendant.”
+Statement of Facts
+In October, 1993, Plaintiff contacted Defendant Parker regarding repairs to the clutch mechanism of his car, a 1976 Porsche 911. Defendant indicated that he would be able to repair the car, and Plaintiff delivered the car to Defendant. Defendant later realized that the repairs would require additional space and tools and notified Plaintiff that he would need to have the car towed to Defendant Martin’s Service Center to have the work done. No work was done on the car at Martin’s Service Center, and in February, 1994, Defendant Parker notified Plaintiff that he would not be able to repair the car. Plaintiff went to Defendant Martin’s Service Center to demand return of the car, and the Defendant orally notified Plaintiff that it would not deliver the car unless he paid $1,700.00 in storage fees. Plaintiff contacted Defendant Parker, and Defendant Parker indicated he would get the car from Defendant Martin’s, and Service Center. This was never accomplished.
+Plaintiff filed his Bill of Complaint with the court on January 11, 1995. It contains two counts against Defendant Parker: first, that Defendant breached his duty to repair the car within a reasonable time through carelessness or neglect. Plaintiff claims this breach by Defendant Parker led Defendant Martin’s Service Center to charge Plaintiff storage fees. Second, that Defendant did not fulfill his representation that he would get the car from Defendant Martin’s Service Center, and this failure constitutes a breach of contract.
+Defendant Parker filed his demurrer on February 6, 1995. It states that Plaintiff’s Bill of Complaint contains “insufficient factual allegations to form a cause of action against Defendant Parker and, therefore, the . . . complaint should be dismissed as to defendant.”
+Opinion
+The contention that a pleading does not state a cause of action, or that such pleading fails to state facts upon which the relief demanded can be granted may be made by demurrer. § 8.01-273(A), Code of Virginia, as amended (1995). First, Defendant alleges that the complaint contains insufficient facts. The effect of a demurrer is to admit as true all allegations of material fact which are well pleaded. Commercial Constr. Specialties, Inc. v. ACM Constr. Mgt. Corp., 242 Va. 102 (1991). If all the averments of a declaration may be true without imposing a legal liability upon the defendant, a demurrer should be sustained. Smith v. Wolsiefer, 119 Va. 247 (1916).
+Defendant Parker’s allegation that the bill of complaint is factually insufficient fails since the complaint satisfies these requirements for a pleading. It reports all of the circumstances surrounding the actions. On the negligence action, the complaint states the facts concerning the proposed promise to fix the car and the time delay before the plaintiff was notified by the defendant that he would not fix the car. For the contract action, the complaint makes evident the conversation between the plaintiff and defendant concerning the agreement to return the car. There is also no mistake that Defendant Parker is clearly informed of the grounds of the actions against him.
+Even if a court finds that the pleading fails one of these requirements, the demurrer should be overruled.
+Even though a .. . bill of complaint may be imperfect, when it is drafted so that defendant cannot mistake the true nature of the claim, the trial court should overrule the demurrer; if a defendant desires more definite information or a more specific statement of the grounds of the claim, the defendant should request the court to order the plaintiff to file a bill of particulars. Cater-Corp, Inc. v. Catering Concepts, Inc., 246 Va. 22, 24 (1993).
+Therefore, under Defendant Parker’s claim that the complaint is factually insufficient, the demurrer should fail. The pleading satisfies the elements of a factually sufficient pleading, and there is no mistaking that the pleading sufficiently put the defendant on notice of the claims against him.
+Second, Defendant alleges that the pleading inadequately states a cause of action. A complaint is sufficient to withstand a demurrer if it informs the defendant of the nature of the demand made upon him and states such facts as will enable the court to say that if the facts are proved as alleged, they establish a good cause of action. Hortenstein v. Virginia-Carolina R. Co., 102 Va. 914 (1904).
+The second requirement is also satisfied. The plaintiff sufficiently states the facts to establish a good cause of action. Plaintiff’s first claim is a negligence action. The negligence theory presupposes some uniform standard of behavior. If the court finds that a reasonable man would have acted in a certain manner and that the defendant did not act in such a manner, then there is negligence on the part of the defendant. Therefore, if a court finds that there is a duty to repair the car within a reasonable time or if a reasonable man would have repaired the car within a reasonable time, then the Defendant would be found negligent. The Plaintiff’s bill of complaint contains this allegation of duty and breach of duty and specifies that he was harmed as a result of the Defendant’s negligence.
+Plaintiff’s claim for breach of contract is more vague but should still be enough to withstand the demurrer. The requirements of a contract (offer, acceptance, consideration) are not fully stated within the pleading, but “[w]hen a pleading is tested by demurrer, all reasonable inferences which a trier of fact may fairly and justly draw from the facts alleged must be considered by the court in aid of the pleading.” Burns v. Board of Supervisors, 218 Va. 625, 627 (1977). The Plaintiff alleges he had a conversation with Defendant Parker (Bill of Complaint 3), and it can be inferred that there were indications of the formation of a contract within that conversation.
+If the facts alleged in the bill of complaint are considered true, then the plaintiff has sufficiently stated a cause of action against Defendant Parker. The complaint sufficiently makes clear to the defendant the actions against him and adequately recounts the facts surrounding the situation.
+Plaintiff’s Bill of Complaint is sufficiently composed to withstand a demurrer by Defendant Parker. The demurrer is overruled.
