@@ -1,0 +1,24 @@
+---
+court: "Richmond Circuit Court"
+docket: "Case No. D-9426"
+decided: "1977-03-24"
+citations: ["5 Va. Cir. 481"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Timothy B. Berry v. Hartford Casualty Co., Hartford Accident and Indemnity Co., and Aetna Casualty and Surety Co."]
+source_url: "https://static.case.law/va-cir/5/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3896936
+cites_cases: ["117 S.E.2d 519", "162 Va. 378", "171 S.E.2d 669", "174 S.E. 117", "180 S.E.2d 533", "210 Va. 446", "211 Va. 414", "211 Va. 715", "217 Va. 694"]
+---
+
+# Berry v. Hartford Casualty Co.
+
+## Majority (By JUDGE WILLARD I. WALKER)
+
+By JUDGE WILLARD I. WALKER
+Petitioner in this action seeks to have the court accept jurisdiction of his petition pursuant to the Code of Virginia § 8-578, et seq. It is conceded that the plaintiff has acquired a final judgment against an uninsured motorist in the sum of $75,000 arising out of an automobile accident that occurred in Culpeper County, Virginia, on December 29, 1974. At the time that this petition for declaratory judgment was filed, the plaintiff’s rights had fully matured against the uninsured motorist and against the uninsured motorist carriers from whom he now seeks to recover. The plaintiff's sole basis for jurisdiction is that he cannot properly join the insurance companies in one action and needs declaratory relief from the court to advise him as to the sequence to be applied to the insurance interests involved.
+The parties rely heavily upon two Virginia cases, the defendants upon Liberty Mut. Ins. Co. v. Bishop, 211 Va. 414, 117 S.E.2d 519 (1970), and the petitioner upon Criterion Ins. Co. v. Grange Mut. Ins. Co., 210 Va. 446, 171 S.E.2d 669 (1970). Neither of these cases is directly on point. In Liberty Mut. Ins. Co., not only had all the rights and claims asserted accrued and matured and all of the wrongs suffered, but in addition, the petitioner was seeking, in essence, only a money damage award against the defendants. There was no question raised in that case as to the court's discretionary right to accept jurisdiction to sort out a sequence of insurance coverage. On the other hand, in Criterion, where a sequence of coverage was involved, the question of an abuse of the trial court’s discretion in accepting this case under Virginia Code § 8-578, et seq. was never raised in the Virginia Supreme Court. The same is true for a more recent decision of that court, Reliance Ins. Co. v. Darden, et al., [217 Va. 694], decided by Chief Justice I'Anson on March 4, 1977, Record No. 760371. These cases, therefore, do not give the court adequate guidance as to what action is proper where the sole issue before the court is to determine the sequence of coverage of uninsured motorist carriers and thus avoid multiplicity of suits. The court is guided in its ruling in the instant case by the language stated in Fairfield Development Corp. v. City of Virginia Beach, 211 Va. 715, 180 S.E.2d 533 (1971), and the cases cited therein.
+Notwithstanding the provisions of Virginia Code Section 8-585, the court is of the opinion that the instant case is not a proper one for declaratory relief. It is not the intention of Virginia Code Section 8-585 to substitute declaratory judgment proceedings for regular and adequate law remedies. Declaratory judgment proceedings are "intended to supplement rather than to supercede ordinary causes of action and to relieve litigants of the common law rule that no declaration of rights may be judicially adjudged until a right has been violated. Preventive relief is the moving purpose. Whether or not jurisdiction shall be taken is within the sound discretion of the trial court. Something more than ‘actual controversy is necessary. In common cases where a right has matured or a wrong has been suffered, customary processes of the court, where they are ample and adequate, should be adopted." American Nat. Bk. v. Kushner, 162 Va. 378, 174 S.E. 117 (1934). An adequate remedy at law does not necessarily mean a perfect remedy. The petitioner's grievance in this matter is that he might be required to bring two separate actions against the insurance companies, being unable to sue them jointly and severally in the same action. Without ruling upon that point, it is inconceivable to the court that the petitioner could not resolve the entire matter by obtaining a ruling in one action against one company from an appropriate trial court, or that he could not bring two separate actions and have them consolidated for a single hearing.
+For the reasons above stated, the court finds that the petitioner’s law remedies in this matter are adequate and, consequently, the petition for declaratory judgment herein must be dismissed.
