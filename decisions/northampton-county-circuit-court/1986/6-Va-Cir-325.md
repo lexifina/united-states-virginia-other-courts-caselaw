@@ -1,0 +1,28 @@
+---
+court: "Northampton County Circuit Court"
+docket: "Case No. (Chancery) 84-30"
+decided: "1986-05-13"
+citations: ["6 Va. Cir. 325"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chesapeake Bay Bridge and Tunnel District v. Sovran Bank, Trustee, et al."]
+source_url: "https://static.case.law/va-cir/6/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3784581
+---
+
+# Chesapeake Bay Bridge v. Sovran Bank
+
+## Majority (By JUDGE N. WESCOTT JACOB)
+
+By JUDGE N. WESCOTT JACOB
+Chesapeake Bay Bridge and Tunnel District brings suit for declaratory judgment against Sovran Bank as Trustee and the Virginia Division of Unclaimed Property asking that certain funds held by the Trustee not be turned over to the State under the Unclaimed Property Act.
+Under a trust indenture between the District and the Trustee, the District pays funds to the Trustee from toll revenues for the purpose of paying bond interest coupons as they become due and are presented for payment. These funds are held by the Trustee in an interest account. Under an agreement between the District and the Bank any interest held by the Bank remaining unpaid after ten years is deposited in an escrow account. The District gets the interest from this account to add to its general revenues.
+Since a large majority of the bonds issued by the District were bearer bonds and a large portion of these bonds (C bonds) went into default in 1970, a sizeable amount of interest has been unclaimed and the two accounts mentioned above have grown tremendously. Unquestionably these funds are a big help to the District and it is easy to understand why they do not want to part with them. The state, however, claims that these funds are subject to the Unclaimed Property Act and should be paid over to them.
+The District first argues that the Enabling Act passed by the General Assembly in 1956 precludes the application of the U.P.A. to these funds, since the U.P.A. does not repeal any of the provisions of the Enabling Act. This is a novel argument but one I find without merit. There can be no question that it was the intent of the legislature that the U.P.A. was to apply to any holder, public or private, of property deemed to be abandoned. I see no reason why these two acts of the legislature cannot exist in harmony without the necessity of repealing any of the provisions of the first act.
+The District contends that the State is not entitled to the presumption of abandonment as described in the U.P.A. Abandonment generally means to relinquish with the intent of never again resuming one’s right or interest. It is abundantly clear from a reading of the U.P.A. that this was not the meaning of the word as used by the legislature since the intent of the act is to reunite the owners with their unclaimed property. As the word, abandonment, is used in the U.P.A., it simply means that the owner has not made any claim, or shown any interest in the property for a specified period of time.
+The District advances the theory that they are the owners of the funds. The funds are paid over to the Trustee under the trust indenture for the purpose of paying interest to the bondholders as the interest becomes due. Certainly the owners of the funds in question are the bondholders.
+There can be no doubt that it was the intent of the legislature that the U.P.A. be given retroactive application. I agree with the Commonwealth’s argument that Section 55-210.12(g) which states that the initial report filed and the subsequent duty to pay shall include any items of property that would have been presumed abandoned if this chapter had been in effect during the ten-year period preceding January 1, 1961, is a clear and unequivocal expression of legislative intent.
+In reaching this decision there are two points made by the Attorney General that are very convincing. First, an opinion by the Attorney General dated December 2, 1983, to the Treasurer of Virginia opined that the U.P.A. was applicable to the District. There have been three sessions of the legislature since this opinion and the legislature has not seen fit to make any changes. Secondly, the legislature in 1983 passed an amendment to the U.P.A. which excluded funds held by the Virginia Supplemental Retirement System. Again there have been three sessions of the legislature since this amendment and the General Assembly has not seen fit to exclude funds held by the District or its Trustee.
+This brings us to the question as to whether Section 55-210.8 or Section 55-210.9 should apply to the funds in question. To answer this question we should look to who is actually the holder of the funds. The District, which is a public authority, or the Bank, which is a fiduciary. The Commonwealth claims that the holder is the District, since it is indebted to the bondholders. This argument overlooks the fact that under the trust indenture the District must pay funds from toll revenues to a fiduciary who in turn pays the interest as it becomes due. If the District had the right to hold the funds and pay the interest itself but chose to pay over the money to the Bank, I would feel that the District was the holder of the funds in question. However, under the trust indenture the District must pay the funds to a Trustee and has no right to demand that the funds be paid back to it. I, therefore, feel that the legal holder of the funds is the Bank in its fiduciary capacity under the trust indenture and thus Section 55-210.8 and the five-year period should apply.
