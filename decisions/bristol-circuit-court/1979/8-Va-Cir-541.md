@@ -1,0 +1,28 @@
+---
+court: "Bristol Circuit Court"
+decided: "1979-05-03"
+citations: ["8 Va. Cir. 541"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Grievance of Harold L. Hagy (Dept. of Highways and Transportation)"]
+source_url: "https://static.case.law/va-cir/8/cases/0541-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3784853
+---
+
+# In re Grievance of Hagy
+
+## Majority (By JUDGE WAYNE L. BELL)
+
+By JUDGE WAYNE L. BELL
+The major issue in this case concerns itself with the language of Virginia Code Section 2.1-114.5:1(A), which in pertinent part states as follows:
+Complaints shall be nongrievabte where they involve. . . (iv) failure to promote except where the employee can show established promotional policies or procedures were not followed or applied fairly. . . .
+At the time Mr. Turner sent the grievance on to the Commissioner he raised for the first time the issue of grievability under the above section. The Commissioner found, on the face of the record, that there was no showing that established promotional policies or procedures were not followed or applied fairly in accomplishing the promotion of Compton and in failing to promote the grievant.
+In' appealing the complaint to the Circuit Court on the issue of grievability, the Attorney General argues in his brief, the grievant in order to show that the issue is grievable must do more than allege that established promotional policies were not followed or applied fairly. The Attorney General states that the employee has the burden of showing that these policies were not followed or applied fairly. He further states that because a complaint regarding failure to promote is nongrievable until the employee shows that the established policies were not followed or applied fairly, it would not be appropriate to continue the grievance process for the sole purpose of deciding whether the grievance process is applicable. Accordingly, the Attorney General states, the court must deny the appeal unless the employee can show at this time that the established promotional policies were not followed or applied fairly.
+The language of the statute and the position ^ of the Attorney General raised an interesting question, namely, can the Circuit Court under the facts of this case decide whether the issue is grievable or nongrievable without at the same time deciding the merits of the case. The answer to that question turns on what is meant by the word "show." If the word "show" means that the grievant must establish with some considerable persuasion that promotional policies were violated or applied unfairly, then it is likely that the merits of the case would necessarily be determined by a ruling of this court. To that extent the function of the panel would almost be preempted. If the word "show” means merely that the grievant need only demonstrate the possibility of a factual dispute regarding the question, then the matter would not necessarily have to be decided on the merits (while determining grievability) but could be then remanded to a panel for a full hearing on the issue.
+The court is of the opinion that the statute does not intend the Circuit Court to rule on the merits of a grievance and thus it adopts the second interpretation of the word "show."
+With that done, it must now be asked if there is a sufficient factual dispute on the issue of promotability to require resolution by a full panel. The court is of the opinion that there is.
+The evidence revealed that there may be some question as to what "established promotional procedures” are, or were, at the time of the promotion. Is it a violation or misapplication of those procedures to obtain additional information at the third step of the grievance procedure where that information is unfavorable to the grievant? Should such an act be considered a part of the promotional procedure? Should reference checks have been utilized? Are they required under established promotional policies (which might have been established by past practice as well as administrative directives)? Were all questions asked of Hagy that were asked of Cpmptoa (and their respective supervisors) including their respective tendencies to accept responsibility, their prior work experience. etc., and if not, did this violate established promotional procedures or cause them to be applied unfairly? With these factual issues in dispute, and others, a panel should be convened to resolve them.
+When a panel convenes, a procedural irony might well be produced by virtue of the language of the statute itself. If the panel finds for the grievant, it will be ruling on the merits by finding, most likely, that established promotional policies had been violated or applied unfairly and would then proceed to fashion a remedy. If the panel rules against the grievant, it will likely be finding that established promotional policies were not violated or applied unfairly and will by definition also be finding that the complaint was not grievable (which under the statute is a finding for the Circuit Court to make). Thus, if the court rules on the facts, it would likely usurp the function of the panel, whereas if the panel were allowed to rule on the facts, its decision might contravene, in a technical sense, the Circuit Court's own ruling on grievability. The court feels that this resulting dilemma should be resolved in favor of the panel, so that it can decide the ultimate factual issues of the grievance, this being their unique function under the statute.
+Therefore, this matter shall be remanded to the Commissioner with directions to convene a panel to hear the merits of the grievance.
