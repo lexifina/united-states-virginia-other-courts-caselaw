@@ -1,0 +1,32 @@
+---
+court: "Stafford County Circuit Court"
+docket: "Case No. (Chancery) 96000256"
+decided: "1997-11-21"
+citations: ["44 Va. Cir. 51"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gennaro Mattiaccio v. Debra Lynn Mattiaccio"]
+source_url: "https://static.case.law/va-cir/44/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3906808
+cites_cases: ["11 Va. App. 89", "12 Va. App. 676", "16 Va. App. 335", "16 Va. App. 878", "16 Va. App. 98", "18 Va. App. 193", "19 Va. App. 709", "23 Va. App. 60", "241 Va. 447", "242 Va. 152", "243 Va. 94", "247 Va. 309", "253 Va. 93", "364 S.E.2d 523", "383 S.E.2d 471", "396 S.E.2d 698", "403 S.E.2d 334", "406 S.E.2d 401", "409 S.E.2d 117", "413 S.E.2d 611", "428 S.E.2d 294", "429 S.E.2d 618", "433 S.E.2d 920", "440 S.E.2d 908", "442 S.E.2d 694", "453 S.E.2d 580", "480 S.E.2d 471", "5 Va. App. 446", "8 Va. App. 502"]
+---
+
+# Mattiaccio v. Mattiaccio
+
+## Majority (By Judge James W. Haley, Jr.)
+
+By Judge James W. Haley, Jr.
+In this custody and support cause, Wife seeks reimbursement of approximately $5,500.00 in attorney’s fees in addition to those previously awarded. The court has reviewed the complete file and considered the correspondence with attachments provided by counsel relative to the requested award of attorney’s fees.
+In Gamer v. Gamer, 16 Va. App. 335, 346, 429 S.E.2d 618, 624 (1993) , the Court of Appeals stated:
+An award of attorney’s fees is discretionary with the court after considering the circumstances and equities of the entire case and is reviewable only for an abuse of discretion.
+See also, R. F. & P. Corp. v. Little, 247 Va. 309, 322, 440 S.E.2d 908, 919 (1994) ; Lassen v. Lassen, 8 Va. App. 502, 511, 383 S.E.2d 471 (1989); 6A M.J., Divorce and Alimony, § 81.
+An award should be reasonable “under all the circumstances revealed by the record.” Poliquin v. Poliquin, 12 Va. App. 676, 682, 406 S.E.2d 401, 405 (1991), quoting Westbrook v. Westbrook, 5 Va. App. 446, 458, 364 S.E.2d 523, 530 (1988).
+Those circumstances include “the amount of time the case lingered in the courts and the number of issues being contested ... .” Wilson v. Wilson, 18 Va. App. 193, 202, 442 S.E.2d 694, 697 (1994); the relative financial ability of the parties which “encompasses not just income but also assets,” L.C.S. v. S.A.S., 19 Va. App. 709, 721, 453 S.E.2d 580, 589 (1995); and reflection upon “the decision on the merits of the case.” Antonelli v. Antonelli, 11 Va. App. 89, 95, 396 S.E.2d 698, 701 (1990), reversed on other grounds, 242 Va. 152, 409 S.E.2d 117 (1991); see also Stratton v. Stratton, 16 Va. App. 878, 433 S.E.2d 920 (1993).
+In addition, and specifically relevant in the instant cause, is Barnes v. Barnes, 16 Va. App. 98, 106, 428 S.E.2d 294, 297 (1993). In affirming an award of attorney’s fees, the court noted that:
+The husband hindered the wife’s efforts to obtain a valuation of his interest in the insurance adjuster’s business by objecting to her request for production of documents on the ground that he did not possess the business accounts. As a result, the court held an additional hearing on that issue, and the wife incurred additional costs for filing and serving another request for the production of documents on the corporate entity in order to obtain the business records.
+On June 5, 1996, Mr. Mattiaccio, pro se, appealed an adverse custody decision of the Juvenile and Domestic Relations Court of Stafford County. As is his right, he represented himself in the proceedings in this court. A more than substantial portion of this voluminous file is the result of Mr. Mattiaccio’s erroneous understanding of procedure and his refusal to resolve matters, such as discovery issues, without a hearing on the merits. Numerous hearings were held in court on matters which in the normal course of litigation could have been resolved by phone conversation between counsel. On a number of occasions, Mr. Mattiaccio required counsel for his Wife to give notice of the entry of orders, and then himself failed to appear on the return date. As noted, Mr. Mattiaccio had every right to proceed pro se, but he has no right to use that status to require his Wife to expend attorney’s fees for matters that did not need hearings. Mr. Mattiaccio continued to proceed pro se until March 31, 1997, when he finally employed counsel. The first thing his counsel did was ask for a continuance on an already scheduled trial date. Finally, an agreed order resolving the issues was entered on September 25, 1997. That order, as pointed out by counsel for Wife, was substantially the same as had been entered by the Judge of the Juvenile and Domestic Relations Court on May 29, 1996, sixteen months before.
+Counsel for Wife has filed detailed records setting forth the services rendered for his client, including the time expended on each at his hourly rate. Counsel for Mr. Mattiaccio argues that, in the absence of expert evidence on the amount of attorney’s fees, the court is prohibited from awarding the same, Counsel relies upon Mullins v. Mullins, 241 Va. 447, 403 S.E.2d 334 (1991), in support of this argument. However, more recently in Tazewell Oil Co. v. United Va. Bank, 243 Va. 94, 112, 413 S.E.2d 611, 621 (1992), the Supreme Court stated that expert testimony as to the reasonableness of attorney’s fees “is not required in every case ... .” And in Seyfarth, Shaw v. Lake Fairfax Seven, L.P., 253 Va. 93, 97, 480 S.E.2d 471, 473 (1997), the Court, relying on Tazewell, stated that “we are of the opinion that the law firm was not required to present expert testimony to prove the reasonableness of the total fees charged to the defendants.” Finally, in Cooke v. Cooke, 23 Va. App. 60, 66, 474 S.E.2d 159, 164 (1996), the Court of Appeals, relying on Westbrook v. Westbrook, supra, 5 Va. App. at 458, 364 S.E.2d at 530, accepted without expert testimony a determination of attorney’s fees based upon the trial court’s finding that the fees awarded were in “an amount deemed consistent ‘with the charges prevailing in [the] jurisdiction’.”
+In light of the foregoing and with such a finding, the court orders an award of $2,500.00 attorney’s fees to be paid by Mr. Mattiaccio to Mrs. Mattiaccio within ninety days of the date of this letter opinion.
+“Where the trial judge finds that a fee award is justified, evidence of time expended and services rendered is a proper basis upon which to fix an award.”
