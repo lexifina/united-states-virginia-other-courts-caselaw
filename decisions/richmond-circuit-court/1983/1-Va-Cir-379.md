@@ -1,0 +1,29 @@
+---
+court: "Richmond Circuit Court"
+docket: "Case No. LF-112"
+decided: "1983-10-27"
+citations: ["1 Va. Cir. 379"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Board of Supervisors of Page County v. John McE. Garrett, etc., et al."]
+source_url: "https://static.case.law/va-cir/1/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3875057
+cites_cases: ["177 S.E.2d 519", "180 S.E.2d 533", "211 Va. 414", "211 Va. 715", "216 Va. 582", "221 S.E.2d 534"]
+---
+
+# Board of Supervisors v. Garrett
+
+## Majority (By JUDGE WILLARD I. WALKER)
+
+By JUDGE WILLARD I. WALKER
+This matter is before the court upon defendants' demurrer to the petition of the Board of Supervisors of Page County for a declaratory judgment. Plaintiff has sought a declaratory judgment of its rights and obligations concerning the payment of attorney fees incurred by a Special Commonwealth's Attorney in defending the Sheriff of Page County. The Special Commonwealth's Attorney was appointed by the Circuit Court of Page County. In its order of April 12, 1982, the Page County Circuit Court directed that compensation of $12,393.07 be paid from the "Treasury of the County of Page." Plaintiff asks for a declaratory judgment that the Commonwealth is responsible for the direct payment of attorney fees or, alternatively, that the Commonwealth is liable for the reimbursement of the fees. Defendants maintain that a declaratory judgment action is improper as the claims have fully matured, the alleged wrongs have already been suffered and there is an adequate exclusive remedy at law in §§ 8.01-192 et seq. of the Code of Virginia.
+The purpose of a declaratory judgment is to permit the declaration of rights before they mature. Liberty Mutual Insurance Co. v. Bishop, 211 Va. 414, 421, 177 S.E.2d 519, 524 (1970). Where the claims and rights asserted have fully matured and the alleged wrongs already suffered, a declaratory judgment is not an available remedy. Board of Supervisors v. Hylton Enterprises, Inc. 216 Va. 582, 585, 221 S.E.2d 534, 537 (1976). The power to make a declaratory judgment is discretionary. It will not, as a rule, be exercised where some other mode of proceeding is provided. Liberty Mutual Insurance Co. v. Bishop, 211 Va. 414. 421, 177 S.E.2d 519, 524 (1970).
+The first question is whether a declaratory judgment action can lie to ascertain the right of the plaintiff to have the Commonwealth pay the attorney fees directly to thé Special Commonwealth's Attorney. That issue has been resolved in the April 12, 1982, order to the County of Page to compensate the Special Commonwealth's Attorney from the County's treasury. At that time, the County had the opportunity to assert its rights and present the issue whether the Commonwealth is directly and primarily obligated to pay the fees. Since the claims and rights asserted regarding the obligation of direct payment have matured and have been litigated, a declaratory judgment action is not the proper remedy.
+The second question is whether the Board of Supervisors may maintain an action for declaratory judgment for reimbursement of the attorney fees. Defendants contend that § 8.01-192 et seq. of the Code of Virginia is the exclusive procedure available to the plaintiff. The Commonwealth asserts that the county has standing to adjudicate its claim directly under this statute and is thus without anticipatory rights necessary for declaratory judgment actions. Section 8.01-192 provides:
+When the Comptroller or other authorized person shall disallow, either in whole or in part, any such claim against the Commonwealth ... a right of action under this section shall be deemed to accrue, the person presenting such claim may petition an appropriate circuit court for redress.
+Under the statute, an action is deemed to have accrued upon the disallowance of the claim by the Comptroller. Plaintiff has made two unsuccessful attempts to collect the fees from the Commonwealth through administrative channels. Therefore, under the statutory language, the action for reimbursement has accrued.
+Moreover, a declaratory judgment proceeding will not as a rule be exercised where some other mode of proceeding is provided. 211 Va. at 421. Fairfield Development Corporation v. City of Virginia Beach, 211 Va. 715, 180 S.E.2d 533 (1971), dealt with a petition for declaratory judgment of the rights of developers to a refund of fees paid. The Supreme Court held that the developers were not entitled to a declaratory judgment because they were in essence seeking a money judgment for a sum certain and the developers had an adequate remedy at law by a motion for judgment.
+One distinguishing factor in the case at bar is that the fees for which reimbursement is sought have not yet been paid by the county, arguably rendering the action executory in nature. Failure by the county to pay the fees as ordered by the Circuit Court of Page County ought not be evidence of an anticipatory action. In seeking a refund of the money directed for payment by court order, plaintiff is seeking a money judgment for a sum certain. Declaratory judgment actions may not be used to secure delay. Liberty Mutual Insurance Co. v. Bishop, 177 S.E.2d at 522 (1970).
+In conclusion, plaintiff's motion for reimbursement of attorneys' fees by the Commonwealth is in essence an action for a money judgment and there is an adequate remedy at law. The claims of plaintiff have accrued under §§ 8.01-192 et seq. of the Code of Virginia, rendering declaratory judgment an unavailable remedy. Further, the action for direct payment of the fees has been previously adjudicated. The demurrer of defendants is sustained and this action is dismissed without leave to amend.
