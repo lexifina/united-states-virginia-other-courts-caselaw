@@ -1,0 +1,29 @@
+---
+court: "Richmond Law and Equity Court"
+decided: "1968-04-05"
+citations: ["7 Va. Cir. 392"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stanley S. Smith v. John W. Boice"]
+source_url: "https://static.case.law/va-cir/7/cases/0392-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3940075
+cites_cases: ["192 Va. 479", "194 Va. 142", "197 Va. 52", "202 Va. 624", "207 Va. 214"]
+---
+
+# Smith v. Boice
+
+## Majority (By JUDGE ALEX H. SANDS, JR.)
+
+By JUDGE ALEX H. SANDS, JR.
+Plaintiff's grounds of his motion to set aside the verdict, save as to the ground relating to Instruction F, are deemed to be without merit and only the latter ground will be considered.
+The uncontradicted evidence in the case is that plaintiff was crossing Monument Avenue at its intersection with Belmont Avenue. The evidence as to whether or not he was in the marked crosswalk is in conflict and for purposes of this motion it must be assumed that he was outside of the marked lines.
+Sec. 46.1-230 imposes upon the pedestrian three duties, viz: (a) to cross in a manner not to carelessly or maliciously interfere with the orderly passage of traffic, (b) to cross wherever possible at intersections, and (c) to cross only at right angles. The language added by the 1966 amendment is obviously inapplicable to the case at bar for here we have marked pedestrian crosswalks. Since the plaintiff was crossing at an intersection and was crossing at right angles, neither (b) nor (c) would be applicable. The only portion of 46.1-230 as to which the evidence would support a violation would be (a) and had the instruction, after quoting only the first sentence of 46.1-230 told the jury that a breach of such duty constituted negligence, the instruction would not have been objectionable. The finding portion of the instruction, however, is based upon a duty to stay in the marked crosswalk.
+In the first place, even though it be assumed that there was a duty upon plaintiff to remain in the marked crosswalk, such duty would be entirely unrelated to sec. 46.1-230. Having directed the attention of the jury to a specific statute and then instructed them as to the breach of a duty not covered by the statute was necessarily confusing and misleading. The instruction should not have been given as offered and the deletion by the Court of the last portion of sec. 46.1-230 in no manner cured the error. For this reason alone the plaintiff’s motion must be sustained.
+Though not necessary to the disposition of the pending motion it appears, in the second place, that the finding language of Instruction F is not a correct statement of the law. It tells the jury that where, as here, the crosswalk area is marked that plaintiff would be guilty of negligence as a matter of law in walking outside the marked lines albeit he was crossing at the intersection.
+I can find no authority to support this statement. There is a plethora of Virginia authority on the question as to whether a pedestrian crossing the street between intersections is or is not negligent as a matter of law. He was so held in Hodgson v. McCall, 197 Va. 52 (1955), and yet the language of the paragraph (p. 54) immediately following such holding (which states that Ha pedestrian crossing between intersections must exercise a higher degree of care than one crossing at an intersection”) suggests that the holding is based upon the facts of that particular case and that crossing between intersections is not negligence per se. This suggestion also appears from certain language of the Court in Reese v. Snelson, 192 Va. 479 at p. 489 (1951), and Brown v. Arthur, 202 Va. 624 (1961). It is also interesting that in both Danner v. Cunningham, 194 Va. 142 (1952), and Phillips v. Stewart, 207 Va. 214 (1966), the statement is made that where a pedestrian is struck at or near a regular street crossing (and no distinction is made between a marked and an unmarked crossing) that whether the pedestrian exercised proper care or was guilty of contributory negligence is almost invariably a question for the jury. Code sec. 46.1-230(a) presently reads:
+When crossing highways or streets, pedestrians shall not carelessly or maliciously interfere with the orderly passage of vehicles. They shall cross whenever possible only at intersections, but where intersections of streets contain no marked crosswalks pedestrians shall not be guilty of negligence as a matter of law for failure to cross at said intersection. They shall cross only at right angles. (Italics added.)
+The underscored part of the above statute was added by the legislature in 1966. Defendant strenuously contends that it must be implied from this language that the legislature intended that where marked crosswalks were present that it would constitute negligence as a matter of law for a pedestrian to negotiate a crossing in any manner save within the confines of the crosswalk. Had the legislature intended any such affirmative mandate it would, in all probability, have said so in specific language. A more reasonable and less strained interpretation of the legislative intent would appear to be that the intention was to deal with the act of crossing between not at intersections. It is further true that the rights of pedestrians and motorists are mutual and reciprocal unless otherwise provided by statute. Brown v. Arthur, 202 Va. 624 (1961). The language of 46.1-230 contains no language to modify the reciprocal rights of a motorist and a pedestrian crossing at an intersection.
+Instruction F, in addition to quoting an inapplicable statute, told the jury that if plaintiff was crossing at any place except within the confines of the marked crosswalk that he was negligent as a matter of law.
+For the above reasons the verdict will be set aside and a new trial awarded on all issues.
