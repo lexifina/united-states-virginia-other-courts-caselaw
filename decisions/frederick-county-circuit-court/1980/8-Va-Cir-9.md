@@ -1,0 +1,32 @@
+---
+court: "Frederick County Circuit Court"
+docket: "Case No. (Criminal) 3486"
+decided: "1980-10-16"
+citations: ["8 Va. Cir. 9"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederick County v. Wood"]
+source_url: "https://static.case.law/va-cir/8/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3784395
+cites_cases: ["194 Va. 517", "207 Va. 23", "430 U.S. 274"]
+---
+
+# Frederick County v. Wood
+
+## Majority (By JUDGE ROBERT K. WOLTZ)
+
+By JUDGE ROBERT K. WOLTZ
+The defendant is charged with operating a motor vehicle on which no County motor vehicle license tax had been paid under provisions of f 46.1*65. That section contains the enabling provisions authorizing localities to charge license fees upon motor vehicles, with the exceptions mentioned in i 46.1-66. >.
+The last-named section provides that no locality may impose a license fee upon any motor vehicle in several instances^ the only exception named applicable to this case being sub-section (6), which provides:
+The motor vehicle, trailer or semitrailer is operated by a common carrier of persons ‘ or property operating between cities and towns in this State and not in intracity transportation or between cities and towns on the one hand and points and places without cities and towns on the other and not in intracity transportation..
+The vehicle involved is a van-type truck which is owned by Air Freight Delivery , Service, a corporation (hereafter Air Freight); and the defendant wat merely the operator of the truck.
+The vehicles of Air Freight are principally garaged in Frederick County at its terminal, and it has a second terminal at Waynesboro. It transports goods only in pursuanee of an Interstate Commerce Commission certificate of convenience and necessity. It pays a Three Dollar registration fee on each vehicle to the State Corporation Commission. The modus operandi of Air Freight is as follows: after its trucks and vans have made collections of items to be transhipped by air freight carriers, trucks from the terminals make daily scheduled trips to Dulles International Airport, National Airport and Baltimore-Washington International Airport for the purpose of making delivery of the items to the appropriate air freight carrier. While at the airports, Air Freight accepts from the air freight carriers items consigned to persons within the operating territory of Air Freight, making deliveries thereof on the return trip to Air Freight’s own terminal or from these terminals.
+All shipments transported by Air Freight to or from the air freight carriers are interstate or foreign shipments. Under its certificate of convenience and necessity, Air Freight is required to give reasonable service to anyone requesting it and its rates are subject to the approval of the Interstate Commerce Commission.
+The defendant asserts that as the driver of a vehicle engaged solely in interstate and foreign commerce, imposition of the license tax under 8 46.1-65 is in violation of the Commerce Clause of the United States Constitution, or, if not, the exemption provided in 8 46.1-66(6) must be construed to exempt this vehicle, along with intrastate motor vehicle carriers, or if not so construed, it is discriminatory between intrastate and interstate commerce and, hence, in violation of the Commerce Clause of the Constitution.
+Defendant’s claim that simply because the tax is one on interstate commerce it cannot be sustained in the face of the Commerce Clause is too broadly and simplistically stated. In Complete Auto Transit, Inc. v. Brady, 430 U.S. 274, 97 S. Ct. 1076 (1977), a recent and definitive case on this point, the Court, after discussing numerous earlier cases, established a four-point test to determine whether a state or local tax could be upheld against a challenge based on the Commerce Clause. The tax will withstand such a challenge "when the tax is applied to an activity with a substantial nexus with the taxing State, is fairly apportioned, does not discriminate against interstate commerce, and is fairly related to the services provided by the State." 430 U.S. at 279. See also Lewis Trucking Corp. v. Commonwealth, 207 Va. 23 (1966), in which registration or license tax on the vehicles of a common carrier engaged solely in interstate transportation was upheld; East Coast Freight Lines v. City of Richmond, 194 Va. 517 (1953), in which a municipality’s ad valorem property tax on rolling stock of a railroad common carrier engaged in interstate commerce was upheld. The overall criterion for determining the validity of a state or local tax where interstate commerce is involved is whether or not the tax places a burden in the constitutional sense on interstate commerce.
+It was the office of Complete Auto to make the general criterion more definitive by application of its four-part test.
+This Court does not find it necessary, however, to decide the case on constitutional grounds, which in the application of at least one of the Complete Amo tests might involve considerable difficulty, finding that the case can be resolved on the basis of statutory construction of the exemption provided for in I 46.1-66(6).
+Overall a clear legislative intent appears not to exempt motor vehicles, of common carriers engaged in intracity transportation. If not engaged in that type of transportation, then they are exempt when operating "between cities and towns in this State. . . or between cities and towns on the one hand and points and places without cities and towns on the other; . ." Thus, motor vehicles operating in intrastate but not in intracity transportation are exempt under the first portion of the foregoing quotation. Why the phrase "in this State" does not appear in the second exemption granted by the quotation is unclear. Nevertheless, giving the phraseology in the second exemption provided in the quotation its plain meaning aqd at the same time avoiding constitutional involvements, both of which are good rules of statutory construction, if the motor vehicle here involved was, without engaging in: intracity transportation, operating "between cities and towns on the one hand and points and places without Cities and towns on the other," then it. met the exemption requirements.
+Consequently, the motor vehicle involved was statutorily exempt from payment of the Frederick County license fees otherwise chargeable under the provisions of 8 46.1-65.
