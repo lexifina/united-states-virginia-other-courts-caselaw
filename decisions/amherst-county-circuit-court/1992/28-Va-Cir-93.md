@@ -1,0 +1,32 @@
+---
+court: "Amherst County Circuit Court"
+docket: "Case No. 3873"
+decided: "1992-04-03"
+citations: ["28 Va. Cir. 93"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charlie Develo Thomas v. Builders Transport, Inc., and Phillip Friedburger Pearce"]
+source_url: "https://static.case.law/va-cir/28/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3931397
+cites_cases: ["180 Va. 456", "219 Va. 795", "219 Va. 838", "23 S.E.2d 217", "250 S.E.2d 741", "252 S.E.2d 315"]
+---
+
+# Thomas v. Builders Transport, Inc.
+
+## Majority (By Judge J. Michael Gamble)
+
+By Judge J. Michael Gamble
+I have received and reviewed the motion of the Defendants for the Court to reconsider its earlier ruling and exclude the portion of the testimony of James M. Rodman, M.D., where he states his conclusion that the heart attack of January 31, 1989, was caused by the motor vehicle accident of October 30, 1988. I have reviewed the depositions, medical records, and memoranda which have been submitted.
+Upon reconsideration of this issue, it is still my opinion that Dr. Rodman should be allowed to give his opinion that the heart attack on January 31, 1989, and the subsequent treatment and medical expenses were caused by the motor vehicle accident of October 30, 1988.
+The basic facts are that the Plaintiff was in an automobile accident in Amherst County on October 30, 1988. On January 31, 1989, he had a myocardial infarction (heart attack). The Plaintiff was treated for the heart attack at Lynchburg, Virginia Hospitals and at the University of Virginia Hospital in Charlottesville, Virginia. Eventually, after several hospitalizations, the Plaintiff was diagnosed as having a left ventricular pseudoaneurysm on the posterior wall of the heart and an aberrant circumflex marginal branch of the right coronary artery which supplied the posterior wall. The aneurysm was repaired at the University of Virginia on April 12, 1989. Irving L. Kron, M.D., a Professor of Surgery at the University of Virginia, with specialties in thoracic surgery and general vascular surgery, will testify that the trauma from the accident caused the pseudoaneurysm. Also, Thomas W. Nygaard, M.D., a cardiologist in Lynchburg, Virginia, will be called by the Plaintiff to testify that the trauma from the automobile accident caused the pseudoaneurysm and subsequent. heart attack.
+The Defendants will call J. V. Nixon, M.D., a Professor of Cardiology at the Medical College of Virginia, and Paul T. Frantz, M.D., a cardiothoracic surgeon from Roanoke, Virginia, to testify that the trauma from the automobile accident did not cause the pseudoaneurysm or the subsequent attack.
+James M. Rodman, M.D., is a family physician who has a clinical practice in Amherst County, Virginia. Dr. Rodman and his partners had previously treated the patient for medical problems prior to the automobile accident in 1988. Dr. Rodman testified that fifteen to twenty percent of his medical practice involves the treatment of heart patients and coronary care (heart disease). (Rod. Dep., p. 17).
+When asked about the cause of the Plaintiff’s heart attack in January, 1989, Dr. Rodman testified:
+It is my opinion that, to the best of my medical judgment, this gentleman was involved in an automobile accident. The force of that accident carried his body at a significant force into the steering wheel and at that point and time suffering a tear or rent in the area in question that later on brought him to the Emergency Room some ninety days later in dire straits, ultimately being fixed or repaired at Charlottesville in April of ‘89. (Rod. Dep., p. 16).
+It is the law of Virginia that the admissibility of expert testimony is generally within the sound discretion of the trial court. Noll v. Rahal, 219 Va. 795, 800, 250 S.E.2d 741 (1979). Additionally, the court in Noll held that the facts must show that the expert possesses sufficient knowledge, skill or experience to make him competent to testify as an expert in the subject matter of the inquiry. Id. at 800.
+Dr. Rodman is a clinical physician who has practiced in Amherst County since 1979 with fifteen to twenty percent of his practice involving heart ailments. This certainly qualifies Dr. Rodman to testify about the cause of the heart attack suffered by the Plaintiff. Dr. Rod-man stated an opinion of the causation of the heart attack which essentially agrees with the opinion ventured by both Dr. Kron and Dr. Nygaard. Further, of all of the physicians who may testify in this mater, Dr. Rodman has the greatest knowledge of the medical history of the Plaintiff.
+In Ives v. Redford, 219 Va. 838, 252 S.E.2d 315 (1979), the Supreme Court of Virginia considered whether a surgeon and a surgical pathologist could testify as experts in a medical malpractice case against a gynecologist. In Ives, the Supreme Court of Virginia declined to hold that only an expert practicing in a particular specialty is competent to testify. Id. at 841. The Court went further to note that “the rule followed generally elsewhere clearly permits a crossover between specialties with the test of qualification based upon the proposition that it is ‘the scope of the witness’ knowledge and not the artificial classification by title that should govern the threshold question of admissibility.” Id. at 841.
+Accordingly, the fact that Dr. Rodman is not a cardiologist or cardiothoracic surgeon does not prevent him from giving an expert opinion on this issue. The fact that Dr. Rodman may not be a member of one of these specialties only goes to the weight which the trier of fact may place on his testimony. Butler v. Greenwood, 180 Va. 456, 462, 23 S.E.2d 217 (1942).
+The Defendants have also requested that Dr. Rodman be required to attend the trial and exhibit his knowledge to the jury. Rule 4:7(a)(4)(E), (F) allows the court to require a witness to appear and testify. Because Dr. Rodman is a family physician, the court believes that the Defendants should be allowed to examine Dr. Rodman ore tenus before the jury. Accordingly, the court will require Dr. Rod-man to attend and testify if the defendants issue a witness summons for his presence at trial. The Defendants must promptly request that this summons be issued and pay the normal service fee. If this is not done, then the court will allow the Plaintiff to use the deposition of Dr. Rodman.
