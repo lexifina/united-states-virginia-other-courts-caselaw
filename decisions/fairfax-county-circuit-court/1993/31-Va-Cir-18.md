@@ -1,0 +1,45 @@
+---
+court: "Fairfax County Circuit Court"
+docket: "Case No (Law) 111478"
+decided: "1993-02-16"
+citations: ["31 Va. Cir. 18"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hyung Sik Jeun v. Sun Cha Kang and Brian K. Mun"]
+source_url: "https://static.case.law/va-cir/31/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3937033
+cites_cases: ["190 Va. 374", "213 Va. 414"]
+---
+
+# Hyung Sik Jeun v. Sun Cha Kang
+
+## Majority (By Judge Stanley P. Klein)
+
+By Judge Stanley P. Klein
+In his one count Motion for Judgment plaintiff Hyung Sik Jeun seeks a judgment against the defendants Sun Cha Kang and her son Brian K. Mun in the sum of $20,000 plus interest. After trial without a jury, the court took the matter under advisement and requested counsel to supply argument and authorities on several issues. The court has reviewed the memoranda supplied by counsel and for the reasons hereinafter set forth finds for the plaintiff solely against defendant Kang in the sum of $17,000 plus interest from date of judgment.
+I. Breach of Note Against Defendants Kang and Mun
+It is uncontested that in February 1990, Kang executed a document noting a transaction concerning twenty five thousand dollars. The document contained what appeared to be Mun’s signature in the upper right hand comer and Kang’s signature in the lower right hand comer. Jeun testified that the document was intended to be a promissory note. At trial the court ruled that the document was ambiguous and would admit parol evidence of the intent of the parties. Mun testified that he never saw the document prior to this litigation. While acknowledging that the signature looked like his, he testified that he did not sign any such document and no person including his mother had his authority to execute any such document for him.
+Although Kang’s counsel argued throughout the trial that the document was simply a receipt, Kang herself described the document as a promissory note and testified “that the loan evidenced by the document was for the realtor [her daughter], the Ohs [the parties actually receiving the loan proceeds], herself and everyone else.” Based upon this testimony it appears that both Jeun and Kang considered Kang responsible for repayment of the loan and the plaintiff has therefore established her liability.
+However, no evidence was adduced by the plaintiff that would support a finding of liability against Mun as a result of this document. Even according to Jeun’s own testimony, Mun’s signature was on the document before it contained any of the language supplied by Jeun and Kang. Based upon the testimony of all of the witnesses, the court finds that Mun did not sign the document with an expectation that it would become a promissory note. The court further finds that Kang did not have apparent authority to bind Mun at the time of her execution of this document. The “promissory note” cannot form the basis for a finding of liability against Mun.
+II. Failure to Pay Check Against Mun
+In early 1990 at the request of Kang, Mun signed a check drawn on his checking account in die sum of $23,000 and gave it to his mother. According to Mun, in the Korean culture a son should not question such a request from his mother. At the time that he signed the check Mun was working as a loan officer at a bank. The check was undated and was not payable to any person or to bearer. The check was tendered by Kang to Jeun who subsequently filled in his own name as payee. According to Jeun’s testimony, he eventually sought to negotiate the check by depositing it in a bank but the check was returned for insufficient funds. The testimony did not establish when Jeun claimed he deposited the check. It is uncontested that at the time he signed Exhibit # 3, Mun did not have sufficient funds in the account to cover the check, and in his Answer to the Motion for Judgment, Mun admitted that as of the filing of his Answer there were insufficient funds in the account to pay the check.
+Counsel for plaintiff correctly argues that pursuant to § 8.3-114 of the Code of Virginia, the negotiability of the check is not affected by the fact that it is undated. Most of the argument set out by counsel for Jeun and counsel for Mun in their respective memoranda centers on the issue of the authority of Jeun to have completed the check by making himself the payee. Counsel for Mun also argues that a one count Motion for Judgment which seeks recovery against two separate parties on the basis of two separate instruments violates Rule l:4(d) of the Rules of the Supreme Court of Virginia. The court need not decide either of these issues because the court finds that Jeun has failed to prove that Exhibit # 3 was timely presented for payment as required by the Code.
+In order for a cause of action to accrue for failure to pay a check, unless excused pursuant to § 8.3-511 of the Code, the check must be presented for payment. Although Jeun testified that he deposited the check, Exhibit # 3 contains no endorsements or markings which would indicate that it was deposited in any bank. Counsel for Jeun argues in his memorandum that Jeun never took the check to the bank for payment because he knew there were insufficient funds in the account. This argument runs contrary to Jeun’s trial testimony. Moreover, although the evidence was clear that Mun did not have sufficient funds in the account either to pay the check when he signed it or when he filed his Grounds of Defense to this lawsuit, there was no evidence presented by plaintiff that there were insufficient funds in the account when Jeun “presented” the check. Although Jeun did testify that he made demand on both Kang and Mun, the timing of the demand was never established. As the demand may have been well after a reasonable time for presentment of the check had expired, presentment cannot be excused under § 8.3-511(2)(b).
+Therefore, assuming without deciding that the Motion for Judgment was properly pleaded in one count and that Jeun’s completion of the check was not unauthorized, Jeun still has not proven by a preponderance of the evidence that he has satisfied all conditions precedent to recovery against Mun on the check. The court therefore finds for defendant Mun.
+III. Whether Prejudgment Interest Should be Recoverable
+Jeun received a total of $8,000 towards liquidation of the indebtedness evidenced by Exhibit # 1. Jeun claims that $3,000 of the payments were for six months of interest at the “Korean rate” (24% per annum). Counsel for Jeun asks the court to apply the remaining $5,000 towards the $25,000 principal, credit the $3,000 towards interest at the agreed rate and then award prejudgment interest at the judgment rate from July 1, 1990.
+Subject to certain statutory exceptions, no contract shall be made in Virginia calling for interest in excess of twelve percent per annum. Pursuant to § 6.1-330.56 of the Code, if the court determines that a contract is usurious, judgment shall be entered solely for the principal sum. Jeun argues (1) that the 24% interest rate herein was not usurious as the loan met the exception set out in § 6.1-330.75 of the Code; and (2) that if it were usurious Kang should be estopped from asserting that defense. The court finds both arguments unpersuasive.
+Jeun’s reliance on § 6.1-330.75 is misplaced. According to Jeun’s own argument, Kang executed the “promissory note” solely to benefit her daughter and her son. The Ohs used the funds in order to qualify to purchase their residence. The loan was not for any “business or investment purpose.” It was clearly for “family, household or personal purposes” and as a result this statutory exception to the usury statute is inapplicable.
+The court also rejects Jeun’s estoppel argument. This court refuses to extend the facts present in Heubusch and Reynolds v. Boone, 213 Va. 414 (1972), where an attorney fraudulently induced the loan, to the factual circumstances of this case. The court however also rejects Kang’s argument that pursuant to § 6.1-330.57 she should receive a credit of twice the usurious interest of $3,000 received by Jeun. That statute limits the recovery to the person who made the payments. The payments here were made either entirely by the Ohs or by the Ohs and Mun and therefore Kang cannot avail herself of the punitive benefits of the statute.
+Conclusion
+For each of the reasons stated above judgment is entered on behalf of plaintiff Jeun against defendant Kang in die sum of $17,000.00 plus interest from judgment and on behalf of defendant Mun.
+Exhibit # 1, the English translation of which was admitted in evidence as plaintiff s exhibit # 2.
+See Young v. Schriner, 190 Va. 374, 379 (1950).
+Plaintiff’s Exhibit # 3.
+See Sections 8.3-115 and 8.3-407 of the Code.
+See § 8.3-501 Official Comment 2.
+Plaintiffs Memorandum Regarding Issues Raised At Trial, p. 10.
+Section 8.3-503(2)(a).
+Section 6.1-330.55 of the Code.
