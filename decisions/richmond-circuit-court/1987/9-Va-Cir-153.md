@@ -1,0 +1,35 @@
+---
+court: "Richmond Circuit Court"
+docket: "Case No. LL6043"
+decided: "1987-07-08"
+citations: ["9 Va. Cir. 153"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["International Insurance Co. v. Virginia Property and Casualty Insurance Guaranty Association, Tarrance Foster, and Martha L. Tunstall"]
+source_url: "https://static.case.law/va-cir/9/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5727762
+cites_cases: ["Va. Code Ann. § 38.1-380", "Va. Code Ann. § 38.1-757", "Va. Code Ann. § 38.1-763", "Va. Code Ann. §§ 38.1-756.1"]
+---
+
+# International Insurance v. Virginia Property & Casualty Insurance Guaranty Ass'n
+
+## Majority (By JUDGE T. J. MARKOW)
+
+By JUDGE T. J. MARKOW
+Before the court are decisions on the plaintiff’s motion for summary judgment and the defendant Guaranty Association’s cross motion for summary judgment. The facts have been admitted in pleadings and in stipulations.
+Plaintiff, International Insurance Co. (International) issued an automobile liability insurance policy to Foster with limits of $25,000 for any one injury and $50,000 for all injuries arising out of the same accident. The policy provided Foster with $25,000 of uninsured motorist coverage. Foster was injured in an auto accident caused by Tunstall. Judgment for $50,000 has been entered against Tunstall in Foster’s favor.
+Tunstall was insured by Iowa National Mutual Insurance Company (Iowa National) with coverage limits of $50,000 for any one injury and $100,000 for all injuries arising out of one accident. Iowa National has been declared to be insolvent and cannot answer the judgment against Tun-stall.
+Under Chapter 20 of Title 38.1 of the Code (Va. Code Ann. §§ 38.1-756.1 to 38.1-774 (1981), now §§ 38.2-1600 to 38.2-1623), the Virginia Insurance Guaranty Association Act (the Act), the defendant Virginia Property and Casualty Insurance Guaranty Association (formerly Virginia Insurance Guaranty Association) has been called upon by Foster to satisfy his judgment. The Guaranty Association, however, says that Foster’s insurer, International, must first pay the $25,000 limits of its "Uninsured Motorist" coverage and then the Guaranty Association will pay the remaining $25,000. The parties have asked the court to declare their respective rights.
+To support its position, the Guaranty Association relies upon § 38.1-767(1) of the Code, which states that "Any person having a claim against an insurer under any provision in an insurance policy other than a policy of an insolvent insurer which is also a covered claim, shall be required to exhaust first his right under such policy." International says that this would defeat the purpose of the Act because if it pays it becomes subrogated to Foster’s rights against Tunstall and Tunstall would ultimately bear the $25,000 loss that the Guaranty Association refused to pay.
+The purpose of the Act stated in § 38.1-757 is "to provide a mechanism for the payment of covered claims under certain insurance policies to avoid excessive delay in payment and to avoid financial loss to claimants or policyholders because of the insolvency of an insurer . . . ." (emphasis added).
+To accomplish this, the Guaranty Association is obligated to pay certain covered claims (Va. Code Ann. Section 38.1-763(a)) and is "deemed the insurer to the extent of its obligation on the covered claims and to such extent shall have all rights, duties and obligations of the insolvent insurer as if the insurer had not become insolvent." Va. Code Ann. § 38.1-763(b). "Covered claims" are defined in § 38.1-760(4) of the Code generally as unpaid claims which are not in excess of the insolvent insurer’s policy limits, except amounts due other insurers as subrogation recoveries.
+The Guaranty Association’s argument that it is the insurer of last resort is persuasive. Its involvement in the payment of claims only where the claimant has exhausted any other sources of payment makes sense when one considers that the Guaranty Association is an association of insurance companies which must stand behind the liabilities of some competing company which did not make it in the marketplace. As between the Guaranty Association and a claimant having other available insurance, the statutory scheme makes the Guaranty Association an excess insurer.
+There are two reasons, however, why in this case the Guaranty Association is the primary insurer and is responsible for payment of the full judgment.
+First, from the perspective of Tunstall as claimant. As a policyholder of Iowa National, Tunstall is a claimant against it. It had a contractual obligation to pay any liabilities she incurred and which arose out of her operation of the covered automobile. Under the facts of this case, she has incurred such a liability and under her contract has a cause of action against Iowa National. The Guaranty Association has stepped into the shoes of Iowa National and it has become subject to that cause of action. From that perspective, Tunstall is the claimant against the Guaranty Association for a "covered claim." Under Va. Code Ann. § 38.1-763(b), the Guaranty Association is her insurer and has the duty to pay claims asserted against her, including this claim. Tunstall, not Foster, is the true claimant. Under the facts of this case, she has no other insurance. Her insurer, the Guaranty Association, is obligated to pay the judgment. Any other conclusion would avoid the stated purpose of the Act to "avoid financial loss to claimants because of the insolvency of an insurer." Va. Code Ann. § 38.1-757.
+Second, from the perspective of Foster as claimant. Foster’s claim against the Guaranty Association can only arise when he has execution on his judgment returned to him unsatisfied. Va. Code Ann. § 38.1-380. The court must assume that has been done here; otherwise, Foster has no standing against the Guaranty Association. Once Foster is in this position, he has the same claim and obligations as does Tunstall. As to Tunstall, the Guaranty Association is her insurer. Va. Code Ann. § 38.1-763(b).
+What the Guaranty Association urges is that Foster’s uninsured motorist insurance answer as Tunstall’s liability carrier to the extent of its limits. Tunstall is not uninsured, nor, in this case, is she underinsured. The Act makes the Guaranty Association her insurer. The Guaranty Association is not insolvent and, therefore, Foster’s
+uninsured motorist coverage is not available. Any other conclusion would pervert the legislative scheme of uninsured motorist insurance by converting the policy into liability insurance for Tunstall. The Guaranty Association should pay the entire judgment.
+International’s motion for summary judgment will be sustained, the cross motion for summary judgment will be overruled, as shown in the enclosed copy of the order.
+The incidents giving rise to this dispute arose prior to the revision of Title 38.1 of the Code. References here will be to the prerevision Code.
