@@ -1,0 +1,27 @@
+---
+court: "Alexandria Circuit Court"
+docket: "Case No. (Law) 9097"
+decided: "1985-07-22"
+citations: ["5 Va. Cir. 240"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Saba v. Keegan"]
+source_url: "https://static.case.law/va-cir/5/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3895119
+---
+
+# Saba v. Keegan
+
+## Majority (By JUDGE DONALD H. KENT)
+
+By JUDGE DONALD H. KENT
+This matter is before the Court on defendant’s Plea in Bar/Motion to Dismiss for Lack of Jurisdiction. Briefly, the facts of the case are as follows. The plaintiff’s decedent, Frederick Thompson, and the defendant were both employees of Global Travel, Inc. Mr. Thompson and the defendant participated in a "FAM-trip” to Williamsburg, Virginia, over the weekend of February 10, 1984. On Friday, February 10, 1984, they drove from Global’s Rosslyn office to the Amtrak station in Alexandria where they boarded the train to Williamsburg. While in Williamsburg, the parties attended conferences and sessions sponsored by Amtrak and Westpark Hotels. They returned to Alexandria on Sunday, February 12, 1984. After departing the train Mr. Thompson and the defendant proceeded to return home in the defendant’s car. While in route, the defendant’s car was involved in an accident resulting in the death of Mr. Thompson.
+In deciding whether this Court has jurisdiction to hear the plaintiff’s suit for negligence against the defendant, it is necessary to determine whether the parties were within the scope of their employment at the time of the accident. According to Marilyn Long, one of the owners and President of Global Travel, Inc., "FAM-trips are for people who are in the industry - airlines and/or hotels and tour operators — and they [are] available for a very nominal fee [to] people who will be ticketing or booking tours on airlines to accept this invitation to go to a destination." (Deposition transcript, p. 7) Ms. Long also testified in her deposition that FAM-trips promote the well-being of the company. (Deposition transcript, p. 18) Roy Regnier, Vice-President of Global Travel, Inc., testified in his deposition that Global encourages its people to take these FAM-trips. (Deposition transcript, p. 24) The purpose of these FAM-trips is to educate the travel agent. The agency pays the sponsor of the trip an enrollment fee of S25.00 per agent. The sponsor, in this case Amtrak and Westpark Hotels, pays for the agent’s expenses incurred during the trip.
+Although FAM-trips are not something Global required of its agents, participation in such activities is desirable and is encouraged. FAM-trips inure to the benefit of Global Travel, Inc., and "promote its well-being." Its agents are more effective if they are familiar with what the places they book have to offer tourists. A person is only entitled to participate in FAM-trips if he or she is an agent. The fact that an employee derives some personal benefit (such as a vacation) by going on a FAM-trip does not in itself remove the activity from being within the scope of his or her employment.
+With regard to dual-purpose trips, Larson in his treatise, Workmen's Compensation Law, § 18.00, p. 4-251, points out that "injury during a trip which serves both a business and a personal purpose is within the course of employment if the trip involves the performance of a service for the employer which could have caused the trip to be taken by someone even if it had not coincided with the personal journey." It is not unlikely that another agent of Global Travel, Inc., would have taken the FAM-trip to Williamsburg had Mr. Thompson and/or the defendant declined to go.
+The FAM-trip in question falls within the "special errand" exception to the "going and coming" rule. In Rogers v. Beneficial Finance Company, 52 O.I.C. 216 (1970), the Virginia Industrial Commission, quoting from Larson’s treatise, § 16.00, stated:
+The rule excluding off-premises injuries during the journey to and from work does not apply if the making of that journey. . . whether or not separately compensated for, is in itself a substantial part of the service for which the worker is employed.
+In the Rogers case the claimant was involved in a car accident while he was returning home from an awards dinner party sponsored by his employer. Noting that the dinner was work-related and that a close connection existed between the claimant’s motivation for attending the dinner and his employment, the Commission concluded that the claimant was engaged in a special errand and, therefore, his injuries were compensable. The agents’ contracts of employment with Global Travel, Inc., contemplate participation in FAM-trips. Clearly, the FAM-trip to Williams-burg was work-related.
+The plaintiff contends that even if the parties were on a special errand, their work terminated upon their arrival on Sunday at the Amtrak station. That would be true if this case were governed by the "going and coming" rule. However, since this case falls under the "special errand" exception, the "portal-to-portal" rule applies. That is, the employee is considered to be acting within the scope of his employment from the time he leaves his place of abode until he returns. Thus, the Court finds that the parties were acting within the scope of their employment at the time of the accident. The defendant’s Plea in Bar/Motion to Dismiss for Lack of Jurisdiction is granted.
