@@ -1,0 +1,34 @@
+---
+court: "Norfolk Circuit Court"
+docket: "Case No. (Chancery) C-83-900"
+decided: "1983-09-16"
+citations: ["7 Va. Cir. 196"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas T. Walsh v. William A. Pruitt, Commissioner, et al."]
+source_url: "https://static.case.law/va-cir/7/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3941613
+cites_cases: ["198 Va. 813", "211 Va. 560"]
+---
+
+# Walsh v. Pruitt
+
+## Majority (By JUDGE JOHN W. WINSTON)
+
+By JUDGE JOHN W. WINSTON
+Petitioner Walsh has appealed an adverse case decision of the Virginia Marine Resources Commission (Commission), the judicial review of that decision by this court being authorized by Virginia Code §§ 62.1-13.15, 9-6.14:16 and of Rule 2A:1 of the Rules of the Supreme Court of Virginia.
+The Commission and each of the individual respondents have demurred to the Petition as filed. In his turn Petitioner has moved that the Commission be joined as an additional formal party to these proceedings, if it is not already one.
+By previous agreement of all counsel consent orders were entered by this court on July 13, 1983, sustaining the demurrers of Carvel Blair, Edwin L. Rosenberg, and Patrick H. Knight and dismissing them from this suit.
+The remaining demurrers and the motion to join the Commission, if necessary, are the subject of this opinion letter.
+A brief summary of the facts which gave rise to these pleadings is appropriate here.
+Under date of March 18, 1983, Thomas T. Walsh (Petitioner) appealed to the Commission the March 9, 1983, decision of the Norfolk Wetlands Board which had denied his application for a permit. That appeal was the subject of a public hearing before the Commission on April 19, 1983, at which the record before and the decision of the Wetlands Board were reviewed. The hearing ended with a vote by the Commission members to uphold the Wetlands Board’s decision denying the permit. This vote was followed by a letter from the Commission to Thomas T. Walsh dated April 19, 1983, informing him that it (the Commission) had considered his appeal and "voted unanimously to uphold the decision of the local board."
+Thomas T. Walsh timely filed his Notice of Appeal from the Commission’s decision to this circuit court on May 18, 1983, by hand delivering a copy thereof to William A. Pruitt, Commissioner, Virginia Marine Resources Commission, at the Commission’s office in Newport News. The Commission stamped "Received" and the date of such receipt on the face of the Notice of Appeal. Commissioner Pruitt promptly acknowledged receipt of such Notice and arranged for the preparation of the transcript of the proceedings before the Commission for forwarding with the other records to this court.
+Through his counsel Thomas T. Walsh timely filed his "Petition For Appeal From Determination of Virginia Marine Resources Commission" with the Clerk of this Circuit Court on June 1, 1983. In the style of the Petition, he identified himself as the Petitioner and certain individuals as Respondents. Through inadvertence he did not identify the Virginia Marine Resources Commission in that style as a respondent, but did name William A. Pruitt, Commissioner, as one. Realizing his mistake, counsel obtained the amendment of the style of his already filed Petition to add the Commission as an additional respondent and thereafter obtained service of process upon the Commission on June 14, 1983. Being under the impression that the name of a party could be added to the already filed Petition for Appeal without prior entry of a court order, as long as no responsive pleadings had been filed (which there had not been), counsel did not first secure the entry of such an order before accomplishing the amendment.
+Turning first to the demurrers filed on behalf of respondents William A. Pruitt, Commissioner, of Frederick S. Fisher, of Robert Grabb, and of Walter Priest, each of these persons seeks his dismissal as a respondent because the Petition for Appeal alleges no cause of action against him and because he is not a proper "party" to this suit.
+The court is in agreement and will sustain those demurrers and dismiss each such respondent from this appeal. None of them are aggrieved freeholders nor are they affected persons or aggrieved parties. And none of them are officers or agents of the Virginia Marine Resources Commission against whom this action lies since they did not act individually here. Only the Commission as a body acted. Only Petitioner and the Commission are proper parties here. See Virginia Code §§ 62.1-13.15, 62.1-13.11(3), and 9-6.14:16. See also Rule 2A:1, Supreme Court of Virginia.
+But the court is not in agreement with the demurrer filed on behalf of the Commission. It asserts there that because of the manner in which the Commission was added as a party this court is without jurisdiction to consider the appeal. Its counsel relies upon local case law which holds that administrative appeals cannot be considered where a proper party respondent is omitted contrary to statute (Beckner v. Virginia Employment Commission ). where a non-party petitioner seeks appellate review (Blue Cross v. Kenley ). and where jurisdictional time requirements are not met (Health Systems Agency v. Kenley ).
+In the opinion of this court those cases are all distinguishable and not controlling here. For petitioner Walsh was a proper applicant on appeal who timely filed his Notice of Appeal and his Petition For Appeal, both from the case decision of the Virginia Marine Resources Commission. He thereafter timely added the Commission's name to the list of respondents shown on his Petition For Appeal. That the Commission was then served with legal process is unquestioned.
+Petitioner always sought to appeal from and obtain a court review of the Commission’s adverse case decision. Even a cursory review of the body of his Notice of Appeal and of his Petition for appeal can lead to no other conclusion. That he initially identified the Commissioner and not the Commission as a respondent does not change the thrust of his appellate efforts. That he thereafter formally identified the Commission as a respondent in his suit only confirms his original intentions. And such addition of the Commission's name was accomplished within the statutory period allowed for appeal.
+This case falls within the principles set out in Jacobson v. Southern Biscuit Co., 198 Va. 813 (1957), as approved in Rockwell v. Allman, Admr., 211 Va. 560, 561 (1971). The right party was always before this court although initially under the wrong name. Petitioner’s unassisted efforts to correct the situation that originally existed are now given court approval. Rule 1:9, Supreme Court of Virginia.
