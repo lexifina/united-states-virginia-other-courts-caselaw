@@ -1,0 +1,37 @@
+---
+court: "Arlington County Circuit Court"
+docket: "Case No. (Chancery) 33726"
+decided: "1985-01-21"
+citations: ["3 Va. Cir. 301"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sandra C. Ashton v. Harold Scott Ashton"]
+source_url: "https://static.case.law/va-cir/3/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3782661
+cites_cases: ["172 Va. 169", "200 Va. 119", "202 Va. 594", "202 Va. 96", "205 Va. 324"]
+---
+
+# Ashton v. Ashton
+
+## Majority (By JUDGE THOMAS R. MONROE)
+
+By JUDGE THOMAS R. MONROE
+This cause comes before the Court for consideration of exceptions to the Commissioner’s Report filed by Complainant and equitable distribution of property.
+A Commissioner in Chancery is appointed for the purpose of assisting the Court, not to replace the Court. The Chancellor does not delegate his judicial function and it is his duty to weigh the evidence according to the correct principles of law and to arrive at its own conclusions. Hoffecker v. Hoffecker, 200 Va. 119; Higgins v. Higgins, 205 Va. 324. A Commissioner’s Report is not entitled to the great weight given to a jury verdict; however it is entitled to great weight when the testimony has been taken in the Commissioner’s presence and the Report should not be disturbed unless it is unsupported by the evidence or the conclusions are clearly erroneous. Parksley National Bank v. Parks, 172 Va. 169; Newton v. Newton, 202 Va. 96; Thrasher v. Thrasher, 202 Va. 594.
+When viewed in light of these familiar principles, I am of the opinion that the Report in this instance must be and hereby is affirmed. Defendant is entitled to a divorce on the grounds of adultery committed by Complainant.
+Pursuant to Virginia Code Section 20-107.3, I must first determine the title ownership and value of real and personal property, and which of the properties are separate and which are marital. The following facts are made.
+The parties were married on September 8, 1979. No children were born of this marriage.
+The parties are owners, as tenants by the entire-ties, of a home in which Mrs. Ashton resides with her three children of former marriages. This house was purchased from Mr. and Mrs. William C. Crossman, parents of Complainant, Sandra C. Ashton, in March 1980, for $65,000.00. $5,350.00 was paid from personal funds of Harold Scott Ashton, and Complainant and Defendant executed a First Deed of Trust of $60,000.00 payable in monthly installments of $399.19 with interest at seven percentum per annum. Testimony and evidence were received that the property was worth $75,000.00 at the time: of purchase. The Defendant was a carpenter by trade and made approximately $45,000.00 worth of improvements to the home shortly after its purchase. Even though he contributed very substantial improvements to the home, this was done during the marriage and for the benefit of both parties. In the absence of evidence to the contrary, I am of the opinion that Mr. Ashton intended his contribution to be a gift and so find.
+The parties separated in January 1983, and Mr. Ashton has paid the principal, interest, title and taxes on the house from that date to the present. Testimony was offered that the home has a market value of $157,500. The home is marital property and each spouse owns an undivided one-half interest in this property.
+Defendant Harold Scott Ashton purchased a Lot H, Oscar Miller Farm, Berkeley County, West Virginia, on September 3, 1976, for $26,000.00. Testimony was presented valuing this property at $36,000.00. Complainant testified that she visited the property and helped to dig some post holes. Her visits were limited to three occasions. I find that Harold Scott Ashton held this property in his own name separate and apart from the Complainant. It is my opinion that this is separate property.
+Defendant Harold Scott Ashton entered into a construction agreement with Clifford M. Heath and daughter Patricia A. Heath for the construction of a home at Areola, Loudoun County, Virginia, in 1979. The Heaths owned the property and Defendant agreed to and did do the carpentry work on this home. The construction was completed and the home sold in August, 1980. Defendant received a note of $5,764.78 representing his interest as profit in the undertaking. This project was commenced before the marriage of the parties and completed during the time they resided as husband and wife. Mrs. Ashton worked in her husband’s construction business handling payroll, paying bills, typing and preparing taxes from September 1980, through the latter part of 1982. I am of the opinion that the Areola note is the separate property of Mr. Ashton.
+Mr. Ashton purchased a 1982 Ford truck in mid-1982 and titled the same in his name. He traded in a 1975 truck valued at $700.00 for the new truck. This new truck was primarily used in the business of Mr. Ashton and was encumbered with a lien of $7,000.00. Mrs. Ashton did not use this truck and she was not an insured driver of this truck. I am of the opinion that this truck is the separate property of Mr. Ashton.
+Some unrebutted evidence was received that a Certificate of Deposit amounting to $5,000.00 owned by Mrs. Ashton was placed in their joint names with Continental Federal Savings and Loan Association. The parties made a complete division of this Certificate of Deposit among themselves.
+Virginia Code Section 20-107.3(E) lists the factors to be considered in arriving at any award and the method of payment. Each of these factors, to the extent that there was evidence presented, has been considered. Mrs. Ashton worked in her husband’s business as a secretary running errands, answering phones, typing and bookkeeping in the parties’ home starting in 1982. She started to work part-time for A.R.I. at the same time. Mr. Ashton worked in his construction business as a carpenter. Each party contributed to the household expenses on an unequal basis. Mr. Ashton contributed a greater monetary share. The parties were married in 1979 and separated in January 1983. Mrs. Ashton is responsible for the dissolution of the marriage and the divorce will be decreed on the grounds of her adultery. The debts and liabilities of the parties other than the indebtedness on the marital home and the 1982 truck of Mr. Ashton have not been presented for consideration. No evidence was presented on the tax consequences to either party and no such consideration is found to be relevant in this cause. Mr. and Mrs. Ashton are 38 and 36 respectively and no evidence of physical or mental disability of either has been presented.
+It is my opinion that the marital home should be sold and the net proceeds divided equally between Mr. and Mrs. Ashton after first deducting from Mrs. Ash-ton’s share and reimbursing to Mr. Ashton one-half of the principal, interest, taxes and insurance payments he made on the home from January 1983, to the time of sale;
+That Mr. Ashton is entitled to Lot H, Oscar Miller Farm, Berkeley County, West Virginia, as his separate real property;
+That Mr. Ashton is entitled to the Areola note as his separate property; and
+That Mr. Ashton is entitled to the 1982 Ford truck as his separate property.
+Mrs. Ashton is responsible for the dissolution of the marriage by reason of her adulterous conduct and thus, she is not entitled to spousal support. Attorneys fees will be borne by the respective parties.
