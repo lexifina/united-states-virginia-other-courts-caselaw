@@ -1,0 +1,31 @@
+---
+court: "General Court of Virginia"
+decided: "1730"
+citations: ["1 Va. Col. Dec. 155"]
+reporter: "va-col-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Graves vs Boyd"]
+source_url: "https://static.case.law/va-col-dec/1/cases/0R45-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6038860
+---
+
+# Graves v. Boyd
+
+## Majority
+
+The Case
+The Pit. was seized of 125 Acres of Land with the Appurten’s in King and Queen County and Boyd agreed to purchase it of him at 90A\ price. The Agreem’t was reduced to writing and Each party bound to the other in the Penalty of 50;£. Boyd entred and was in possession some time and Graves offered to Convey the Land when ever Boyd shou’d tender the Deeds, But Boyd finding himself very much imposed upon in the Bargain and the Land not being Conveyed quitted the possession and refused to go on with the Purchase And Graves Exhibits his Bill to Compel him to a Specific Execution [156] of the Agreement. There are several matters charged in the Bill as that Deft, had left the Houses in a ruineous Condition and impoverish’d the Land by working several Slaves upon it But this is denied and the Witnesses sworn in the Cause prove the Answer to be true And that the Bargain is a very hard and unreasonable Bargain
+Two Witnesses swear that it is not worth above 30£ and another that he wou’d not give 15£ for it and another not above 10¿.
+There was at the time of Executing the Articles a Parol Agreem’t that the Pit. shou’d make a good Title to the Deft, in another small parcel of Land of 25 Acres which he had purchased of one Griffin But had no Conveyance for it And this was to be thrown into the Bargain And the Pit. had forbid Boyd to occupy that, and refused to Convey it to him
+Upon this Case it will be a question whether a Court of Equity will carry this Agreem’t into a Specifick Execution altho the Deft, was in possession of the Land some time
+I hope not for the following Reasons, first because the Pit. had not tender’d a Conveyance to the Deft, as by the Articles he ought to have done, And has refused to make the Deft, a Title to the 25 Acres Purchased of Griffin, But did forbid him to occupy it, Tho’ it was part of the Agreem’t as it is Sworn in the Answer Cro. Eliz. 517. For if the Pit. has made the first breach of the Articles he can have no pretence in Equity to Compel the Deft, to perform them on his part By reason of the unrighteousness and inequity of the Bargain The Agreem’t is to pay 90^. which appears at most, to be worth no more than half that Sum And two Witnesses swear they wou’d not give above 10 or 15^. for it which is extreamly hard and unreasonable
+It is a Rule in Equity I agree to Compel the specifick Execution of Agreem’ts But there is no Rule which a Court of Equity will not depart from rather than do the, least Injustice Or to do any thing that may be Severe and Oppressive on the one side, and unreasonable on the other to insist upon And that is the difference between Law and Equity For a Court of Law adheres to it’s own established Rules But a Court of Equity as it suspends the Rules of Law, so it will Supersede its own rules also
+Therefore the Court will not only in some Cases refuse to carry Agreem’ts into a Specifick Execution, but they will give relief ag’t unreasonable and unconscionable Bargains As where a young Man in the Lifetime of his Father buys Goods of a Tradesman And agrees to pay him five times the value at his Fathers death [157] Or where he sells the Reversion Expectant on the death of his Father at an under value in such Cases the Court of Chancery will set aside the agreem’t To which purpose there are multitude of Preced’ts but they will not be allowed to come up to the present Case, yet they prove that the Court of Chancery will Regard the Reasonableness of Bargains, and it may be justly inferred that if in the Case of a young Man, whose Extravagancies lead him to do a great many Impudent Things and to make foolish Bargains will set aside his Agreem’t They will not Compel a Man of riper Judgm’t to perform an Agreement to give three times the worth of a Thing whether he be overreached by the other Party & outdone by his Superior Cunning, Or whether without any Art of the Seller, he thro’ his own Indiscretion and folly makes such a Bargain
+And altho’ those who are Conversant in buying and Selling perswade themselves that there can be no wrong in insisting upon any Thing that is agreed be it ever so unjust or unreasonable
+They must understand this is one of the great vices of Trade which cannot be justified in joro Conscientice however it may be Countenanced by Example and practice of great numbers of People It is not only a fraud and Deceit to disguise and Conceal the faults of anything we Sell but it is likewise a fraud to over rate a Comod. and to sell any thing at an unreasonable price either by taking Advantage of the Buyer’s Ignorance or necessity (the Divines tell us) it’s a Sin which nothing but restitution can attone for
+Now if it be a Sin and a-Man in Conscience ought not to Insist on an unreasonable Bargain; no Court of Conscience will Decree such a Bargain to be Executed.
+But there are Preced’ts where the Court of Chancery have refused to Decree the Specifick Exon, of such Agreements as this As where the Father being in Debt agreed to give his Daughter in marriage more than he, 'her Mother and two other Daughters unpreferred wou’d have left, The Court Would not Decree the Agreem’t but left the Pit. to Law. 2 Cha. Ca. 17. So in a late Case since the year 1720. a Bill was brought in the Exchequer for the Specifick performance of Articles for a Purchase made in that year whereby it was agreed that 40 years Purchase shou’d be paid for the Lands There was a Decree in the Exchequer for the performance, but it was reversed in the House of Lords
+Obj. 1. Cha. Cases 42. An agreement in nature of Wager Decreed in Specie 1. Cha. Cas. 171. Agreem’t by ten’t in Tail shall bind the Issue in Tail if he Accepts it
+But the Court were of Opinion it was no hard Bargain because there were several Houses upon the Land So they Decreed the Agreem’t to be performed in Specie Yet the Houses were of no value [Missing. — W. W. S.] be good for nothing.
