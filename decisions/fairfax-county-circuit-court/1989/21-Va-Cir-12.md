@@ -1,0 +1,34 @@
+---
+court: "Fairfax County Circuit Court"
+docket: "Case No. (Law) 82193"
+decided: "1989-08-29"
+citations: ["21 Va. Cir. 12"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Brenda J. Pinson v. Lisa D. Burdette et al."]
+source_url: "https://static.case.law/va-cir/21/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3883746
+cites_cases: ["179 Va. 60", "183 Va. 851", "201 Va. 466"]
+---
+
+# Pinson v. Burdette
+
+## Majority (By JUDGE THOMAS S. KENNY)
+
+By JUDGE THOMAS S. KENNY
+This matter came before the Court on August 23 for argument on the plaintiff's motion to set aside the jury verdict and grant a new trial in this matter. The motion is denied and the judgment order entered in this matter on August 11, 1989, is allowed to stand.
+Plaintiff’s grounds for her motion rest on two principal points: first, defense counsel made improper statements in his opening and closing arguments, and the Court erred in dealing with them; and second, the jury’s verdict was contrary to the evidence in the case, and there was no reasonable basis on which it could have found a verdict in defendants’ favor. The Court will deal with each of these points in turn.
+Argument of Counsel
+The Court will only consider objections which were raised at trial; objections raised after the jury’s verdict come too late to be considered by the Court. Cooke v. Griggs, 183 Va. 851 (1945). Only two of plaintiff’s objections in her post verdict motion meet this threshold test of having been raised at trial.
+A. During opening statements, defense counsel commented that the police officer’s investigation "totally exonerated" the defendant; plaintiff’s counsel objected to the statement on the grounds that it was misleading. During the ensuing bench conference, the Court impliedly overruled the objection, stating that "Now each of you are making opening statements. It’s not testimony and you’re just going to have to now live with whatever the jury believes is . . . proved by the testimony.”
+Plaintiff’s counsel also asked the Court to permit him to inquire of the officer why he did not charge the defendant with a traffic violation at the scene. The transcript does not reflect any clear ruling by the Court on this request, but apparently all of the parties to the bench conference came away with the same feeling that the Court would not permit such a line of questioning (see, for example, page 69 of the transcript).
+Did the defense counsel's statement that the investigating officer had "exonerated” the defendant justify the setting aside of the jury verdict, or require me to allow the plaintiff to explore with the officer his reasons for charging or not charging the defendant with a crime? I think not. The court had already instructed the jury, during its preliminary remarks prior to opening statements, that the statements by counsel were not evidence in the case and should not be considered as such. Defense counsel has argued, in opposition to the motion for a new trial, that by his u?e of the word "exonerated,” he meant only that the officer believed the defendant’s statement that her brakes failed. This strikes the Court as somewhat disingenuous and contrary to the ordinary meaning of the word "exonerated”; however, I believe that any error in defense counsel's use of the term was harmless since the Court had already instructed the jury about opening statements, and plaintiff's counsel had ample opportunity to deal with the point in his examination of Officer Mountjoy and in his closing argument to the jury.
+Vlfith respect to the Court’s refusal to permit Officer Mountjoy to explain why he did not charge the defendant, I do not believe that this was error. If the officer had charged the defendant, and she had been acquitted or convicted (other than on a guilty plea) of the traffic offense, the disposition of the criminal action would not have been admissible. See, for example, Smith v. New Dixie Lines, 201 Va. 466 (1959). A fortiori, the police officer’s decision whether or not to charge in the first place is inadmissible, and I do not believe that Mr. Dyer’s reference to "exoneration" should change that rule.
+B. Plaintiff also objects to a statement made in defense counsel’s closing argument that "If Officer Mountjoy thought someone was driving around with brakes that had failed four times that morning, that he would have done something about it." Plaintiff’s counsel immediately objected, and the objection was sustained. Nothing more was asked of the Court. In retrospect, the Court wishes that both that comment and the "exoneration" comment in opening statement had been stricken, but I was not asked to do so, and I will not grant a new trial on that basis at this point. C. & O. Ry. Company v. Folkes, 179 Va. 60 (1942).
+Verdict Contrary to Evidence
+The second principal ground for plaintiff’s motion for a new trial is that it is contrary to the law and evidence and was without sufficient evidence to support it.
+Officer Mountjoy and Mr. Re testified to the defendant’s statements at the scene of the accident to the effect that she had been experiencing problems with her brakes. There was no indication of what kind of problems she had been experiencing. The defendant’s mother testified that the defendant had sent her car into the shop for work on the brakes eight to ten days before the accident and that she had taken very good care of her car. By its verdict, the jury presumably found that the defendant was not liable for the accident, not that the plaintiff suffered absolutely no damages. The question therefore becomes whether the state of the evidence outlined above was sufficient to permit a jury to conclude that Ms. Burdette was not negligent in driving her car.
+Had the Court been sitting without a jury, I would probably have found for the plaintiff on the question of liability. However, that does not mean that reasonable people cannot differ on the question, and it was for precisely that reason that the issue was submitted to the jury. Indeed, at the trial of the case, plaintiff’s counsel apparently believed that there was a legitimate jury question, for he submitted the following proposed instruction which was granted by the Court: "The driver of a vehicle has a duty not to drive with inadequate or improperly adjusted brakes. If the driver fails to perform this duty, then she is negligent." Plaintiff's counsel withdrew the following instruction which he had also offered: "As a matter of law, the defendant was negligent and her negligence was a proximate cause of the accident." I believe that the case was properly submitted to the jury, and the jury's verdict will not be overturned.
+For all of the foregoing reasons, the motion to set aside the verdict and grant a new trial is denied.
