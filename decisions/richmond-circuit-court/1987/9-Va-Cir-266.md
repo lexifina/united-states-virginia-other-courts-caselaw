@@ -1,0 +1,63 @@
+---
+court: "Richmond Circuit Court"
+decided: "1987-09-30"
+citations: ["9 Va. Cir. 266"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lawrence O. Snead, Jr., and Dr. Snead & Associates, Inc. v. Arthur W. Burke, Jr., and Arthur W. Burke, Jr., & Associates, P.C."]
+source_url: "https://static.case.law/va-cir/9/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5726194
+cites_cases: ["135 Va. 247", "178 Va. 223", "192 Va. 653", "217 Va. 782", "220 Va. 90", "222 Va. 392"]
+---
+
+# Snead v. Burke
+
+## Majority (By JUDGE ROBERT L. HARRIS, SR.)
+
+By JUDGE ROBERT L. HARRIS, SR.
+This case involves the actions of two physicians who practice medicine that diagnoses and treats cancer with the assistance of radiology. Dr. Snead has an established practice at 1104 West Franklin Street in Richmond, Virginia. Dr. Burke also practiced at that address, which has been leased by Dr. Snead for some time.
+Prior to the two doctors discussing Dr. Burke establishing a practice at West Franklin Street, both of them had reasons for such a move. Dr. Snead’s practice had diminished and needed an infusion of new patients. Dr. Burke had developed a large practice at the McGuire Clinic, but did not wish to continue there. To establish a private, radiology practice, Dr. Burke needed access to appropriate radiology equipment, which Dr. Snead could provide.
+It is obvious that both doctors had much to gain, individually, from forming some sort of association to practice radiology diagnosis and therapy.
+Based on the testimony taken at trial, I made the following findings.
+1. Dr. Burke fully intended to practice out of two locations West Franklin Street and a new cancer center established as part of the Mary Washington Hospital community in Fredericksburg. He intended to hire an associate to assist him at 1104 West Franklin Street.
+2. Dr. Burke intended to be director or codirector of the new facility in Fredericksburg, and he did not conceal that intent from Dr. Snead.
+3. Dr. Burke was primarily responsible for no partnership agreement being consummated. There was more than adequate testimony related to Dr. Burke’s unreasonable refusal to negotiate or discuss, substantively, the terms of an agreement. By his actions, i.e., setting up his practice in Dr. Snead’s building, exercising control over building renovation, making equipment selection, and demanding control of the operation of the facility, Dr. Burke clearly demonstrated he considered himself entitled to the prerequisites of partner status, yet he refused to accept his responsibilities in reaching an appropriate agreement.
+4. Dr. Snead, as a result of Dr. Burke’s insensitive and obstructive acts, was in an intolerable situation, and was justified in bringing the matter to a resolution by instituting an action of unlawful detainer.
+5. Dr. Burke’s counterclaim was not proven. Counts 1 and 2 alleged fraud, and were not proven by clear and convincing evidence. Neither doctor entered into the discussions with a fraudulent or improper motive, and therefore there was no fraud perpetrated on either by the other. Similarly, Dr. Burke’s third count, concerning tortious interference by Dr. Snead in the business and professional relations Dr. Burke had with patients, employees, and "the partnership," was not proven by clear and convincing evidence. Dr. Burke abandoned his fourth count involving conspiracy.
+6. Dr. Burke caused damage to Dr. Snead by refusing to sign a document requested by the Internal Revenue Service to support a claim of an investment tax credit. Dr. Snead was damaged in the amount of $8,172.00, plus interest from the date he paid the Internal Revenue Service.
+At my request, the parties submitted post-trial memoranda on three issues.
+1. Was there a partnership or other entity formed by the parties to buy and operate the cobalt radiation machine?
+2. How is the entity to be dissolved?
+3. Where does ownership of the cobalt radiation machine lie after the entity is dissolved?
+I shall discuss each issue in turn.
+1. What form did the enterprise that bought the cobalt machine take?
+Dr. Burke has contended that he and Dr. Snead entered into "an oral partnership agreement" to buy, own, and use the cobalt machine in their separate practices. Dr. Snead insists that no partnership was formed, using three arguments:
+a. Because the evidence shows an intent to produce a written agreement, and none was made, there is "a presumption that no final contract has been entered into, which requires strong evidence to overcome." Atlantic Const. Realty Co. v. Robertson’s Executor, 135 Va. 247, 253-54 (1923).
+b. Because the evidence does not show a meeting of minds on the partnership agreement, it did not come into existence. There is evidence of prolonged attempts by Dr. Snead to obtain that necessary meeting of minds, but except for a statement by Dr. Burke’s counsel in a brief to this court, there is scant evidence, if any, that there was an equivalent effort by Dr. Burke.
+c. Because the period of performance of the partnership agreement was to continue for more than one year, the Statute of Frauds bars an action on such an agreement without a writing. Va. Code § 11-2. Dr. Burke properly points out that the Statute of Frauds does not bar an action on an agreement that could have been performed within twelve months, but that is not relevant here. Here no evidence has been submitted that either party contemplated that to be possible. In addition, the parties spent some time informing the court that their intentions were to use the cobalt machine for approximately five years.
+On the other hand, the evidence shows that it was agreed that each party would pay a joint entity 35% of the revenues coming from using the cobalt machine as a sort of rent of the machine, and that each party would share equally through the joint entity in the building renovations and acquisition costs associated with the machine. The parties agreed to divide any profits or losses of the joint entity equally.
+It is the opinion of the court that a joint venture was formed to buy, install, and offer for use the cobalt machine. Dr. Snead objects to this conclusion, and refers to a standard law encyclopedia for his position. 10B Michie’s Jurisprudence, Joint Ventures, § 3, at 464-65 (1977). Dr. Snead’s counsel is correct in his partial quotation, but he fails to continue to the conclusion of that cited paragraph.
+But in the absence of an express agreement, the parties in a joint venture share profits and losses, and therefore the absence of such express agreement is no proof that there is no joint venture. [Citations omitted]
+Id. at 465.
+The Evidence presented to the court was sufficient to show that the absence of a written agreement did not affect the existence of a joint venture. The parties’ course of conduct, as well as their testimony as to the operation of the enterprise, permits no other conclusion.
+Continuing with the treatment in Michie’s, a joint venture is not terminated "until its performance is accomplished, or until such accomplishment becomes impracticable." Id. at 466. Whether a joint venture exists is a question of fact. Here the evidence shows that there was a joint venture. Both Dr. Snead and Dr. Burke testified that they shared equally in buying the machine and renovating the building for it. They both testified that each paid 35% of their billings to the joint venture. Finally, each testified that they shared equally the profits and losses accruing to the joint venture of operating the machine.
+2. How is the joint venture to be dissolved?
+As noted above, a joint venture is terminated when the purpose that produced the enterprise ends, or becomes irrelevant. Until then, the parties are bound by their expressed or implied contract. When the joint venture is dissolved, the capital is returned to the parties in proportion to their contributions, lacking an agreement to the contrary. Legum Furniture Corp. v. Levine, 217 Va. 782, 787-88 (1977); Accord American Realty Trust v. Chase Manhattan Bank, N.A., 222 Va. 392, 413 (1981). "If a joint venture existed between American and Chase, the rights and liabilities stemming from the relationship would have continued past the foreclosure to the final sellout."
+Here the court finds that the parties have made the purpose of the joint venture irrelevant. By their actions, they are not working together to use the cobalt machine. Therefore the joint venture is terminated as a matter of fact, and its assets are to be divided among the joint venturers according to their capital contributions, that is, equally. The assets of the joint venture consist solely of the cobalt machine. The other capital spent by the joint venture was applied to improvements to the leasehold. Those improvements belong to the fee holder, Porcellini Associates, when the leasehold ends.
+3. Where does ownership of the cobalt machine lie after the entity is dissolved?
+The joint venturers own a half interest in the cobalt machine. Dr. Snead has proposed that the machine is a fixture. It is (1) annexed to the realty, (2) applied to the use of the realty, and (3) intended by the parties annexing the machine to the realty to make it a permanent annexation to the freehold. See, State Highway and Transportation Commissioner v. Edwards Co., Inc., 220 Va. 90, 94 (1979).
+Dr. Burke contends that such intent is lacking. On the contrary, Dr. Burke points out that there is no evidence of intent by himself in annexing the machine to the realty, and that lacking that showing of intent, there can be no annexation. Dr. Burke points out further that the owner of the freehold, Porcellini Associates, is the only party that can claim the annexation.
+In support of his position, Dr. Burke cites Mullins v. Sturgill, 192 Va. 653, 658-59 (1951).
+The intention of the party making the annexation is the paramount and controlling consideration. The test of intention is given broad signification. It does not imply a secret, undisclosed action of the mind to the owner of the property. The intention need not be expressed in words, it may be inferred from the nature of the article affixed, the purpose for which it was affixed, the relationship of the party making the annexation and the structure and mode of annexation, [citations omitted.]
+Reviewing the evidence presented, looking to the nature of the machine, its purpose, the parties, and the building, the court finds as a matter of fact that the joint venturers intended to annex the cobalt machine to the freehold, and that the interest in the machine held by them is no longer an asset to be divided in proportion to their capital contributions.
+First, structural modifications were made to the leasehold. Second, the cobalt machine is an essential part of the use made of the structure, i.e., a radiology therapy practice and replaced a similar machine there. Third, substantial damage would have to be done to the structure to remove the machine. See the analysis made in Danville Holding Corp. v. Clement, 178 Va. 223 (1941), and in Mullins v. Sturgill, cited earlier.
+Summary
+The court finds:
+1. Dr. Burke’s interest in the joint venture arises from his capital investment. The part of that capital that paid for renovations to the building no longer represents an interest, because the owners of the building acquire title to such improvements. Dr. Burke’s interest in the cobalt machine, once the joint venture is terminated, also passes to the parties with a property interest in the building. That is, the lease holder has a right to the building and its fixtures during the term of the lease, and the owners receive title free of any encumbrances arising from the lease once it is terminated.
+2. Dr. Snead was damaged by Dr. Burke’s failure to sign the investment tax credit form for the I.R.S. in the amount of $8,172.00, and is entitled to be reimbursed for that amount with interest at 8% from the date that Dr. Snead actually paid that amount to the I.R.S.
+3. Dr. Snead is entitled to recover full use of the premises he has leased at 1104 West Franklin Street, and Dr. Burke is denied any use of those premises.
+4. Dr. Burke has no leasehold or personal property interest in the leased premises at 1104 West Franklin Street.
+5. The cobalt machine is a fixture of the freehold, and upon termination of the lease, ownership will vest in the owners of the freehold.
+6. The court does not require an additional hearing to terminate the joint venture. The parties have terminated their enterprise as a matter of fact.
