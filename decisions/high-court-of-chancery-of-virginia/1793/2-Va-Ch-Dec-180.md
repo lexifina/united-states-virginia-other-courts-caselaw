@@ -1,7 +1,8 @@
 ---
 court: "High Court of Chancery of Virginia"
 decided: "1793-03"
-citations: ["2 Va. Ch. Dec. 180", "1 Va. Ch. Dec. 180"]
+decided_precision: "month"
+citations: ["2 Va. Ch. Dec. 180"]
 reporter: "va-ch-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
