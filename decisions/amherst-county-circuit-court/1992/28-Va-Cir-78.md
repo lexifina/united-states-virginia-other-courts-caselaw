@@ -1,0 +1,37 @@
+---
+court: "Amherst County Circuit Court"
+docket: "Case No. (Law) 3949"
+decided: "1992-03-02"
+citations: ["28 Va. Cir. 78"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Melissa W. Blanks v. Fred Allen Brooks"]
+source_url: "https://static.case.law/va-cir/28/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3933463
+cites_cases: ["202 S.E.2d 917", "214 Va. 667", "221 Va. 638", "233 Va. 111", "241 Va. 542", "272 S.E.2d 217", "353 S.E.2d 767"]
+---
+
+# Blanks v. Brooks
+
+## Majority (By Judge J. Michael Gamble)
+
+By Judge J. Michael Gamble
+I am writing this letter to furnish you with my opinion whether judgments which issued in previous cases preclude the issue of fault and/or negligence from being litigated in the above-styled matter on the grounds of either res judicata or collateral estoppel.
+Mr. Shrader, on behalf of the plaintiff, Melissa W. Blanks, has filed a motion for summary judgment which asserts that as a result of the verdict in the case of Fred Allen Brooks v. Melissa W. Blanks tried in the Circuit Court of Amherst County with a jury on February 1, 1990, all matters of negligence between the plaintiff and the defendant in the instant case have been determined on the grounds of collateral estoppel on res judicata.
+Prior to discussing the law pertaining to this issue, it is important to understand the history of this matter. This case arose out of an automobile accident on March 25, 1989, in Amherst County at the intersection of Amelon Road and U. S. Route 29 in Madison Heights, Virginia. One vehicle was operated by the plaintiff, Melissa W. Blanks, and the other vehicle was operated by the defendant, Fred Allen Brooks. Richard H. Gilbert, Jr., was a passenger in the vehicle of Fred Allen Brooks. Both vehicles were damages in the accident, and each of the persons named above claimed injury resulting from the accident. Also Brooks and Blanks claimed property damage.
+Fred Allen Brooks filed the first action for property damage under the style of Fred Brooks v. Melissa Blanks in the General District Court of Amherst County. Melissa Blanks filed a counterclaim for property damage. This case was removed to the Circuit Court of Amherst County and tried in the Circuit Court of Amherst County before a jury on February 1, 1990. The jury returned a verdict against Fred Brooks on his claim but in favor of Melissa Blanks on her counterclaim for property damage in the amount of $3,795.25. Judgment was entered on the jury verdict. The verdict was not appealed and became final.
+Later, the personal injury case of Richard H. Gilbert, Jr. v. Melissa Blanks and Fred A. Brooks was tried in the Circuit Court of Amherst County on June 20, 1991. The jury in that case returned a verdict of $100,000.00 against Melissa Blanks but not against Fred Allen Brooks. Judgment was entered on this verdict, and it was not appealed. Accordingly, it is a final judgment.
+The plaintiff in the instant case, Melissa W. Blanks, argues that in the case of Fred Brooks v. Melissa Blanks tried on February 1, 1990, the issue of fault between Melissa Blanks and Fred Brooks has been determined. Therefore, she seeks to offensively use collateral estoppel and/or res judicata. Fred Allen Brooks asserts that res judicata or collateral estoppel by earlier judgment does not apply because juries have returned different verdicts against different drivers in the two previous cases. This Court, however, finds that the issue of liability between Melissa W. Blanks and Fred Allen Brooks has been determined by the previous litigation of Fred Brooks v. Melissa Blanks wherein Melissa Blanks obtained judgment on her counterclaim. The reasons are set forth below.
+First, it is necessary to distinguish terms res judicata and estoppel by judgment (collateral estoppel).
+The doctrine of res judicata precludes the litigation of the same cause of action. Lake Monticello Service Co. v. Board of Supervisors, 233 Va. 111, 114, 353 S.E.2d 767 (1987). As noted by the Supreme Court of Virginia in Bates v. Devers, 214 Va. 667, 670, 202 S.E.2d 917, 920 (1974):
+A valid personal judgment on the merits ... bars relitigation of the same cause of action or any part thereof which could have been litigated between the same parties and their privies.
+The issues raised in the instant case of Melissa W. Blanks v. Fred Allen Brooks are not the same cause of action as the prior two cases. The first case involved the claim of Brooks for property damage against Blanks, and the counterclaim of Blanks for property damage against Brooks. The second case involved the claim for personal injuries of Gilbert against Blanks and Brooks. The instant case is a claim for personal injuries by Blanks against Brooks. Therefore, although the parties in the instant case are the same as Fred Brooks v. Melissa Blanks, it is not the same cause of action.
+Collateral estoppel occurs when an issue of fact has been litigated in a different cause of action. In Bates v. Devers, 214 Va. 667, 671, 202 S.E.2d 917 (1974), the Supreme Court of Virginia defined collateral estoppel as follows:
+Collateral estoppel is the preclusive effect impacting in a subsequent action based upon a collateral and different cause of action. In the subsequent action, the parties to the first action and their privies are precluded from litigating any issue of fact actually litigated and essential to a valid and final personal judgment in the first action. See Restatement of Judgments, §§ 68, 82 (1942).
+In order for collateral estoppel to apply, the same parties and their privies must have been parties to the prior proceeding which litigated the earlier issue of fact. Lake Monticello Service Co. v. Board of Sup., 233 Va. 111, 114, 353 S.E.2d 767 (1987). Additionally, in order for collateral estoppel to apply, there must be mutuality between the parties. As noted in N. & W. v. Bailey, 221 Va. 638, 640, 272 S.E.2d 217 (1980):
+Thus, according to the principle of mutuality, to which there are exceptions, the litigant is generally prevented from invoking the preclusive force of a judgment unless he would have been bound had the prior litigation of the issue reached the opposite result.
+In N. & W. v. Bailey, id., at 642, the Supreme Court of Virginia specifically refused to abrogate the rule of mutuality where offensive use of collateral estoppel is sought as in the instant case. See also, Dual & Associates v. Wells, 241 Va. 542, 545-546 (1991).
+In the instant case, the plaintiff, Melissa W. Blanks, may use offensive collateral estoppel to preclude the issue of negligence from being litigated as a result of her judgment in the case of Fred Brooks v. Melissa Blanks tried on February 1, 1990. The case of Fred Brooks v. Melissa Blanks was a different cause of action which involved the same parties and the same factual issue of liability. In that case, the jury, affirmed by the Court, resolved the issue of liability in favor of Melissa W. Blanks against Fred Allen Brooks. This issue was actually litigated in that different cause of action between the same parties. Accordingly, the plaintiff in the instant case, Melissa W. Blanks, is entitled to utilize offensive collateral estoppel.
+Accordingly, the Court rules that the issue of liability has been decided in favor of Melissa W. Blanks, and the trial scheduled in this matter shall only proceed on the issue of damages.
