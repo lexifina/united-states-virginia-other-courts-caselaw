@@ -1,7 +1,8 @@
 ---
 court: "High Court of Chancery of Virginia"
 decided: "1791-05"
-citations: ["2 Va. Ch. Dec. 114", "1 Va. Ch. Dec. 114"]
+decided_precision: "month"
+citations: ["2 Va. Ch. Dec. 114"]
 reporter: "va-ch-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["*Between WILLIAM DAWSON, plaintiff, and BEVERLEY WINSLOW, defendent."
 source_url: "https://static.case.law/va-ch-dec/2/cases/0152-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6714422
-cites_cases: ["1 Wash. 1", "1 Wash., 158"]
+cites_cases: ["1 Wash., 158"]
 ---
 
 # Dawson v. Winslow
