@@ -1,0 +1,42 @@
+---
+court: "Chesterfield County Circuit Court"
+docket: "Case No. CH90-1686"
+decided: "1991-03-07"
+citations: ["26 Va. Cir. 18"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Trustees of Asbury United Methodist Church v. Taylor & Parrish, Inc."]
+source_url: "https://static.case.law/va-cir/26/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3931311
+cites_cases: ["103 Va. 559", "140 Va. 592", "159 Va. 446", "182 Va. 156", "215 Va. 489", "238 Va. 187", "5 Va. Cir. 267", "7 Va. Cir. 537", "Va. Code Ann. § 57-15", "Va. Code Ann. § 8.01-581.02"]
+---
+
+# Trustees of Asbury United Methodist Church v. Taylor & Parrish, Inc.
+
+## Majority (By Judge Herbert C. Gill, Jr.)
+
+By Judge Herbert C. Gill, Jr.
+This matter came before the Court upon the defendant’s Application to Compel Arbitration. The Application was filed in response to the plaintiff’s Motion for Declaratory Judgment. A hearing was held on March 6, 1991.
+After careful consideration of the argument heard and the evidence presented, defendant’s application is granted. The parties shall submit their dispute to arbitration.
+The General Conditions of the Contract for Construction was included among the Contract Documents and is thus a part of the Contract. Standard Form of Agreement Between Owner and Contractor (hereinafter “Agreement”), paragraph 1.1.
+Paragraph 7.9.1 of the General Conditions specifically provides that “[a]ll claims, disputes and other matters in question between the Contractor and the Owner arising out of, or relating to, the Contract Documents or the breach thereof . . . shall be decided by arbitration.”
+Taylor & Parrish filed a Demand for Arbitration with the American Arbitration Association in accordance with the contract. The church refused to respond to this demand and instead filed this proceeding.
+Where, as here, a party presents a valid agreement to arbitrate, and the opposing party’s refusal to arbitrate, the Court must order the parties to proceed with arbitration. Va. Code Ann. § 8.01-581.02; Piland Corp. v. League Construction Co., Inc., 238 Va. 187, 190 (1989). The Court may, however, stay an arbitration proceeding on a showing that there is no agreement to arbitrate. Va. Code § 8.01-581.02(6).
+The plaintiffs contend that the dispute does not involve the contract, but a Change Order dated June 29, 1990. The Change Order was executed by Glidewell and Travis on behalf of the church. The plaintiffs assert that the Change Order is invalid as it was executed by only two of the church trustees without authority from the congregation as provided by the laws of the Commonwealth of Virginia and the Discipline of the United Methodist Church. Va. Code Ann. § 57-15; Caine v. Rea, et al., 159 Va. 446 (1932); Building Supplies Corp. v. Jefferies, et al., 140 Va. 592 (1924); Globe Furniture Co. v. Jerusalem Church, 103 Va. 559 (1905).
+Thus, the plaintiffs assert that the dispute is not arbitrable because (1) there is no dispute under the contract itself and (2) since there is a bond fide dispute as to the validity of the change order, the arbitration proceeding should be stayed pursuant to § 8.01-581.02(6).
+It is the province of the Court to determine the threshold question of arbitrability, given the terms of the contract between the parties. Doyle & Russell, Inc. v. Roanoke Hospital, 215 Va. 489, 494 (1973).
+In this instance, the Arbitration Clause of the General Conditions of the Contract reaches all matters relating to the contract Documents. The language of the arbitration clause indicates an agreement with broad reach as to arbitrable issues. See, Heritage Washington Street Corp. v. Construction Management Systems, Inc., 5 Va. Cir. 267, 269 (Alexandria, 1985). The Contract Documents include all modifications issued after execution of the Contract. Agreement, paragraph 1.1.
+The Change Order was an attempt to modify the Agreement. As such, it is included among the Contract Documents. The validity of the original contract and the arbitration clause therein has not been questioned. The dispute as to the Change Order arises out of, or relates to, the Contract. Thus, the dispute as to the Change Order is subject to arbitration.
+December 17, 1991
+The parties were before the Court on September 18,1991, to argue the respondent’s Application to Confirm in Part and Modify in Part the Award of the Arbitrator (“Application”).
+Pursuant to this Court’s order entered March 22,1991, arbitration hearings were held in this matter on June 17 and 18,1991. In sum, the arbitrator held that the trustees of the Asbury United Methodist Church (“the Church”) who signed a change order dated June 29, 1990, had no actual or apparent authority to bind the Church for the excess sums claimed by Taylor & Parrish to be due and owing above the original contract amount. The arbitrator, however, granted leave to Taylor & Parrish to pursue a claim in quantum meruit for payment of the reasonable value of its services and the structure conferred upon the Church. This issue is the source of controversy now before the Court.
+Section 8.01-581.010(3) of the Code of Virginia (Uniform Arbitration Act) states that “upon application of a party, the court shall vacate an award where ... the arbitrators exceeded their powers.” Furthermore, pursuant to Section 8.01-581.011, the Court shall modify or correct the award where “the arbitrators have awarded upon a matter not submitted to them and the award may be corrected without affecting the merits of the decision upon the issues submitted.”
+Case law also addresses the issue of vacating or modifying an arbitrator’s award. In Sydnor Co. v. County School Board, 182 Va. 156 (1943), the Court stated that in an arbitration proceeding if an award is outside the submission, it is invalid. Furthermore, the Court stated that “awards that do not conform to the submission are void. The agreement of submission is the arbitrator’s charter of authority.” Id. at 168.
+In this case, the nature of the dispute between the parties is a contract entered into on November 16,1988, for the construction of a new sanctuary and education building to benefit the church. The dispute also involved a change order, dated June 29, 1990, which was signed by trustees of the church. (See Demand for Arbitration submitted by Taylor & Parrish, Inc.)
+Section 7.9.1 of the contract provided that all claims, disputes, and other matters in question between the contractor and the owner arising out of, or relating to, the contract documents or the breach thereof . . . shall be decided by arbitration . . . unless the parties mutually agree otherwise.
+The only issue submitted to arbitration, based upon Taylor & Parrish’s Application to Compel Arbitration, and its Demand for Arbitration filed with the American Arbitration Association, was the enforceability of the change order as a document arising out of, or relating to, the original contract of November 18,1988. The Court’s opinion letter, dated March 7,1991, reaffirms that the dispute as to the change order arises out of, or relates to, the contract and states that “the dispute as to the change order is subject to arbitration.”
+Also, there is no indication in Taylor & Parrish’s Demand for Arbitration, its Application to Compel Arbitration, nor the court’s Order Compelling Arbitration that the parties submitted the issue of quantum meruit to the arbitrator. Therefore, the arbitrator exceeded his power and the scope of submission by granting leave to Taylor & Parrish to proceed on a quantum meruit theory.
+Finally, in the case of Weaver Associates, Inc. v. Bell, 7 Va. Cir. 537, 539 (1979), the Circuit Court of the City of Alexandria held that “where the arbitrator’s award encompasses matters which are, and other matters which are not, within the submission, the Court may reject the excess, and uphold so much of the award as is within the submission if it can be separated.” Since the arbitrator made a ruling on the effect of the change order on the Church, such issue properly before him, this ruling may be upheld.
+Since the issue of quantum meruit was not submitted to the arbitrator by the parties and therefore not in his “jurisdiction,” the Court may reject this part of the arbitrator’s ruling and confirm that part of the ruling based on the issue submitted for arbitration. Accordingly, respondent’s Application is hereby granted.
