@@ -1,0 +1,31 @@
+---
+court: "Fairfax County Circuit Court"
+docket: "Case No. (Law) 137159"
+decided: "1995-07-14"
+citations: ["38 Va. Cir. 71"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John D. Perkins, Executor of the Estate of George H. Britton v. Stewart Title Guaranty Co. et al."]
+source_url: "https://static.case.law/va-cir/38/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3900000
+cites_cases: ["100 N.W.2d 335", "127 Va. 65", "216 P.2d 179", "219 Va. 997", "254 S.E.2d 58", "294 A.2d 865", "75 Va. 274"]
+---
+
+# Perkins v. Stewart Title Guaranty Co.
+
+## Majority (By Judge Gerald Bruce Lee)
+
+By Judge Gerald Bruce Lee
+This matter is before the Court on Defendants’ Chester K. Wyskiel and the Estate of Elizabeth L. Wyskiel (Buyers) Demurrer to John D. Perkins’, as Executor of the Estate of George H. Britton (Seller), Motion for Judgment alleging breach of contract. The issue presented is who bears the risk of loss of theft of escrow funds in a real estate transaction after closing when property is conveyed by an estate to a purchaser within one year of the death of the testator. See Va. Code § 64.1-183. Seller contends that the statutory one-year waiting period prior to conveyance of good title to real estate is an unmet escrow condition under the terms of the Sales Contract, and therefore, the risk of loss should remain on the buyer for up to one year after closing. Buyers maintain that they met their obligations under the Sales Contract by tendering the purchase funds to the escrow agent at closing. In turn, at settlement, Buyers received a deed from the Seller. Buyer contends that title to the escrow funds passed to the Seller at closing, therefore the risk of loss of the escrow funds falls on the Seller. Having considered the argument and memoranda of counsel, the Court holds that Buyers’ Demurrer is sustained, and the case is dismissed as to breach of contract with prejudice.
+Facts
+Seller entered into a written contract with the Buyers to sell a Reston, Virginia, townhouse located in a retirement community. Motion for Judgment at 2. The parties designated Madison Title and Escrow, Inc. (Madison Title) to act as escrow agent for both parties. Id. at 3. Defendant Stewart Title Guaranty Corporation (Stewart) issued the title insurance for the sale, Madison Title was the authorized agent of Stewart for Virginia. Motion for Judgment at 4.'
+Closing occurred on January 31, 1994. Buyers paid Madison Title the purchase price at closing. Id. at 8. The townhome was conveyed to Buyers by deed executed by the Seller and recorded February 1,1994. The settlement proceeds were held in escrow by Madison Title. Id. at 4-8. Sometime after closing, Madison Title allegedly absconded with the funds in escrow. Seller is suing Buyers for breach of contract and contends that the one-year waiting period on conveyance of good title to real estate embodied in Va. Code § 64.1-183 was an unmet condition precedent to consummation of the conveyance. Buyers filed a demurrer to Seller’s Motion for Judgment, Count IV, Breach of Contract.
+Legal Analysis
+The escrow holder is the dual agent of both parties at closing until performance of the conditions of the escrow agreement, whereupon he becomes the agent of each of the parties with respect to those things placed in escrow to which each party becomes entitled. Winslow, Inc. v. Scaife, 219 Va. 997, 254 S.E.2d 58 (1979). As between seller and buyer, a loss caused by the embezzlement of an escrow holder is borne by the party entitled to the property affected at the time of the loss. Lawyers Title Ins. Corp. v. Edmar Const. Co., 294 A.2d 865 (D.C. App. 1972).
+Once closing occurs and title passes from seller to buyer, the seller is legally entitled to the funds in escrow. Van Dyke v. Lauer, 100 N.W.2d 335 (Wis. 1960). “[B]etween a seller and buyer of real property, the seller must bear the loss when an escrow holder absconds after the seller has become legally entitled to the proceeds of the transaction. Lawyers Title at 867. To determine when a seller becomes legally entitled to the proceeds of a sale, the issue is whether all conditions which the depositor has attached to the disbursement of funds have been fulfilled. Lechner v. Halting, 216 P.2d 179 (Wash. 1950).
+Seller asserts that the estate was not entitled to the funds held in escrow until the provisions in Va. Code § 64.1-183 were met. The Seller contends that the Code creates a condition precedent to closing which delays effective conveyance of estate held real estate for one year, in this case, title to the property and possession was passed to the Buyers by deed pursuant to the Sales Contract. The Court declines to adopt the Seller’s analysis of the effect of Va. Code § 64.1-183. The Virginia Supreme Court in Heeke v. Allan, 127 Va. 65 (1920), interpreted this section and held:
+[Although the heir or devisee cannot within one year make a valid conveyance, as against creditors of the decedent, he can make a conveyance which is valid as between the parties, and the alienee can, after the expiration of the year, transfer title to a bona fide purchaser free from the claim of the decedent’s creditors, if no suit is pending and no report of debts has been filed.
+Va. Code § 64.1-183 affords the creditor a quasi lien on the realty; it does not render a conveyance between the parties invalid. See Heeke v. Allan, 127 Va. 65 (1920); also see Easley v. Barksdale, 75 Va. 274 (1881) (the purpose, effect, and legislative intent of § 64.1-183). Therefore, § 64.1-183 did not preclude Perkins from passing good title.
+The Court holds that Buyers performed their obligations under the Sales Contract when they paid the balance of the purchase price to Madison Title. Seller then conveyed the townhouse to Buyers by deed and completed the transaction. It follows that the risk of loss of the escrow funds falls upon the Seller, and the Buyers have completed their contract. Lawyers Title at 867. Accordingly, the Court holds that Buyers’ Demurrer is sustained and the breach of contract claim is dismissed with prejudice as a matter of law.
