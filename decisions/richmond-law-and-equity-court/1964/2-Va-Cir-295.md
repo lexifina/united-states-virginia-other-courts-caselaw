@@ -1,0 +1,44 @@
+---
+court: "Richmond Law and Equity Court"
+docket: "Case No. A-5400"
+decided: "1964-07-17"
+citations: ["2 Va. Cir. 295"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. S. Janoski et al. v. Doris Gilbert"]
+source_url: "https://static.case.law/va-cir/2/cases/0295-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3917063
+cites_cases: ["118 Va. 511", "17 C.B. 30", "196 Va. 821", "63 Va. (22 Gratt.) 109"]
+---
+
+# Janoski v. Gilbert
+
+## Majority (By JUDGE ALEX H. SANDS, JR.)
+
+By JUDGE ALEX H. SANDS, JR.
+This case, tried without jury, is before the Court for decision.
+The following facts are found by the Court to be established by the evidence:
+By lease dated March 28, 1961, defendant leased the premises in question from plaintiffs for the term of one year, at a monthly rental of $90.00, occupancy restricted to "Lessee and 3 children only." By special provision, defendant was to furnish "heat, all utilities." Shortly after taking occupancy, defendant arranged with an acquaintance, Stella Woolsey, to move in and live on the premises in order to have help in defraying the rental cost. This was in violation of the occupancy restriction in the lease but the evidence clearly shows that the arrangement was either at the suggestion of or with the knowledge of Sylvia, plaintiffs' rental agent, and in either case, a waiver of the restriction would exist.
+Defendant occupied the premises until the last of January, 1962, when she moved out after tendering a portion of the January rent, which was refused by plaintiffs.
+At the time defendant assumed occupancy under the lease, and at all times during her occupancy, the heating unit on the premises was totally inadequate to heat the house. It is further quite apparent that this situation was not one of an intermittent nature, causing occasional discomfort, but was continuous and during the winter season rendered the house, from a practical standpoint, uninhabitable. This condition, furthermore, resulted in excessive fuel consumption, but regardless of the amount of fuel supplied, sufficient heat could not be generated to render the premises habitable. This condition resulted in the freezing and bursting of a pipe and the flooding of the basement upon one occasion.
+That this condition was due to a worn out fire box is evident from the fact that the house was adequately heated by the heating unit when a new fire box was later installed by plaintiffs. The evidence further established that this condition, which existed before defendant took occupancy, had been repeatedly called to plaintiffs' attention by defendant prior to abandonment of the premises, by the plaintiffs' own agent and on one occasion by the plumber called in to inspect the heating unit and that plaintiffs consistently refused to correct the situation. After a final unproductive appeal by defendant to plaintiffs for an adequate heating unit, defendant vacated the premises.
+Pleadings
+Plaintiff sues for rent for January, February and March, 1962, which is admittedly not paid.
+Defendant, while admitting that the rent for these three months is unpaid, denies liability upon two grounds:
+a) That plaintiffs' agent as an inducement to her to execute the lease, represented the house as being "easily heated," that such representation was false in that an excessive amount of fuel was required, that it was material and that she executed the lease in relianee thereon and that the lease was, therefore, voidable at her option;
+b) That the defective heating unit created a condition which rendered the premises uninhabitable and that this constituted a constructive eviction of the defendant from the premises by the plaintiffs.
+Issues
+The issues presented are twofold:
+1) Were the alleged false statements actually made by plaintiffs’ agent, Sylvia, to defendant at the^ time the lease was executed and, if so, did such statements render the lease voidable at defendant’s option?
+2) Did the inadequacy of the heating unit, which under the Court's finding of fact, rendered the premises uninhabitable, constitute a constructive eviction of the defendant by plaintiffs?
+Conclusions
+The first issue must be determined adversely to the defendant for several reasons. In the first place it is doubtful whether defendant has borne the burden of proving that such statements were, in fact, made. In the second place, however, even though such statements were made, they were rather statements of opinion by Mr. Sylvia than statements of fact and as such would not, though false, void the lease. Poe v. Voss, 196 Va. 821 (1955). Again, the lease providing that defendant should furnish the heat, the alleged representation, if given the interpretation urged by defendant, would have the effect of modifying the written terms of the lease. There is no merit to the first defense.
+Did the actions of plaintiffs amount to constructive eviction? We should first eliminate from consideration the excessive consumption of fuel. Clearly the fact that the furnace burned an excessive amount of fuel was no justification for defendant's abandonment of the premises. She contracted to furnish her own heat and the condition was unqualified. But this condition of the lease obviously relates only to the duty of supplying fuel, not the physical heating plant. We are here concerned with the condition of the physical heating plant which failed to function adequately regardless of the amount of fuel supplied. The first question, then, is whether failure to supply an adequate heating plant to demised premises constitutes "uninhabitability" which amounts to constructive eviction. While there is substantial authority to the contrary elsewhere, see 32 Am. Jur. p. 233 and authorities cited, in Virginia uninhabitability so caused does, under proper circumstances, amount to constructive eviction. Buchanan v. Orange, 118 Va. 511 (1916).
+At common law the unbending rule originally was that an indispensable element of the term "eviction" was actual dispossession by process of law, Upton v. Townend, etc., 17 C.B. 30, 84 Eng. C.L.R. 30, 139 Eng. Rep. 976 (C.P. 1855), but this concept was later modified to include any situation in which, through action of the landlord, the tenant loses the benefit, use and enjoyment of the demised premises. But even under this modified view actual intention of the landlord was indispensable to effect such deprivation, Idem., and this was the view early in Virginia. Tunis v. Grandy et al., 63 Va. (22 Gratt.) 109, see pages 130-131 (1872). The element of actual intent is no longer indispensable in Virginia to the existence of constructive eviction. Buchanan v. Orange, supra.
+The Virginia authority which appears to the Court to be determinative of the issue here under consideration is Buchanan v. Orange, 118 Va. 511. There the landlord leased floor space in a building to a tenant for use as a millinery establishment. The lease provided that the landlord furnish "furnace heat" to the tenant. This he did but the heating unit, at top performance, was inadequate properly to heat the demised premises and the tenant vacated. In holding this situation to constitute constructive eviction justifying the tenant's vacation of the premises, the Court said:
+[ajny act of the landlord or of anyone who acts under his authority . . . which so disturbs the tenant's enjoyment of the premises as to render them unfit for occupancy for the purposes for which they are leased, is an eviction, and whenever it takes place the tenant is released from the obligations under the lease to pay rent accruing thereafter.
+It is quite true that in the Buchanan case the duty under the terms of the lease, was upon the landlord to furnish heat while the opposite is true in the case at bar, yet the Buchanan decision did not rest upon this point (breach of covenant) but rather upon the point that the action, or lack of action, of the landlord which rendered the building uninhabitable for the purpose for which it was rented amounted to constructive eviction.
+In the case at bar the premises were demised for purposes of a dwelling. Where due to a condition pre-existing the execution of the lease the heating plant became so inadequate that at peak performance it could heat only a part of the premises and that part at never over 60 degrees, where the tenants in all rooms but the kitchen had to wrap in blankets to keep warm, where the bath room was so cold as to be practically unusable it could hardly be said that the premises were habitable for the purpose for which leased. It is accordingly held that the action, or lack thereof, on the part of the landlord effectively deprived the defendant of the use for which she had leased the premises.
+For the above reasons, judgment will be for defendant.
