@@ -1,0 +1,56 @@
+---
+court: "King George County Circuit Court"
+decided: "1993-11-05"
+citations: ["33 Va. Cir. 87"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pride of King George, Inc., Martin E. Smith, and Kay Smith v. King George County Board of Supervisors and Garnet of Virginia, Inc."]
+source_url: "https://static.case.law/va-cir/33/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5725518
+cites_cases: ["210 Va. 253"]
+---
+
+# Pride of King George, Inc. v. King George County Board of Supervisors
+
+## Majority (By Judge Joseph E. Spruill, Jr.)
+
+By Judge Joseph E. Spruill, Jr.
+In this chancery proceeding brought by Pride of King George, Inc., Martin E. Smith, and Kay Smith against the Board of Supervisors of King George County and Garnet of Virginia, Inc., Plaintiffs request the Court to declare void and enjoin the implementation of an agreement between the Board and Garnet providing for trash disposal services for the County.
+The matter is now before the Court on Demurrers filed by the Board and Garnet. Following a hearing on September 29, I have studied the pleadings, exhibits, memoranda, and considered the arguments of counsel. I have also reviewed the files of the Amelia, Gloucester, and Sussex cases which were tendered at the hearing.
+Standing
+Mr. and Mrs. Smith are King George residents owning land adjacent to the proposed landfill. Pride of King George, Inc., is a non-profit corporation composed of county residents and taxpayers. Defendants challenge the standing of Plaintiffs to bring this action.
+The Court finds that Mr. and Mrs. Smith, as taxpayers and adjacent landowners, have standing to maintain this action and that Pride of King George, Inc., lacks standing to challenge the Board’s action.
+For the reasons that follow, the demurrers are sustained as to all Counts in the Amended Bill.
+Count I
+The Agreement Violates the Land Use Requirements of the Code of Virginia
+The King George Planning Commission found the proposed landfill site location to be not in accord with the county’s comprehensive plan. This decision was communicated to the Board of Supervisors which subsequently overruled the action of the Commission, pursuant to Virginia Code § 15.1-456, and approved the Second Amended Agreement. The Plaintiffs describe the Board’s action as a sham and a “capricious” effort to give the appearance of complying with the law. Thus it was, they say, an unlawful exercise of the Board’s power.
+The Board is authorized, if not mandated, by the Code to provide adequate trash and refuse disposal service for its citizens. Virginia Code § 15.1-28.01 and § 15.1-18.02. The Board is empowered by § 15.1-456 to overrule, without more, the actions of the Planning Commission. Even though there is no requirement that the Board find substantial compliance with the comprehensive plan, it is acknowledged that it did so find.
+There are no allegations in the Bill of Complaint to support the claim that the Board’s action was either arbitrary, capricious, or a sham. This was a legislative act carrying a presumption of correctness.
+Count II
+The Agreement Illegally Binds Future Boards to Spend Money
+The Plaintiffs state that the agreement binds future boards to pay money, that such future payments are “debt,” and that a county cannot incur debt unless it is authorized and approved by voters in referendum, as required by the Virginia Constitution, Article VII, Section 10(b).
+Defendants contend that the agreement is a service contract, which by statute is not to be deemed debt within the meaning of any law. Va. Code § 15.1-28.01.
+A contract for essential services of the type under consideration here must cover some reasonable period of time. Substantial investments are made by both parties to such arrangements, and both parties must protect against future contingencies. In Fairfax County v. County Executive, 210 Va. 253 (1969), relied on by Plaintiffs, the county undertook to contract for a community rail service. The county agreed to pay the amount by which the operating expenses exceeded the resources from the transit system. The Supreme Court declared this agreement unconstitutional.
+There is a significant distinction between the Fairfax County case and this case. There, the amount the county committed itself to pay was indefinite, uncertain, and largely beyond its ability to control. Here, the county obligates itself to pay for services it receives. The county has control. If the county imposes additional taxes on Garnet which are not imposed on other businesses, a rebate or credit is to be applied against Garnet’s rental payments. This is a reasonable and practical protection for Garnet against arbitrary action by this or any future board. The agreement provides that if the county breaches the agreement, Garnet can recover its investment. There is no authority cited to suggest that these contractual provisions create a debt prohibited either by the Constitution, statute, or case law.
+Count III
+The Second Amended Agreement Conveys an Unlawful Privilege upon Garnet
+Plaintiffs contend that under this agreement, King George County grants special privileges to Garnet and that Garnet is specifically exempted from the operation of general law, both of which are prohibited by the Virginia Constitution, Article IV, § 14 (18) and § 15.
+The Plaintiffs allege that the County in effect “sold its police powers to Garnet to allow it to run a private enterprise under the auspices of the County.” In support of this broad assertion, they point again to Section 12 of the Agreement, which they contend “paralyzes” the County and impedes its free exercise of its police powers, including zoning and taxing powers.
+These allegations belie the clear terms of the agreement. The first sentence of Paragraph 12.1 obligates Garnet to operate in accordance with all laws, ordinances, and regulations. Paragraph 12.3 subjects Garnet to all existing ordinances for taxes, licenses, and fees. Garnet is insulated by the provisions of Section 12 from taxes, assessments, or cost imposed after the date of the agreement which apply only to landfills and not to businesses generally. As long as such assessments are uniformly applied, Garnet is responsible. If any future taxes are imposed on Garnet and are not imposed on other businesses, the agreement provides for an offset arrangement. Such adjustments appear to be authorized by Virginia Code § 15.1-28.01.
+Further, they are logical protections for parties to bilateral contracts who bargain on a set of existing assumptions and seek to provide for the consequences should such existing conditions change at a future time.
+Count IV
+The Agreement is in Violation of the Public Procurement Act
+The Plaintiffs next allege that the agreement violates the Public Procurement Act because: (1) the contract awarded to Garnet “bears little resemblance” to the request for proposal (RFP) issued by the Board; (2) the police powers of the Board were bargained away to further Garnet’s business interests; (3) the agreement fails to provide continuous and uninterrupted free disposal services as required by the RFP; (4) environmental liability is assumed by the Board in contravention of the RFP; and (5) Garnet was not a responsible bidder, lacking both experience and financial stability.
+The essence of this complaint is that the Board advertised for a company to operate and close its existing landfill and to provide free disposal services to county citizens for the remaining life of the landfill. Ultimately, the Board contracted with Garnet for a more extensive operation. The inconsistency between the RFP and the resulting agreement is so great as to render the agreement void, say the Plaintiffs.
+The Virginia Public Procurement Act (Virginia Code § 11-35 et seq.) sets forth policies and procedures relating the government procurement of goods and services from nongovernmental sources. It does not regulate the substantive contents of a contract but rather the procedures by which it is entered into. The Act recognizes that once bidders have been identified, “negotiations shall then be conducted.” Virginia Code § 11-37. After negotiations have been conducted, the Board “shall select the offeror which, in its opinion, has made the best proposal and shall award the contract to that offeror.” Virginia Code § 11-37.
+In fact, the agreement here does provide the county essentially what it sought when its RFP was issued. The fact that the negotiating process yielded an agreement broader in scope than may have been originally anticipated does not, standing alone, void the agreement. Negotiating for so complex a matter as a public landfill is a cumbersome and sensitive undertaking, and public bodies must be allowed reasonable latitude to reach the most advantageous terms possible for its citizens. A “responsible bidder” is one who has the capability to perform the contract requirements and the moral and business integrity and reliability to assure good faith performance. Virginia Code § 11-37. It is reasonable to assume the Board made proper inquiry into these matters before contracting with Garnet.
+Count V
+The Agreement is an Unlawful Bartering Away of Legislative and Police Powers
+Plaintiffs contend here that, in essence, this is a bilateral agreement wherein the Board forgoes its exercise of legislative and police powers in return for considerations tendered by Garnet. As examples, plaintiffs claim the county has no authority to relate taxes, or to insure the status quo of existing laws, nor can it bind itself to exercise an option to purchase property upon the occurrence of certain events. Such promises by the county, say plaintiffs, violate the constitutional mandates of Article VII, Section 9, of the Virginia Constitution.
+As noted earlier, Garnet is subject to all laws, regulations, and taxes applicable to other county citizens and businesses. There are no promises in the agreement making special exceptions for Garnet. However, the agreement does provide mechanisms which provide reasonable protection for Garnet and the substantial investment it is obligated to make in the event Garnet becomes a subject of special legislation or taxation. These concessions are consistent with the legislative intent expressed in § 15.1-228.01 and § 15.1-228.03.
+Section 5.3 of the agreement simply gives Garnet an option to purchase the property from the county if all permits and approvals required to operate the landfill cannot be obtained. There is nothing unconstitutional about this provision.
+Summary
+The Court finds that there are no facts alleged in the Amended Bill which state or reasonably imply that the Board acted arbitrarily, capriciously, illegally, or beyond its authority. The Board has acted here in its legislative capacity and has met all statutory requirements. Underlying the foregoing analysis is the recognition that actions of the Board carry a presumption of correctness and that the Court is concerned only with the legality, not the wisdom, of such actions.
+The demurrers are sustained without leave to amend, the Motion for Summary Judgment is denied, and this cause will be dismissed.
