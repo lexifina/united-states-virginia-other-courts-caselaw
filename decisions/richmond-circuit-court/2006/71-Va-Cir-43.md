@@ -1,0 +1,28 @@
+---
+court: "Richmond Circuit Court"
+docket: "Case No. LT-2011-1"
+decided: "2006-02-14"
+citations: ["71 Va. Cir. 43"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Geoffrey W. Williams v. Branch Banking & Trust Corp. of Va., a/k/a BB&T Corporation, and Scott & Stringfellow, Inc."]
+source_url: "https://static.case.law/va-cir/71/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3887952
+---
+
+# Williams v. Branch Banking & Trust Corp.
+
+## Majority (By Judge Melvin R. Hughes, Jr.)
+
+By Judge Melvin R. Hughes, Jr.
+In this case, a former employee of Craigie, Inc., has brought suit against Branch Bank & Trust Corporation (BB&T) and Scott and Stringfellow, Inc., for breach of contract and breach of implied duty of good faith and fair dealing arising out of BB&T’s acquisition of Craigie, Inc., and Scott and Stringfellow, Inc. The suit is about plaintiffs claim that, following the acquisition, the defendants, especially BB&T, allowed amendments to an employment performance incentive plan, which diminished his rights. Identical claims have been made by six other former Craigie employees filed in this court, George B. Pugh, Jr., et al. v. BB&T and Scott and Stringfellow, Case No. LL-693-4. The Pugh case was settled before trial.
+At issue presently is plaintiffs Motion to Compel the production of all “pleadings, discovery requests and responses, subpoenas, deposition transcripts, releases, and correspondence between counsel for plaintiffs and defendants arising out of or relating to the [Pugh] case.” Defendants object to the Request for Production on the ground of confidentiality of business and personnel information and seek a protective order. In addition, because the documents in counsel’s file contain notations and post-it notes which reflect the mental impressions of counsel as work product, defendants resist disclosure without plaintiffs first bearing the costs for removing or deleting the work product references. They estimate the costs for this at roughly $2,200.00.
+At a hearing on the motion to compel and objection, the court asked ■that the Pugh case settlement materials covering the “releases” portion of the request be furnished for in camera review. This material was provided, and, after review, the court can find nothing discoverable. Moreover, the settlement documents were agreed to be held confidential by the Pugh parties in the settlement of their dispute. This extends to the settlement negotiations contained in correspondence relating thereto.
+The court will allow the production of all non-privileged documents with the exception of the settlement documents under the protective order proposed by defendants.
+April 7, 2006
+Following my letter of February 14, 2006, on the matter of Plaintiff s Motion to Compel, which was before the court in late January, the parties are in disagreement on an order implementing the ruling.
+As before, the differences center on who will bear the costs, $2,200, estimated by Defendants, to comply with Plaintiffs production request. My recollection is that Defendants did not oppose Plaintiffs request but sought that provision be made for protection of attorney-client work product. My letter stated that Defendants shall produce to Plaintiff “all non-privileged documents. . . under the protective order proposed by Defendants.” Defendants proposed that the court enter a protective order requiring Plaintiff to bear the costs for copying prior to production. Plaintiff, as before, argues that the production should occur under the procedure outlined in Rule 4:9(b) with, for example, the Defendants organizing and labeling the documents for Plaintiffs review prior to the copying. This would allow Plaintiff to advise which of the documents are needed for copying etc. Also, as before, Defendants expressed the logistical difficulty involved with Plaintiffs position, given the volume of material, in many boxes, and the culling of the protected information, and the time and effort involved necessary in organizing and labeling the material. The simpler and more efficient way to comply with Plaintiffs request, according to Defendants, is to ship the material to the copier for copying in bulk. That way the post-it notes and highlighted work product information can be removed in the copying process.
+Rule 4:9 provides that a party producing documents for inspection shall either produce them as they are kept in the usual course or business or organize and label them in the categories requested. However, this requirement will be unduly burdensome on Defendants considering the bulk of the materials and the many notations throughout them. The court recognizes that, upon this request, Plaintiff will receive all the discovery material generated from the earlier Pugh cases, which Defendants say was hotly contested up to the time of trial, when the cases were settled. This will benefit Plaintiff because he, similarly situated as he is to the plaintiffs in Pugh, will not have to “reinvent the wheel” by conceiving of and-formulating discovery to advance his cause and he will receive all the Pugh materials in Defendants’ counsel’s files. Relatively speaking, the benefit to Plaintiff in receiving discovery in this way is obvious. Thus, under Rule 4:10(c) governing protective orders, the order proposed by Defendants, including the provision for payment of the copying expenses, seems to be a condition that is just.
+Accordingly, the court will rule in favor of Defendants as to the protective order they propose, including the costs, which shall be borne by Plaintiff.
