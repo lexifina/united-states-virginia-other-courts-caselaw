@@ -1,0 +1,44 @@
+---
+court: "Fairfax County Circuit Court"
+docket: "Case No. (Law) 2005-6518"
+decided: "2006-05-02"
+citations: ["71 Va. Cir. 63"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Caravelle Manufacturing Corp. v. Ultra Wash, L.L.C., et al."]
+source_url: "https://static.case.law/va-cir/71/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3887613
+cites_cases: ["111 Va. 131", "155 Va. 181", "257 Va. 579", "30 Va. App. 670", "51 Va. Cir. 178"]
+---
+
+# Caravelle Manufacturing Corp. v. Ultra Wash, L.L.C.
+
+## Majority (By Judge Arthur B. Vieregg)
+
+By Judge Arthur B. Vieregg
+This matter came before the Court on Friday, April 7,2006. The parties appeared by counsel and presented argument with respect to Defendant Tiphany Gayhart’s plea that Caravelle Manufacturing Corporation (“Caravelle”) was barred from pursuing an action against her in Virginia for lack of in personam jurisdiction pursuant to the Virginia Long-Arm Statute, Va. Code § 8.01-328.1 (2006). The parties also argued Gayhart’s motion to dismiss or stay. At the conclusion of arguments, I took the matter under advisement and requested that counsel provide me with supplemental briefs on the issue of whether Gayhart had waived her objections to personal jurisdiction. I write today to issue my decision.
+Background
+As alleged in the motion for judgment, Defendant Ultra Wash, L.L.C., initiated contractual negotiations with Caravelle on behalf of Gayhart, d/b/a Alpine Car Wash, Inc., for a car wash part. Brent Cragun, an employee of Ultra Wash, signed the contract for the Caravelle part in Virginia. When he signed, he indicated that he was signing “for Tiphany Gayhart.” Caravelle manufactured the part according to specifications provided by Gayhart through Cragun and shipped it to Gayhart in Wyoming. Cragun signed the receipt of delivery of the component at Gayhart’s place of business in Wyoming. Gayhart made partial payments, but failed to completely pay for the part. Gayhart never traveled to Virginia and had had only limited contact with Caravelle after the part began to malfunction.
+Court cases were filed in Virginia and Wyoming, respectively. In the Wyoming action, filed in June 2004, Plaintiff Gayhart sought contractual remedies against Defendants Caravelle Industries, Inc., Ultra Wash, L.L.C., and Cragun. In the Virginia action, filed on October 20, 2005, Plaintiff Caravelle sought contractual remedies against Defendants Gayhart and Ultra Wash, L.L.C. On December 15, 2005, Caravelle Industries, Inc., was dismissed from the Wyoming lawsuit. Caravelle Manufacturing Corporation has not yet been served in the Wyoming case.
+Decision
+Motion to Dismiss or Stay
+In the case at bar, there is no suit pending between Caravelle and Gayhart in Wyoming. Gayhart named the incorrect Caravelle entity in the Wyoming litigation and has yet to serve Caravelle with that suit. Cf Turner Sculpture, Ltd. v. Geographies, Inc., 51 Va. Cir. 178,179 (2000) (“The grant of a stay [when litigation is pending in another forum] is within the discretion of the court and is not a matter of right.”). Since there is effectively no suit in Wyoming, there is no reason to stay litigation here in favor of the Wyoming forum. Accordingly, Gayhart’s motion to dismiss or stay is denied.
+Plea in Bar
+In relevant part, the Virginia Long-Arm Statute, Va. Code § 8.01 -328.1 provides as follows:
+A. A Court may exercise personal jurisdiction over a person, who acts directly or by an agent, as to a cause of action arising from the person’s: 1. [transacting any business in this Commonwealth; [or]
+2. [contracting to supply services or things in this Commonwealth!.]
+In a previous letter to counsel, I stated that, based on the evidence presented, I concluded Caravelle did not demonstrate that this Court has Long-Arm jurisdiction over Gayhart. Mr. Stephenson attempted to prove Long-Arm jurisdiction by showing that Cragun was acting as Gayhart’s agent when he entered into the contract for the purchase of the carwash part. However, Caravelle presented insufficient evidence to prove that agency and thus failed to establish personal jurisdiction under the Long-Arm statute. See Va. Code § 8.01-328.1.
+Nevertheless, personal jurisdiction may be established over Gayhart if this Court finds that Gayhart has waived her objections to it. In Maryland Casualty Co. v. Clintwood Bank, the Supreme Court stated “[a]ny action on the part of the defendant, except to object to the jurisdiction, which recognizes this case as in court, will amount to a general appearance.” 155 Va. 181, 186 (1930). Moreover, “[a]n appearance for any other purpose than questioning the jurisdiction of the court... is general and not special, although accompanied by the claim that the appearance is only special.” Gilpin v. Joyce, 257 Va. 579, 581 (1999).
+In Brown v. Burch, Plaintiff Brown filed twenty-one separate motions in juvenile court despite never having been served with defendant’s petitions. 30 Va. App. 670, 676 (1999). One of these motions contested the court’s personal jurisdiction over her. Id. The Court of Appeals noted:
+Under the common law, an appearance for the purpose of taking advantage of the lack of process had to be by special appearance, and the party had to expressly state that he or she was appearing specially.... The party had to be particular not to allow the appearance to assume such shape as [would] admit the jurisdiction of the court.
+Id. at 677 (internal citations omitted). Following the Gilpin Court, the Brown Court first held that Va. Code § 8.01-277 (2006) was to be strictly construed. Brown, 30 Va. App. at 677. As Brown had never been served, the Court of Appeals held that she was unable to take advantage of the statutory protections afforded by Va. Code § 8.01-277. Brown, 30 Va. App. at 678. Accordingly, given her simultaneous general and special appearances, the Court held that she had waived her right to contest personal jurisdiction. Id.
+Similarly, in the instant case, Gayhart’s first action was to file a plea in bar contesting jurisdiction. However, she simultaneously filed a motion craving oyer and a motion to dismiss or stay. By her counsel, she then appeared at a scheduling conference and signed a scheduling order. The scheduling order indicated that Gayhart reserved her right to contest jurisdiction; however, this appearance was an appearance for a purpose other “than questioning the jurisdiction of the Court.” See Norfolk and Ocean View Ry. v. Consolidated Turnpike Co., 111 Va. 131, 136 (1910). She also answered Caravelle’s interrogatories. Gayhart’s general appearances were “entirely voluntary.” See Gilpin, 257 Va. at 582. Absent the protection afforded by Virginia Code § 8.01-277, Gayhart could not appear both specially and generally without subjecting herself to the jurisdiction of this Court. See Brown, 30 Va. App. at 678. Thus, because she appeared both specially and generally, I find that Gayhart waived any objections she had to in personam jurisdiction. See id. Indeed, this is the equitable result of this matter as the affirmative steps Gayhart took to participate in the ongoing litigation in this forum indicated a waiver of her contest of in personam jurisdiction.
+Finally, though invited to do so, Gayhart has provided no Virginia authority to support her position that the simultaneous filing of jurisdictional and non-jurisdictional motions does not constitute a waiver of jurisdiction.
+Conclusion
+For the foregoing reasons, Gayhart’s motion to dismiss or stay is denied. Gayhart’s plea in bar is also denied. Gayhart is ordered to file responsive pleadings in accordance with the enclosed order.
+Order
+This cause came before the court upon Defendant Tiphany Gayhart’s plea in bar and motion to dismiss or stay on April 7,2006; and it appearing to the court that, for the reasons stated in this Court’s letter opinion of May 2, 2006, Defendant Tiphany Gayhart’s motion to dismiss or stay should be denied and her plea in bar should be overruled; it is therefore adjudged and ordered that Defendant Tiphany Gayhart’s motion to dismiss or stay is denied; and it is further adjudged and ordered that Defendant Tiphany Gayhart’s plea in bar is overruled; and it is further adjudged and ordered that Defendant Tiphany Gayhart shall file responsive pleadings within twenty-one days of entry of this order.
+Caravelle Industries, Inc., and Caravelle Manufacturing Corporation are two distinct entities bearing similar names.
+The Wyoming suit does involve both Gayhart and her co-defendant in this suit, Ultra Wash, L.L.C. However, as Ultra Wash, L.L.C., has not joined Gayhart’s motion to dismiss or stay, any implications from that fact are not addressed herein.
