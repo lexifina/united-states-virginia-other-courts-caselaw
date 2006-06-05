@@ -1,0 +1,61 @@
+---
+court: "Chesterfield County Circuit Court"
+docket: "Case No. CL06-259"
+decided: "2006-06-05"
+citations: ["71 Va. Cir. 95"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Renee Hatten v. Wayne Campbell et al."]
+source_url: "https://static.case.law/va-cir/71/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3887730
+cites_cases: ["196 Va. 1", "230 Va. 112", "234 Va. 412", "241 Va. 23", "242 Va. 248", "249 Va. 224", "265 Va. 68", "335 S.E.2d 97", "363 S.E.2d 699", "455 S.E.2d 209", "Va. Code Ann. § 8.01-273"]
+---
+
+# Hatten v. Campbell
+
+## Majority (By Judge F. G. Rockwell, III)
+
+By Judge F. G. Rockwell, III
+The parties appeared before the Court on May 11, 2006, for a hearing on the Defendants’ Motion to Compel and Demurrer to Plaintiffs’ Complaint as well as the Plaintiffs “Motion to Strike the Extra-Record Facts in the Defendant’s Demurrer.” The Court ruled on the Motion to Compel, and the parties agreed that the speaking part of the Demurrer should be stricken. The Court took the remaining issues raised in the Demurrer under advisement.
+Standard on Demurrer
+Section 8.01-273 of the Code of Virginia governs demurrers:
+In any suit in equity or action at law, the contention that a pleading does not state a cause of action or that such pleading fails to state facts upon which the relief demanded can be granted may be made by demurrer. All demurrers shall be in writing and shall state specifically the grounds on which the demurrant concludes that the pleading is insufficient at law. No grounds other than those stated specifically in the demurrer shall be considered by the court. A demurrer may be amended as other pleadings are amended.
+Va. Code Ann. § 8.01-273(A).
+Additionally, the Virginia Supreme Court has repeatedly held that a demurrer “admits the truth of all material facts that are properly pleaded, facts which are impliedly alleged, and facts which may be fairly and justly inferred from alleged facts.” P. M. Palumbo, Inc. v. Bennett, 242 Va. 248, 249 (1991).
+Complaint
+. According to the Complaint, Ms. Hatten is a respiratory therapist and a former employee of Richmond Respiratory. The Complaint alleges that Wayne Campbell, President and co-owner of Richmond Respiratory:
+1. Made a malicious report to the Department of Health Professions by letter of March 1, 2005, regarding her mental unfitness and/or professional conduct;
+2. Told her husband that she had opened someone else ’ s mail at work; and '
+3. Made a false accusation to Susan Williams, a 4-H counselor, indicating that Ms. Hatten stole materials from his farm while she worked as a 4-H counselor.
+Ms. Hatten argues that these statements constitute defamation and she seeks damages for defamation, intentional infliction of emotional distress, and tortious interference with contract/business expectancies because of the statements. She argues that Mr. Campbell made these statements because he was angry that she took a leave from work due to mental health problems.
+Mrs. Hatten seeks $350,000 in compensatory damages and $150,000 in punitive damages for each of the three counts.
+Demurrer
+The Defendants filed a Demurrer to the Complaint arguing that the statements at issue are not defamatory in nature. Specifically, Defendants argue that the letter to the Department of Health Professions only reiterated the statements made by Ms. Hatten’s own healthcare providers in their letter to Richmond Respiratory dated February 9, 2005. They also argue that they provided this information in compliance with Va. Code §54.1 -2400 and thus are immune from civil liability. According to the Demurrer, the letter did not say that Ms. Hatten was a danger, only she was “currently unable to perform any regular duties due to a mental illness, stated as a deterioration of her psychiatric condition,” as quoted directly from her health care provider. They argue this is merely a reiteration of her doctors’ opinion of her condition and, under Virginia law, defamatory statements must sound in fact and not in opinion.
+Defendants also argue that the statement to Ms. Hatten’s husband regarding opening someone else’s mail was not defamatory in nature as he was acting as Ms. Hatten’s agent. In addition, they argue that the mail had reached its recipient and was outside the control of the U.S. Postal Service, thus the federal statute making interference with mail a crime does not apply to this situation.
+Finally, the Defendants argue that the statement to Susan Williams allegedly indicating that Ms. Hatten had stolen supplies from the 4-H classroom at the farm is also not defamatory. The only allegedly defamatory statement is “I don’t know what she [Ms. Hatten] took.” The Demurrer argues that Ms. Hatten “subjectively applied meaning” to words that are not defamatory in nature.
+According to the Demurrer, Count II of the Complaint should be dismissed. Defendants argue that these three allegedly defamatory statements do not support Ms. Hatten’s claim for emotional distress because they do not constitute outrageous or intolerable conduct that would offend the general standards of decency.
+Defendant also argue that Ms. Hatten’s tortious interference claim in Count III should be dismissed. In Count III, Ms. Hatten alleges that Mr. Campbell tortiously interfered with her contract for employment with Richmond Respiratory. Defendants claim that Ms. Hatten has made no allegations that she was prohibited from returning to work. Also, they argue that Mr. Campbell is the owner of Richmond Respiratory and thus any alleged interference would be with his own contract.
+Finally, Defendants argue that Ms. Hatten’s request for punitive damages must fail. According to the Demurrer, the purpose of punitive damages is to punish a party for reckless behavior that constitutes a conscious disregard for the rights of others. A claim for punitive damages must be supported by “factual allegations sufficient to establish that the Defendant’s conduct was willful and wanton.” Woods v. Mendez, 265 Va. 68, 77 (2003). Defendants argue that the statements are not malicious or defamatory on their face and Ms. Hatten cannot imply intent. Also, Defendants argue that they are immune from any punitive damages claim arising out of their reporting to the Department of Health Professions in compliance with statute.
+Memorandum in Opposition to Demurrer
+Ms. Hatten filed a Memorandum in Opposition to the Demurrer. According to her Memorandum, Defendants did not sent the letter to the Department of Health Professions because they were required to by statute. Va. Code § 54.1-2400 only requires that they report where the person at issue “is in need of treatment.. . that may render [her] a danger to [herself], the public, or [her] patients,” or “may have engaged in unethical, fraudulent, or unprofessional conduct.” Rather, Mr. Campbell reported her because he was “pissed off.” Ms. Hatten argues that Va. Code § 54.1-2400.6(D) precludes protection where the report or complaint is made “in bad faith or with malicious intent.”
+Ms. Hatten also notes that Defendants try to argue that Ms. Hatten’s husband was her agent. The Memorandum claims that this is an improper attempt to dispute facts on demurrer. Ms. Hatten also argues that Defendants incorrectly interpret federal law and consequently base their argument regarding the mail incident on the wrong section of the U.S. Code.
+, Finally, Ms. Hatten argues that Defendants misread the Virginia law applicable to tortious interference with a contract.
+Ruling
+A. Count I: Defamation
+The Court finds that Ms. Hatten has sufficiently alleged that the report to the Department of Health Professions was made “in bad faith,” thus allowing this claim to survive the safe harbor provision of Va. Code § 54.1-2400.6; In addition, Ms. Hatten has sufficiently alleged that the letter is defamatory.
+According to Williams v. Garraghty, 249 Va. 224, 233, 455 S.E.2d 209, 215 (1995):
+It is firmly established that pure expressions of opinion are protected by both the First Amendment to the Federal Constitution and Article I, Section 12, of the Constitution of Virginia and, therefore, cannot form the basis of a defamation action. Factual statements made to support or justify an opinion, however, can form the basis of an action for defamation. It is for a court, not a jury, to determine, as a matter of law, whether an alleged defamatory statement is one of fact or of opinion.
+Section 54.1-2400.6 requires reporting when a health care institution is aware of a condition “that may render the health professional a danger to himself, the public, of his patients” (emphasis added). Thus, the Court finds that any statement made by the reference to the statute is a statement of opinion. Most of the factual statements made to support or justify this opinion cite, and even quote from, the letter from Ms. Hatten’s physicians to Richrhond Respiratory. However and while the letter did not in express terms charge'Ms: Hatten with a breach of her professional obligations, when áided by innuendo and taken in the light most favorable to her and as plead, some portions of the letter may constitute defamation: Carwile v. Richmond Newspapers, Inc., 196 Va. 1 (1954). Therefore, the Court overrules the Demurrer to this allegation.
+' The Court finds that the Demurrer should be overruled regarding the statement to Ms. Hatten’s husband. Whether Ms. Hatten’s husband was her agent is a question of fact to be decided at trial. Further whether or not it is a violation of federal law to open another person’s mail at work, this statement could still be defamatory.
+The Court finds that the Demurrer should be overruled regarding the statement to Ms. Williams. Whether this statement is defamatory is a question of fact that must be decided at trial.
+B. Count II: Emotional Distress
+The Court finds that the Demurrer should be sustained as to Count II. According to the Virginia Supreme Court in Russo v. White, 241 Va. 23, 27 (1991):
+P]t is insufficient for a defendant to have “acted with'an intent which is tortious or even criminal.” Even if a defendant “has intended to inflict emotional distress,” or his conduct can be “characterized by ’malice,’ or a degree of aggravation which would entitle the plaintiff to punitive damages for another tort,” the requirement of the second prong [of an emotional distress claim] has not been satisfied. “Liability has been found only where the conduct has been so outrageous in character, and so extreme in degree, as to go beyond all possible bounds of decency, and to be regarded as atrocious, and utterly intolerable in a civilized community.”
+The conduct that Ms. Hatten alleges does not rise to this level.
+C. Count III: Tortious Interference with Contract
+The Court finds that the Demurrer should be sustained as to Count III. Ms. Hatten has not alleged that Defendants have prevented her from returning to work at Richmond Respiratory when her health is well enough for her to do so.
+Also, the Complaint states that Mr. Campbell is the owner of Richmond Respiratory. Thus, any interference by Mr. Campbell would be with a contract to which he was a party. According to Chaves v. Johnson, 230 Va. 112, 120; 335 S.E.2d 97, 102 (1985), a person cannot intentionally interfere with his own contract. The Supreme Court of Virginia did indicate in Fox v. Deese, 234 Va. 412; 363 S.E.2d 699 (1987), that whether a person was acting “within the scope of his employment” when interfering with a contract may be relevant where a person is purported to be acting on behalf of an employer. However, Ms. Hatten has not alleged that Mr. Campbell was acting outside the scope of his employment. In fact, she claims that he made the alleged defamatory statements and otherwise interfered with her contract because he was angry that he had to find someone to replace her while she was out of work. In addition, Mr. Campbell is not just an employee of Richmond Respiratory, he is its owner.
+D. Punitive Damages
+The Court finds that the Demurrer should be overruled as to Ms. Hatten’s request for punitive damages. Ms. Hatten has sufficiently alleged the Mr. Campbell’s conduct was “willful and wanton.”
