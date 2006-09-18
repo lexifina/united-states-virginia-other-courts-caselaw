@@ -1,0 +1,37 @@
+---
+court: "Fairfax County Circuit Court"
+docket: "Case No. (Law) 2005-3131"
+decided: "2006-09-18"
+citations: ["73 Va. Cir. 3"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SI International Technology Services, Inc. v. National Technologies Associates, Inc."]
+source_url: "https://static.case.law/va-cir/73/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3891852
+cites_cases: ["101 Va. 652", "103 Va. 719", "127 S.E. 87", "141 Va. 363", "154 S.E. 558", "155 Va. 18", "231 Va. 206", "257 Va. 382", "257 Va. 413", "343 S.E.2d 312", "44 S.E. 892", "49 S.E. 988", "512 S.E.2d 564", "514 S.E.2d 147"]
+---
+
+# SI International Technology Services, Inc. v. National Technologies Associates, Inc.
+
+## Majority (By Judge Kathleen H. MacKay)
+
+By Judge Kathleen H. MacKay
+Defendant’s Motion to Reconsider the court’s initial ruling is granted on two of its three arguments. This Motion was extensively briefed by both sides. The oral argument on the Motion last September 8 was lengthy. Thus, the rationale for my decision will be brief.
+Damages
+Although counsel for the defendant argued with some force that the plaintiff mischaracterized various Virginia cases, do not think that Mr. Recio was wrong in his case descriptions. For instance, it is true, with two exceptions, that many of the Virginia cases cited by defendant discuss overhead as one cost among many, that is, the precise definition of overhead is not the particular concern of the court in a particular case. See, Adams, Payne & Gleaves, Inc. v. Indiana Wood Preserving Co., 155 Va. 18, 30, 154 S.E. 558, 562 (1930); Tidewater Plumbing Supply Co. v. Emory Foundry Co., 141 Va. 363, 368-69, 127 S.E. 87, 88 (1925); Bristol Belt Line Ry. v. Bullock Electrical Mfg. Co., 101 Va. 652, 656-57,44 S.E. 892, 893 (1903). It very well may be that courts in other jurisdictions, cited by the plaintiff, have treated the issue of overhead more directly or even with a more sophisticated analysis. For instance, the Virginia cases do not differentiate between fixed costs and variable costs or between a manufacturing business or a company that provides services. And I would agree with plaintiffs argument that, in order to make a company whole, it may make a great deal of sense to perform such an analysis.
+Be that as it may, in the limited number of cases we have to rely on in Virginia, there is no doubt that the Supreme Court has included “fixed charges” as an appropriate cost to be taken from revenue to determine profit. In Worrell & Williams v. Kinnear Mfg. Co., 103 Va. 719, 722-23, 49 S.E. 988, 989-90 (1905), the Supreme Court defined “fixed charges” as:
+the general running expenses which attach to every business, and it is true, as intended, that such “fixed charges” do compose an essential element in the cost of a manufactured article.
+Even in Worrell, the definition of overhead was not the issue in the case.
+Worrell is the first exception, Fairfax County Redevel. & Housing Auth. v. Worcester Bros. Co., 257 Va. 382, 514 S.E.2d 147 (1999), is the second. In that case, the Supreme Court allowed a victorious plaintiff to collect for overhead but only after plaintiff proved that the delay caused by the defendant in breach directly increased its overhead. The case may have provided plaintiff some ammunition for its argument had the facts in the case at hand been analogous. They were not.
+In conclusion, it seems to me that the definition of fixed charges in Worrell and the subsequent references to running costs or overhead costs in the cases cited by defendant coupled with the novelty of the approach suggested by plaintiff, at least in Virginia, lead one to conclude that defendant’s analysis is correct. I will leave it to the Supreme Court to open up the issue to a new analysis, one that may be overdue in a different world one hundred years after Worrell.
+The Contract
+The essence of the Motion to Reconsider involves the court’s finding of breach. Upon reconsideration and a careful reading of Section 2.3(i) and (ii) of the MATCOM subcontract with NTA (Exhibit 23), I would agree with defendant’s position and reconsider my initial ruling. The contract is unambiguous and under its terms there has been no breach. The court heard a great deal of testimony in this case and I think it would have been impossible to understand this provision without the background testimony on NADP operations and government contracting in general.
+There is no question that NTA, in the person of Mr. Drake, knew exactly what it was doing. Witness the difference between the MATCOM Teaming Agreement and the Lacey Teaming Agreement. (Exhibit 3 & 4.) I believe MATCOM did not fully understand what was happening. But, of course, the fact that the parties disagreed as the meaning of the language is immaterial. Dominion Savings Bank, F.S.B. v. Costello, 257 Va. 413, 416, 512 S.E.2d 564, 566 (1999) (citing Ross v. Craw, 231 Va. 206, 212-13, 343 S.E.2d 312, 316 (1986)). It appeared to me that the.contract in question may have been different from the contracts normally negotiated between these businesses, and it may be that MATCOM did not devote sufficient attention to the paperwork. As I recall, Mr. Cox warned his supervisor that the contract needed to be worded differently to protect MATCOM’s interests. Again, upon reconsideration, I would agree with Mr. Korns that these conclusions are irrelevant to whether the contract was ambiguous.
+Termination for Convenience Clause
+With this argument, Mr. Korns asks me to reconsider a decision I did not make on an issue that was never presented to the Court either at trial or in any pleadings comprising the file in this case. To the extent I have to make a decision on the argument given my decision on the other issues in the Motion to Reconsider, I adopt plaintiffs position.
+See defendant’s Reply in Support of Its Motion for Reconsideration.
+Although this is a case upon which defendant relies and the case upon which I rely in granting the Motion to Reconsider, it must be noted, in deference to plaintiff’s argument that the court was defining “fixed charges” with reference to a manufactured article. Manufactured articles were not the subject of controversy in the litigation at hand.
+Although defendant relies heavily on Worrell, as well it should, nonetheless it does not appear to be precisely the case defendant describes it as being. Without question the court defines “fixed charges” but the gist of the case appear to be a squabble as to how the defense counsel was to be allowed to produce evidence as to what the fixed charges are. The court refused to allow defense counsel to question a witness for the plaintiff as to “trade secrets” nor could a disinterested witness be forced to discuss contracts plaintiff had with other companies. Apparently the jury had accepted a percentage calculation of fixed costs and the appellant argued that a higher percentage should have been applied. The recalculation of damages done by the court appears to have been done to correct an arithmetic error made by the jury.
+Even an agreement by a trial court and the Supreme Court that a contract is unambiguous does not obviate the possibility of error. Dominion Savings Bank, F.S.B. v. Costello, 257 Va. 413, 416-17, 512 S.E.2d 564, 566-67 (1999).
