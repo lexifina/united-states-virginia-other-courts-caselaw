@@ -1,0 +1,53 @@
+---
+court: "Fairfax County Circuit Court"
+docket: "Case No. CL-2006-8525"
+decided: "2007-03-20"
+citations: ["74 Va. Cir. 35"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Comstock Lake Pelham, L.C. v. Clore Family, L.L.C., et al."]
+source_url: "https://static.case.law/va-cir/74/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3893199
+cites_cases: ["271 Va. 352", "35 Va. Cir. 166", "39 B.R. 466", "478 F.2d 562", "626 S.E.2d 369"]
+---
+
+# Comstock Lake Pelham, L.C. v. Clore Family, L.L.C.
+
+## Majority (By Judge Jonathan c. thacher)
+
+By Judge Jonathan c. thacher
+This matter came before the Court on Plaintiffs Motion to Disqualify Defendant’s law firm.
+Background
+Plaintiff Comstock Lake Pelham, L.C. (“CLP”) is a Virginia limited liability company whose business is land development. Along with Comstock Potomac Yard, L.L.C. (“CPY”), CLP is completely controlled by a sole managing member called Comstock Homebuilding Companies, Inc. (“Comstock”).
+In March 2004, Comstock’s general counsel engaged the law firm that is now Akerman Senterfitt Wickwire & Gavin (“ASWG”) and what was then Wickwire Gavin (“Wickwire Gavin”), to perform legal work on a long term construction project, Comstock Potomac Yard.
+The language in Wickwire Gavin’s original “terms of engagement” letter addressed to Comstock General Counsel Jubal Thompson is as follows:
+The terms of this letter will apply to Comstock Homes, Inc., and any of its related companies (collectively the “Client”) on this and any other matter upon which we are engaged.
+March 5, 2004, Letter from Wickwire Gavin to Comstock Homes, Inc. This letter is addressed to Mr. Jubal Thompson and Comstock Homes, Inc. and is the “Terms of Engagement” for Wickwire Gavin’s representation of Comstock. Hereinafter referenced as the “Agreement.”
+Under this agreement, Wickwire Gavin performed legal work relating to the Potomac Yard Project in Alexandria, Virginia. The last invoice Wickwire Gavin sent to Comstock for work performed on this project was in August of 2005.
+In May of 2005, CLP entered into an agreement to purchase land in Culpeper County from defendant Clore. The underlying dispute in this suit is over the $2 million initial deposit made by CLP, of which $1.1 million is in Clore’s possession and $900,000 is in the hands of defendant Premier Title.
+On July 5, 2006, CLP informed Clore that, because it thought some conditions precedent to the contract were not satisfied, CLP no longer considered itself obligated to purchase the land and did not intend to do so. Clore disagreed and refused to release the initial deposit.
+On June 23, 2006, the merger between Akerman Senterfitt and Wickwire Gavin forming ASWG was completed.
+Clore retained ASWG on July 10,2006, and subsequently filed suit for breach of contract and declaratory judgment. On October 26,2006, Comstock filed a motion to disqualify ASWG from the case alleging the conflict of interest.
+Comstock argues that Wickwire Gavin’s, and thus ASWG’s, representation of Comstock was never terminated by Comstock corporate counsel Thompson, the only Comstock representative with authority to retain or terminate counsel, and therefore ASWG should be disqualified from representing Clore in an action adverse to Comstock.
+ASWG responds that its representation of Comstock ended in June 2005 when it was told to stand down (not by Thompson) and that its last invoice to Comstock was in August 2005. ASWG argues that these facts along with the fact that Comstock had hired other outside counsel plainly demonstrate that the relationship between Comstock and ASWG predecessor Wickwire Gavin had ceased. ASWG also contends that CLP was never a client of Wickwire Gavin or ASWG because it was a separate legal entity. Further, ASWG argues that Comstock bears a heavy burden to establish that disqualification is warranted in light of Virginia’s preference entitling a litigant to representation by counsel of its own choosing.
+Analysis
+The issue before the Court is a difficult one, made more difficult by the particular facts and the failure of the parties to clearly delineate the course of representation.
+A motion for the disqualification of counsel requires close inspection and requires the Court to “balance several important factors: the right of a party to retain counsel of his choice and the substantial hardship which might result from disqualification as against the public perception of and the public trust in the judicial system.” In re Chantilly Constr. Corp., 39 B.R. 466, 468 (Bankr. E.D. Va. 1984). Each disqualification motion must be decided on a case-by-case basis. Id. at 469. While there are important considerations there is no rigid standard to be applied. Id. Yet, first and foremost in any examination of such issues, the Court has a duty to “maintain the highest ethical standards of professional conduct to ensure and preserve trust in the integrity of the bar.” Hirst v. Siegfried, 35 Va. Cir. 166, 169 (Fairfax County, 1994).
+The crux of the issue before the Court must be analyzed in three steps. First, whether and when Wickwire Gavin/ASWG’s representation of Comstock ended; second, whether, under the parties Agreement, CPL was ever a client of Wickwire Gavin/ASWG; and third, whether there exists a substantial relationship between the matters of the prior representation and the pending litigation.
+Rule 1.6(d) of the Virginia Rules of Professional Conduct places the burden of communicating the termination of representation upon the lawyer, or as in this case, the law firm:
+Upon termination of representation, a lawyer shall take steps to the extent reasonably practicable to protect a client’s interest, such as giving reasonable notice to the client, allowing time for employment of other counsel, refunding any advance payment of fee that has not been earned and handling records as indicated in paragraph (e).
+(Emphasis added.)
+Here, ASWG never communicated to Comstock that ASWG’s representation had been terminated. Regardless of who initiated the termination or representation, the Rules place the burden of communication squarely upon the lawyer. No such communication was ever issued by ASWG to Comstock.
+ASWG argues that it was told to “stand down” in August of 2005 after changes in Comstock management. Comstock’s corporate counsel Thompson disputes ASWG’s contention and testified that he was the only person authorized to make decisions about the beginning and end of legal representation regarding outside counsel and he never terminated ASWG’s representation.
+Because the burden is upon the lawyer to communicate with the client upon the termination of representation, the lack of communication of same from ASWG could lead one to reasonably conclude that the representation was ongoing. It was ASWG’s burden to clarify the relationship, and they failed to satisfy that burden.
+The next issue to be analyzed is whether CPL was ever an ASWG client. The language of the Agreement between the Comstock and Wickwire Gavin specifically stated that “the terms of this [Agreement] will apply to Comstock Homes, Inc., and any of its related companies.” Agreement at 1.
+CPL is a wholly owned subsidiary of Comstock. Comstock Homes, Inc., subsequently changed its name to Comstock Homebuilding Companies, Inc. As it is the same company, it will continue to be referred to as Comstock for clarity.
+A contract is construed as written, and, when the terms are clear and unambiguous, the contract is construed according to its plain meaning. PMA Capital Ins. Co. v. US Airways, Inc., 271 Va. 352, 358, 626 S.E.2d 369, 372-73 (2006). Under the plain language of the Agreement, it is clear that CPL falls under the category of a “related company” to Comstock; thus, CPL was a client of Wiclcwire Gavin and subsequently ASWG.
+ASWG argues that CPL was not in existence at the time of Wiclcwire Gavin’s representation of Comstock. However, as discussed supra, because of ASWG’s failure to communicate the termination of representation, the issue of whether CPL was in existence at the time of the representation is moot.
+Even if Comstock and CPL are merely former clients of ASWG, Virginia Rules of Professional Conduct Rule 1.9(a) requires that:
+A lawyer who has formerly represented a client in a matter shall not thereafter represent another person in the same or a substantially related matter in which that person’s interests are materially adverse to the interests of the former client unless both the present and former client consent after consultation.
+Rule 1.9(b) prohibits use of any information relating to the representation of the former client to the disadvantage of the former client. Virginia Rules of Professional Conduct Rule 1.9(b). Though mere past representation is not enough for disqualification, there must be a substantial relationship between the matters in that the information must be relevant to the pending litigations. Compare In re Chantilly Constr. Corp., 39 B.R. at 472 (Court determined prior and present matters related to separate and distinct contracts and involved matters not “substantially related” to the present litigation thus disqualification not appropriate), with Ernie Industries v. Patentex, Inc., 478 F.2d 562, 570 (2d Cir. 1973) (affirming the lower court’s disqualification of plaintiff’s attorney because matters embraced within the pending litigation were identical to issues in the prior representation, thus there was no need to inquire whether the attorney actually received confidential information).
+Here Wickwire Gavin worked on construction contracts for CPY in Alexandria. There is no evidence that the firm did work on any other project for Comstock during its active representation; however, the terms of the Agreement clearly indicate that Wickwire Gavin was retained to work on “any other matters upon which we are engaged.” Agreement at 1. This coupled with the fact that there was never any clear communication from ASWG that any such representation was terminated presents the most difficult issue under consideration by the Court.
+Ultimately the Court must give its greatest consideration to the public perception of and the public trust in the judicial system and the integrity of the bar. Hirst, 35 Va. Cir. at 169. Here, because ASWG failed to satisfy the burden incumbent upon it to communicate the termination of representation and comply with Rule 1.16(d), the Court concludes that disqualification is appropriate. The Plaintiffs Motion to Disqualify ASWG is granted.
