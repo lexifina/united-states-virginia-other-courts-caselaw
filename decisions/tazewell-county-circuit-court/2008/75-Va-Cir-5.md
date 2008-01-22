@@ -1,0 +1,30 @@
+---
+court: "Tazewell County Circuit Court"
+docket: "Case No. CL07-123"
+decided: "2008-01-22"
+citations: ["75 Va. Cir. 5"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Altizer, Jr. v. Tazewell County and Dwight Newberry"]
+source_url: "https://static.case.law/va-cir/75/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3783298
+cites_cases: ["184 Va. 19", "199 Va. 169", "221 Va. 43", "224 Va. 687", "225 Va. 372", "282 S.E.2d 864", "299 S.E.2d 367", "302 S.E.2d 51", "34 S.E.2d 369", "98 S.E.2d 515"]
+---
+
+# Altizer v. Tazewell County
+
+## Majority (By Judge Teresa M. Chafin)
+
+By Judge Teresa M. Chafin
+The Court has reviewed the above-styled case, including counsels’ memoranda of law and oral arguments presented during a hearing on January 14, 2008.
+The Complaint, filed on March 22, 2007, alleges ordinary and gross negligence on the part of Tazewell County, Virginia, and Dwight Newberry, Park Ranger of Cavits Creek Park, in maintenance and performance of official duties on April 3, 2005. Specifically, the Complaint alleges that Defendants Dwight Newberry and Tazewell County, Virginia, were negligent on April 3, 2005, by failing to secure the front gate to the park so that it would not swing into the path of vehicles entering or exiting the park.
+The Defendants filed a demurrer and accompanying memorandum arguing that the Plaintiff has not stated a claim upon which relief may be granted because the Defendants enjoy sovereign immunity. The Defendants also argue that the Plaintiff has not pleaded sufficient facts to establish a claim of gross negligence in order to remove the protection of sovereign immunity.
+Defendants’ Demurrer is sustained as to Defendant Tazewell County, Virginia. Tazewell County is immune from allegations of negligence; it is an arm of the Commonwealth and its immunity as such has not been waived. The Virginia Supreme Court in Mann v. Arlington County Board held the counties are integral parts of the Commonwealth, created for civil administration, and, in the absence of a specific statute, are entitled to the same immunity the Commonwealth enjoys. Mann v. Arlington County Board, 199 Va. 169, 173-74, 98 S.E.2d 515, 518 (1957). Further, while a plaintiff may sue the Commonwealth under limited circumstances, the Virginia Tort Claims Act specifically preserves the sovereign immunity of counties. Virginia Code § 8.01-195.3. Further, Virginia Code § 15.2-1809 does not waive the immunity counties enjoy for allegations of gross negligence or intentional conduct. This immunity is extended to protect counties from the negligence of its employees and officers. Mann, 199 Va. at 174, 98 S.E.2d at 518.
+The Court also sustains Defendants’ Demurrer, with leave for the Plaintiff to amend, as to Defendant Dwight Newberry. The Complaint provides insufficient facts to determine whether the action of Mr. Newberry in opening the gate was ministerial or discretionary. County employees generally share the immunity of their employer, provided that they meet a four-factor test as set out in James v. Jane, 221 Va. 43, 282 S.E.2d 864 (1980).
+The factors to be considered are (1) the nature of the function the employee is performing, (2) the extent of governmental interest and involvement in the function, (3) the degree of control and direction exercised over the employee, and (4) whether the alleged wrongful or negligent act involved an exercise of judgment or control. Id. The forth prong is often the most significant. This prong asks whether the alleged action was ministerial in nature, which often does not enjoy immunity, or discretionary, in which immunity flows from the sovereign. A ministerial act is one in which a person or employee acts in obedience with a mandate of authority, without regard to or exercise of, his or her own judgment or discretion upon the act being done. Dovel v. Bertram, 184 Va. 19, 22, 34 S.E.2d 369, 370 (1945). Likewise, a county employee may enjoy sovereign immunity flowing from his or her employer for discretionary acts or acts upon which he or she may exercise control.
+The pleadings in this case do not state facts sufficient to determine whether Defendant Newberry’s alleged act of failing to properly secure agate was ministerial or within his discretion as Park Ranger of Cavits Creek Park. Additional facts would need to be pleaded to show that this function of opening the gate was done with obedience and without discretion.
+Finally, gross negligence is a degree of negligence which shows indifference to others as to constitute an utter disregard of prudence. Morris v. Hamilton, 225 Va. 372, 375, 302 S.E.2d 51 (1983) (citing Community Motor Bus Co. v. Windley, 224 Va. 687, 689, 299 S.E.2d 367 (1983)). It must be of such a degree as to shock fair-minded persons. Id. Ordinarily, gross negligence is an issue to be resolved by the jury; however, it becomes a question of law when the Court must determine if the facts, as pleaded, are sufficient to determine whether the protection of sovereign immunity may be set aside. The Court finds that reasonable minds cannot differ about the conclusion to be reached from the facts, as pleaded in the Complaint.
+Therefore, the Court sustains Defendants’ Demurrer, finding that the Plaintiff has pleaded insufficient facts to establish a cause of action for gross negligence in order to set aside the protection of sovereign immunity. The Court gives the Plaintiff leave to amend the Complaint to more accurately plead facts to establish a claim alleging gross negligence, if the facts of the case merit such an amendment. Plaintiff should thoroughly review the above-cited case law in forming a decision whether or not to file an amended complaint.
+In summary, the Court sustains the Defendants’ Demurrers and provides the Plaintiff with leave to file an Amended Complaint within twenty-one days of entry of an order reflecting the decisions of the Court.
