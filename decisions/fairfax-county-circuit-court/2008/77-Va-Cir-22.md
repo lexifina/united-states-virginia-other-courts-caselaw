@@ -1,0 +1,36 @@
+---
+court: "Fairfax County Circuit Court"
+docket: "Case No. CL 2007-3444"
+decided: "2008-06-16"
+citations: ["77 Va. Cir. 22"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kanika Barua v. Sumed Barua"]
+source_url: "https://static.case.law/va-cir/77/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3863560
+cites_cases: ["101 S.E. 345", "126 Va. 259", "16 Va. App. 323", "429 S.E.2d 487"]
+---
+
+# Barua v. Barua
+
+## Majority (BY JUDGE JONATHAN C. THACHER)
+
+BY JUDGE JONATHAN C. THACHER
+This matter came before the Court on the Defendant’s Motion to Set Aside the Final Decree of Divorce. After considering the arguments of counsel, each party’s testimony, and the evidence presented, the Court holds that Ms. Barua committed a fraud on the Court in procuring the Final Decree of Divorce. Therefore, the Final Decree of Divorce is Vacated.
+Background
+On March 26, 2007, Kanika Barua filed a Complaint seeking an uncontested divorce, based on the parties living separate and apart for over one year. On that same day, Ms. Barua filed an Affidavit for Service by Publication. In the Affidavit, Ms. Barua represented that she could not locate the defendant. Further, she stated that she had used diligence in attempting to locate the defendant but had not been successful. On April 4, 2007, the Deputy Clerk of the Court entered an Order of Publication to be posted in the Washington Times for four successive weeks.
+On August 27, 2007, Ms. Barua appeared before the Honorable Jonathan C. Thacher at an ore tenus hearing. Ms. Barua represented herself, pro se, at the hearing and testified that there were no property issues for the Court to resolve. After Ms. Barua and her corroborating witness testified, the Court adjourned the hearing and stated that the Final Decree of Divorce would be entered upon receipt of the transcript. On September 13, 2007, the Honorable Gaylord L. Finch signed the Final Decree of Divorce.
+On December 19,2007, Sumed Barua, the Defendant, filed a Motion to Set Aside the Final Decree of Divorce. On February 15,2008, with each party represented by counsel, the Court heard the Defendant’s Motion. During the hearing, Mr. Barua established that Ms. Barua routinely communicated with him while the divorce action was pending in this Court. In fact, the testimony of both parties indicated that the parties often interacted with one another while the divorce action was pending. Mr. Barua testified that at no point during these interactions did Ms. Barua inform him of the pending divorce action or attempt to ascertain where he currently resided. Ms. Barua did not contradict this testimony.
+Additionally, Ms. Barua testified that she never formally attempted to serve Mr. Barua with the Complaint for Divorce before seeking service by publication. Ms. Barua also testified that, despite her numerous encounters and conversations with Mr. Barua, she never asked him for his address or told him about the Complaint for divorce. Finally, Mr. Barua, through counsel, offered various cell phone records which corroborate his testimony that he spoke often with Ms. Barua while the lawsuit was pending.
+Analysis
+The primary issue presented is whether this Court should vacate the Final Decree of Divorce. The Defendant argues that Ms. Barua obtained the Final Decree through fraud on the court after fraudulently executing an affidavit to obtain service by publication.
+An order of publication may be entered against a defendant when the party seeking service executes an affidavit stating that diligence has been used, without effect, to ascertain the location of the party to be served. Virginia Code § 8.01-316(A)(1)(b). Mr. Barua argues that Ms. Barua did not exercise any diligence to learn his address and thus fraudulently obtained an Order of Publication before exercising any diligence to learn Mr. Barua’s address.
+After considering each party’s testimony, the evidence presented, and the arguments of counsel, the Court holds that Ms. Barua committed a fraud on the court. The evidence does not support that Ms. Barua exercised any diligence to locate Mr. Barua before seeking an Order of Publication.
+Ms. Barua’s actions constitute extrinsic fraud which renders the Final Decree void. Extrinsic fraud occurs outside the judicial process and consists of conduct which prevents a fair submission of the controversy to the court. Peet v. Peet, 16 Va. App. 323, 327, 429 S.E.2d 487, 490 (1993). When extrinsic fraud is committed, a party is prevented from having a trial on the issues underlying the controversy. McClung v. Folks, 126 Va. 259, 270, 101 S.E. 345, 348 (1919). Such fraud depraves the judicial processes and prevents the Court from discovering the fraud through the adversarial process. Peet, 16 Va. App. at 327, 429 S.E.2d at 490.
+Here, Ms. Barua executed an affidavit attesting that she attempted to locate the Defendant before seeking an Order of Publication. However, the evidence belies this assertion. Ms. Barua never attempted to serve the Defendant before seeking an Order of Publication. Moreover, both parties’ testimony established that the two regularly conversed both before the filing of the suit and while the suit was pending. At no time did Ms. Barua inform Mr. Barua of her intent to file for divorce or even attempt to learn his home address so she could properly serve him. Her testimony established that she took no action to learn Mr. Barua’s address before filing the Affidavit for Publication. Instead, Ms. Barua avoided the subject of Mr. Barua’s address each time she spoke with him and represented to this Court that she could not locate Mr. Barua.
+Ms. Barua argued that the mere fact that she often spoke with the Defendant and saw the Defendant at social events did not preclude her from obtaining an Order of Publication. This argument would be correct if the Defendant refused to inform her of his current address or refused to cooperate with Ms. Barua in her attempts to perfect service. These circumstances would support that Ms. Barua exercise*} diligence before filing the Affidavit for Publication. However, Ms. Barua never informed the Defendant of the pending action or attempted to learn his address. Based on the evidence presented, Ms. Barua did not exercise any manner of diligence to inform Mr. Barua or serve him with actual notice of the pending divorce action.
+Mr. Barua argued that there are outstanding issues that need to be litigated in the divorce proceeding, including equitable distribution and custody of the minor child born of this marriage. Due to Ms. Barua’s representations that she could not locate Mr. Barua, he could not litigate these issues. As such, he is now entitled to have the Final Decree set aside, allowing him to file responsive pleadings so these outstanding issues can be resolved.
+Conclusion
+The Court finds that Ms. Barua committed a fraud on the court. As such, the Final Decree entered on September 13, 2007, is vacated as void. Additionally, the Order of Publication is also vacated as void. This case is now reopened, and Mr. Barua may file responsive pleadings, which are due within twenty-one days from the date of this Letter Opinion.
