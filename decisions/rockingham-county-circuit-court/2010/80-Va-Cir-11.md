@@ -1,0 +1,30 @@
+---
+court: "Rockingham County Circuit Court"
+docket: "Case No. CL09-00442"
+decided: "2010-01-07"
+citations: ["80 Va. Cir. 11"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thalia O’Hearn v. Stephen Mawyer"]
+source_url: "https://static.case.law/va-cir/80/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3868889
+cites_cases: ["30 Va. Cir. 302", "416 F.3d 320", "42 Va. Cir. 421", "46 Va. Cir. 272", "55 Va. Cir. 96", "63 Va. Cir. 71", "69 Va. Cir. 516", "78 Va. Cir. 456"]
+---
+
+# O'Hearn v. Mawyer
+
+## Majority (By Judge James Y. Lane)
+
+By Judge James Y. Lane
+This matter came before the Court on defendant’s Special Plea in Bar and Motion to Dismiss. The dispute arises out of a motor vehicle accident that occurred on or about May 23, 2005. Plaintiff filed a personal injury complaint on May 3, 2007, praying for compensatoiy damages of $250,000 and punitive damages of $350,000. Plaintiff subsequently took a voluntaiy nonsuit of the case, which was entered by Court Order on March 2, 2009. On May 21, 2009, the plaintiff filed a new complaint against the defendant for the same accident. The new complaint was nearly identical in its allegations, except that plaintiff asked for $300,000 in compensatory damages and did not ask for punitive damages. On October 26, 2009, the defendant moved to dismiss the complaint as barred by the two-year statute of limitations for personal injury claims. Va. Code § 8.01-243(A). Having reviewed counsel’s briefs and heard oral argument on January 5, 2010, the Court now denies the defendant’s Motion to Dismiss.
+Defendant argues that the filling of the second complaint did not trigger the savings provision of § 8.01-229(E)(3) because the new complaint was not the same “action.” That statute provides, in part:
+If a plaintiff suffers a voluntary nonsuit as prescribed in § 8.01-380, the statute of limitations with respect to such action shall be tolled by the commencement of the nonsuited action, and the plaintiff may recommence his action within six months from the date of the order entered by the court, or within the original period of limitation, or within the limitation period as provided by subdivision B 1, whichever period is longer.
+(Italics added.)
+Defendant argues that the use of the word “action” requires plaintiff to ask for the same amount of damages and that, “[b]y increasing the ad damnum for compensatoiy damages, Plaintiff has filed a new action, outside the recommencement provision of the nonsuit statute.” (Def. Motion to Dismiss 2.) Defendant cites Spear v. Metropolitan Airports Auth., 78 Va. Cir. 456 (2009).
+Spear dealt with a substantially similar situation. Following a nonsuit, the defendant moved to dismiss the new complaint after the six-month window of § 8.01-229(E)(3) had passed because the ad damnum stated a larger sum of money. The court in Spear found that the amount of damages should be considered in deciding whether the recommenced action is the same action that was nonsuited for the purposes of § 8.01-229(E)(3). Considering the difference in damages, the court held that the plaintiff did not recommence the same action and dismissed the case with prejudice.
+A number of other circuit courts in the Commonwealth have encountered the issue of changes in or additions to the recommenced suit being saved by § 8.01-229(E)(3), and these courts have applied somewhat different tests to determine whether the addition or change would be saved. E.g., Nickson v. Rice, 69 Va. Cir. 516 (Chesterfield 2004) (dismissing the new claims for arising out of different spheres of facts than alleged in the original complaint); Odeneal v. Thompson, 63 Va. Cir. 71 (Fairfax 2003) (asking whether the renewed claims arise out of a single cause of action); Ritchie v. Norton Community Hospital, Inc., 55 Va. Cir. 96 (Wise 2001) (“amendments to a revived action after a nonsuit should be controlled by the requirements of Virginia Code § 8.01-6.1”); James v. Ashland Ford Mercury, Inc., 46 Va. Cir. 272 (Richmond 1998) (applying Va. Code § 8.01-6.1; asking whether the new claim “arose out of the conduct, transaction, or occurrence set forth in the original pleading”); Fauntleroy v. Carden & Potomac Supply Corp., 42 Va. Cir. 421 (Westmoreland 1997) (asking whether the recommenced suit introduces a new cause of action); Ely v. Shirley’s Barbecue, Inc., 30 Va. Cir. 302 (Roanoke 1993) (“the operative facts required to prove the new allegations are different from those necessary to prove the negligence alleged in the original suit”).
+The Fourth Circuit Court of Appeals has also ruled that Va. Code § 8.01-229(E)(3) will “save all rights of action arising from that [original] cause of action.” Hatfill v. The New York Times, 416 F.3d 320, 335 (4th Cir. 2005). Hatfill observed that Va. Code § 8.01-380 “authorizes a plaintiff to take a nonsuit on any ‘cause of action’ and the Virginia Supreme Court defines a ‘cause of action’ as ‘a set of operative facts which, under the substantive law, may give rise to one or more rights of action.” Id. Reading § 8.01-380 next to § 8.01-229(E)(3), this Court also finds that the proper inquiry as to whether a new claim is saved is whether it is part of the same set of operative facts that may give rise to a right of action. While the savings statute does use the word “action,” reading that word strictly would render moot the nonsuit statute’s authorization for a plaintiff to nonsuit a “cause of action.”
+The only change in the plaintiffs recommenced action was the amount of compensatory damages in the ad damnum. Because the new action is part of the same set of operative facts, specifically an automobile accident on May 23, 2005, at the intersection of Port Road and the 1-81 exit ramp, it will be saved by the six-month provision of § 8.01-229(E)(3).
+Accordingly, the defendant’s Motion to Dismiss and Special Plea in Bar is denied.
