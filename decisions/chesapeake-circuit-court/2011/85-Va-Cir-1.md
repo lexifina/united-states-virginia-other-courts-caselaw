@@ -1,0 +1,51 @@
+---
+court: "Chesapeake Circuit Court"
+docket: "Case No. (Civil) 11-583"
+decided: "2011-11-09"
+citations: ["85 Va. Cir. 1"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Blueridge General, Inc. v. Ivan Bret Fanton"]
+source_url: "https://static.case.law/va-cir/85/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3793070
+cites_cases: ["202 Va. 807", "223 Va. 59"]
+---
+
+# Blueridge General, Inc. v. Fanton
+
+## Majority (By Judge John W. Brown)
+
+By Judge John W. Brown
+The issue presented by the Plaintiff in this case is whether the Defendant personally obligated himself for the stipulated damages of $57,005.53, pursuant to a subcontract of the parties.
+Facts
+It is uncontested that Fanton Commercial Concrete, Inc. (hereinafter “FCC, Inc.”) gave an unsigned bid to the Plaintiff on March 11, 2009, for concrete work to be performed on the Western Branch High School addition. See Plaintiff’s Exhibit # 1.
+It is also uncontested that, while the bid was submitted on FCC, Inc., letterhead, no entity by that name existed. An entity by the name of Fanton Commercial Concrete, L.L.C. (hereinafter “FCC, L.L.C.”) did exist at the time of the bid and was operated and managed by the Defendant Ivan Fanton. Tim Mann was an employee of FCC, L.L.C., and had among his duties estimation and bid creation for submission on commercial concrete projects. Testimony by the Defendant at the trial recited history that, under the corporate name of Fanton Masonry, Inc., he performed mostly residential concrete work and, after being introduced to Mr. Mann, felt that Mr. Mann’s proposal to work for him and solicit commercial concrete work for Mr. Fanton would be profitable.
+Thereafter, Fanton created FCC, L.L.C., and it was after the incorporation of FCC, L.L.C., that the unsigned bid of March 11,2009, was submitted on stationary created by Mr. Mann, who utilized the abbreviation “Inc.” rather than “L.L.C.”
+On May 1,2009, the Defendant accepted and signed a “Purchase Order” (hereinafter “the contract”), drafted by the Plaintiff. Defendant’s signature did not indicate that he signed the contract as an officer or an agent for any corporate entity. See Plaintiff’s Exhibit 2.
+It was stipulated, and was reflected in Plaintiff’s Exhibits 3 and 4, that, at some point before the Defendant’s contract work was completed, Defendant left the site and the remaining work to be performed under the contract had to be completed by a third party. See Plaintiff’s Exhibits 5 and 6. The agreed damages of $57,005.53 are what the Plaintiff seeks from the Defendant individually.
+In April of 2010, Fanton changed the name to Commercial Concrete and Masonry, L.L.C. (hereinafter “FCC & M, L.L.C.”). See Plaintiff’s Exhibit 3. Thereafter, suit was filed by the Plaintiff against FCC & M, L.L.C., for damages. The Defendant stated in discovery that FCC & M, L.L.C., “was not and is not a party to the contract.” See Interrogatory Answer # 6, Plaintiff’s Exhibit 7. The Plaintiff advocates that this answer, in addition to Mr. Fanton’s individual signature in the contract, is clear evidence that Ivan Fanton meant to be individually obligated under the contract.
+Issues
+A. The first issue is whether the contract of the parties signed by Ivan Fanton, obligated himself individually or FCC, L.L.C., through his agency.
+In Virginia, “Each member [and manager] is an agent of the limited liability company for the purpose of its business” and “An act of a member [or manager], including the signing of an instrument in the limited liability company name, for apparently carrying on in the ordinary course the limited liability company business or business of the kind carried on by the limited liability company, binds the limited liability company, unless the member had no authority to act for the limited liability company in the particular matter and the person with whom the member was dealing knew or had notice that the member lacked authority.” See Virginia Code § 13.1-1021.1.
+In the present case, the evidence showed that the initial bid bore no personal signature and was merely an offer of FCC, Inc. The explanation given by Ivan Fanton in Court, that the drafter of the bid, Tim Mann, created the letterhead on a computer and apparently did not know the proper name of the entity, was reasonable and credible.
+References and Certificate of Insurance
+Additionally, Mr. Geary, President of the Plaintiff, testified that he checked “references” of the bidder and, as required by the contract, later reviewed the Certificate of Insurance. See Defendant’s Exhibit # 2. Said Certificate clearly showed the insured to be FCC, L.L.C., with offices at the same address as handwritten in the contract.
+Correspondence
+Further, all the correspondence offered by the Plaintiff and marked as Plaintiff’s Exhibit 3 are addressed to Ivan Fanton (at) FCC, Inc. Those letters discuss the corporation’s failure to complete the work as agreed. For example, “By letter dated May 21, 2009, Blueridge General, Inc. issued Fanton Commercial Concrete, Inc. . . .” (emphasis added), Exhibit 3, p. 5; “By letter dated June 4, 2009, Blueridge General, Inc., notified Fanton Commercial Concrete, Inc. . . .” (emphasis added), id.; “By letter dated June 16, 2009. ... To date Fanton Commercial Concrete, Inc., has not corrected its failures to pay its employees or man the job. . . .” (emphasis added), id.; “unless Fanton Commercial Concrete, Inc., properly mans the project.. ..” (emphasis added), id.
+It is clear from the references checked for FCC, Inc., the letters to FCC, Inc., and the demand that FCC, Inc., “man the job” within five days, that the Plaintiff felt that it was dealing with a corporation and not an individual. Specifically, they felt they were dealing with FCC, Inc.
+Contract
+The contract itself reflects the belief that Blueridge General was dealing with a corporate entity as its subcontractor and not Mr. Fanton individually. Initially, the contract is addressed to FCC, Inc.; Paragraph 11 of the contract requires all progress billings to be signed “by an OFFICER of the company only and notarized;” and Paragraph 14 of the contract requires a “Certificate of Insurance” (which was submitted in the name of FCC, L.L.C.).
+B. The second issue is whether the signature of Ivan Fanton alone, without designation of his title or office, binds the entity. Within this question, the Court must also discuss the topic of misnomer. See Lataif v. Commercial Industrial Construction, Inc., 223 Va. 59 (1982) (“[A] misnomer in a corporate name does not invalidate a contract when it is clear what corporation the parties intended....”)
+There is no evidence that any entity existed by the name of FCC, Inc. In fact, the direct, uncontradicted evidence is that Ivan Fanton never operated or purported to operate under FCC, Inc. Without an existing entity named FCC, Inc., was the use of “Inc.” by Tim Mann, an employee, but not an officer, a misnomer?
+Michie’s Jurisprudence states that “[t]he misnomer of a corporation does not affect the validity of a contract made by it. Similarly, where the name or description is erroneous, but there is no reasonable doubt as to the person who was intended to be named or described, the mistake will not defeat a bequest (internal citations omitted).” 4B M.J., Corporations, § 37. Here, a named party to the contract conflicts with the apparent representation of the signature, and therefore issues of fact are presented.
+Decision
+After consideration of the facts and assessing the credibility of the witnesses presented the Court makes the following findings.
+It is clear that the Plaintiffs felt they were contracting with a corporate entity and not an individual. This can be clearly discerned from the Bid, the contract, the Certificate of Insurance, and the letters from the Plaintiff to FCC, Inc., already discussed above.
+The failure of Ivan Fanton to insert his title and FCC, L.L.C., above or adjacent to his signature on the contract does not by itself make him personally obligated under the contract. It is clear from the actions of the parties at the time of the signing and subsequent thereto, as well as from the contract itself, that all concerned considered the signature of Ivan Fanton to be the act of the corporation. See Brewer v. First National Bank, 202 Va. 807 (1961).
+Further, nowhere on the bid of March 11, 2009, or anywhere within the purchase order was Ivan Fanton’s name typed. Indeed, the signature line on the contract (prepared by the Plaintiff) did not have Ivan Fanton’s name, with or without title, typed below that line. It is as if, at that point, they did not know who would sign on behalf of the subcontracting corporation.
+Nor can it be reasonably argued, in the absence of any signatures except for Mr. B. A. Geary, that Mr. Fanton signed as a guarantor or co-obligor. Moreover, nowhere in body of the contract or on the signature page is there provision for personal liability on the party of any signatory.
+The Court finds that the use of “Inc.” by an employee on computer-generated letterhead, without a signature, was an error and misnomer that went unnoticed by Mr. Fanton when he approved it to be sent to the Plaintiff. It also went unnoticed by the Plaintiff when it received the Certificate of Insurance in the name of Fanton Commercial Concrete, L.L.C. (emphasis added). Neither oversight, the Court finds, affected the intention of the parties, and said insurance placed the Plaintiff on notice of the proper name of the entity with which he was proposing to contract.
+Defendant’s answer to Interrogatory # 6, taken literally and recognizing that it was answered by a layman, that FCC & M, L.L.C., was not a “party to the contract” was true. The Court declines to adopt the inference urged by the Plaintiff that it implies personal liability on Mr. Fanton.
+The Court finds for the Defendant Ivan Fanton, ruling that the evidence clearly showed that the parties to the contract were Blueridge General, Inc., and FCC, L.L.C., and that Ivan Fanton signed as an authorized officer of the limited liability corporation.
