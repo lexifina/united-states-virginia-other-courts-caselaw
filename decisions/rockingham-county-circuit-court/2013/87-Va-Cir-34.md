@@ -1,0 +1,40 @@
+---
+court: "Rockingham County Circuit Court"
+docket: "Case No. CL11-1561"
+decided: "2013-06-13"
+citations: ["87 Va. Cir. 34"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gregory Hindman v. Natalie Garber"]
+source_url: "https://static.case.law/va-cir/87/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4139945
+cites_cases: ["234 Va. 60", "360 S.E.2d 345", "Va. Code Ann. § 55.248.2"]
+---
+
+# Hindman v. Garber
+
+## Majority (By Judge James V. Lane By Judge Bruce D. Albertson)
+
+By Judge James V. Lane
+This matter came before the Court on April 10, 2012, on the Plaintiff’s two Motions in Limine. The Court took the Motions under advisement and is now ready to rule as follows.
+The Court grants the Plaintiff’s Motion in Limine as to Medical Condition. The Court finds that the medical emergency/restriction which prohibited the Defendant from occupying the property occurred off the premises of the property and the restrictions were not related to the conditions of the leasehold. Therefore, any facts or evidence pertaining to the Defendant’s medical emergency/restriction are not relevant to the potential breach of contract and will be precluded from being entered into evidence at the trial.
+The Court also grants the Plaintiff’s Motion in Limine as to Restrictive Covenants. The Court finds that this is not a defense under the Virginia Residential Landlord Tenant Act, Va. Code Ann. § 55.248.2 et seq. Furthermore, the restrictive covenants are not relevant to the potential breach of contract and the probative value of admitting such evidence before the jury would be substantially outweighed by the prejudicial effect of admitting such evidence.
+The Court grants both of Plaintiff’s Motions in Limine.
+By Judge Bruce D. Albertson
+August 30, 2013
+The Defendant filed a Motion to Rehear as to rulings made by Judge James V. Lane. By agreement of counsel, the Court withheld ruling on that motion and allowed the Defendant to present any evidence the Defendant had in the case on those matters during the bench trial.
+The Court heard the testimony of several witnesses. The Court was able to observe their demeanor and weigh their testimony. The Court considered all of the stipulations and exhibits offered by the parties and argument of counsel.
+Defense of Impossibility
+The Court grants the Motion to Rehear as to the affirmative defense of impossibility. The Defendant alleges that, due to a mental health conditions, she could not fulfill her duties pursuant to the lease. While Plaintiff indicates that the Defendant’s medical condition does not affect her ability to pay, it is possibly relevant for that purpose. As noted, the Court heard all of the evidence the Defendant wished to present at trial as to this defense. The Court finds that the Defendant did not prove the defense of impossibility by the greater weight of the evidence. The Defendant signed a valid lease. After what can only be described as a brutal attack when she was away from the area, the Defendant received treatment. She elected to stay with her family and not return to the residence that she leased.
+The only evidence that she provided to indicate that she could not pay the rent came from her mother, the only witness she called. Her mother indicated that, when Defendant decided not to go back to James Madison University (J.M.U.) based on medical advice, she lost her student loans and could not pay the rent. The Court was in a position to observe the demeanor of the witness and does not find her credible. She had to be addressed by the Court in the middle of trial, and her testimony on other matters was contrary to common sense and the findings of the Court, such as her assertion that her daughter was released from paying rent by one of the owners. The Court believes by observing her demeanor that she was, and remains, so emotionally wrought due to the lease situation and how it relates to the crime against her daughter that she does not present credible testimony of past or current events on this issue. Furthermore, even if the testimony was credible, the Defendant did not testify and there was no evidence to describe her ability to receive income from other sources or her assets. Defendant would still not have produced sufficient evidence to prove the defense.
+The deposition of Thomas Baker, L.C.S.W., Defendant’s Exhibit 5, actually supports Plaintiff’s position that she could pay her rent. While Baker did not directly discuss ability to pay, he noted as follows. Defendant could function. (P. 8, In. 25, to p. 9, In. 4). Defendant indicated that she could go to school, but could not go away because she wanted to be home with her parents. (P. 9, In. 21-25.) Baker only indicated that she should not leave home and differentiated her ability to go to school. (P. 12, Ins. 10-25.)
+Baker’s testimony was only focused on her ability to return to J.M.U. He did not indicate that she was unable to pay, or work for that matter, to get the funds needed. The Court would note that the letters he wrote, Defendant’s Exhibits 5A and 5B, again only discuss the return to J.M.U. It appears that Defendant herself believed that she could attend school. This indicates her ability to go to school, to work, and her ability to pay, even though she would not return to the area.
+Plaintiff is correct in his assertion that impossibility must be linked to the performance required of the Defendant. Her performance requires her to follow the conditions of the lease and specifically to pay the rent in a timely manner. The evidence that Defendant has provided on impossibility primarily relates to her return to school and the leased premises, not those conditions that require her performance. Defendant’s evidence actually bolsters the fact that she could in fact pay. As pointed out to Defendant, there is no requirement that she actually live and reside at the premises. As noted on the record, there are many reasons that a student may elect to enter a lease and not actually reside there the entire time.
+In sum, considering the totality of the evidence, and the testimony of the witness, the Court finds that Defendant did not sufficiently prove the defense of impossibility.
+Restrictive Covenants
+The Court denies the Motion to Rehear the Court’s previous ruling as to the admissibility of Restrictive Covenants. While they were introduced by Plaintiff as an exhibit due to the Court’s taking the Motion to Rehear under advisement, the Court relies first on the letter opinion of Judge James V. Lane, dated June 13, 2013. Judge Lane considered the written motions and the arguments of the parties in the matter. Furthermore, Plaintiff correctly references Blick v. Marks, Stokes and Harrison, 234 Va. 60, 360 S.E.2d 345 (1987), and correctly argues that Virginia Code § 55-79.53 does not provide an avenue of argument for a tenant as to a violation of a condominium instrument. Defendant is seeking the admissibility of the covenants, not to reveal the entire lease as she argues in her Motion to Rehear, but to assert that the lease she knowingly entered was void ab initio. Plaintiff’s motion in limine outlines succinctly the reasons that the Motion for Rehearing should be and is hereby denied.
+The Court denies the Motion for Summary Judgment. While the Court has already ruled in favor of the Plaintiff on the admissibility of the covenants, much of the same reasoning would apply to the denial of summary judgment. Plaintiff’s argument is directly on point on the issues raised in the Motion for Summary Judgment.
+Conclusion
+The Court finds for the Plaintiff and grants him the judgment requested of $3653.12 as well as interest, costs, and attorney’s fees. The Plaintiff has met his burden of proof on all elements. The Plaintiff and Defendant reserved argument on amounts for interest, costs, and attorney’s fees should they not otherwise agree to such amounts.
