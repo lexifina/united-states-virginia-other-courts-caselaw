@@ -1,0 +1,43 @@
+---
+court: "Norfolk Circuit Court"
+docket: "Case No. (Civil) CL14-6013"
+decided: "2015-02-24"
+citations: ["90 Va. Cir. 64"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elizabeth Cajiao v. Ted Warren, Lawless, Inc., and Veneziano, Inc."]
+source_url: "https://static.case.law/va-cir/90/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4314549
+cites_cases: ["255 Va. 322", "497 S.E.2d 740", "78 Va. Cir. 369"]
+---
+
+# Cajiao v. Warren
+
+## Majority (By Judge Junius P. Fulton, III By Judge Mary Jane Hall)
+
+By Judge Junius P. Fulton, III
+This matter came before the Court on February 6,2015, for a hearing on Plaintiff’s motion to dismiss the appeal of Defendants Lawless, Inc., and Veneziano, Inc.
+The pertinent facts in this case are that the Plaintiff filed a warrant in debt seeking to recover for breach of contract against Defendants Ted Warren, Lawless, Inc., and Veneziano, Inc., on April 21, 2014. None of the Defendants filed a grounds of defense, although Ted Warren did appear on the initial return date of May 19, 2014. On July 8, 2014, the General District Court entered judgment against all three Defendants in the amount of $17,124.59 plus interest at the rate of 8% from March 1, 2014, and costs of $83.00.
+On July 14, 2014, Ted Warren filed a motion for a new trial under Virginia Code § 16.1-97.1. This motion was made timely as it was less than thirty days from the date of the judgment. The motion was granted, a new hearing was held, and the judgment was reinstated on August 6, 2014. Thereafter, counsel for all three Defendants filed a notice of appeal. Whether counsel merely represented Ted Warren or all three Defendants is a matter of dispute, but need not be resolved to dispose of this motion.
+The issue before the Court is whether Ted Warren’s motion for a new trial on the grounds that he was improperly notified, properly acted to grant a new trial for the corporate Defendants Lawless, Inc., and Veneziano, Inc. Virginia Code § 16.1-88.03 provides specific guidance and limitations to the actions of corporations in filing pleadings in any proceeding in the General District Court. Clearly, subsection B of § 16.1-88.03 provides that “nothing in this section shall allow a non-lawyer to file a bill of particulars or grounds of defense or to argue motions, issue a subpoena, rule to show cause, or capias ... or argue any other paper, pleading, or proceeding not set forth in subsection A.” Ted Warren’s attempt to seek a new hearing cannot apply to the corporate Defendants Lawless, Inc., and Veneziano, Inc., and was without legal effect insofar as they are considered. Furthermore, the pleading filed by Warren seeking a new trial fails to include Defendant Lawless, Inc., but instead references an entity called 1800 Granby, L.L.C., and Veneziano, L.L.C.
+Counsel for the Defendants Veneziano, Inc., and Lawless, Inc., now argue that the issue is moot because Plaintiff failed to appeal Warren’s motion for a new trial. However, the General District Court’s ruling on Warren’s motion for a new trial or rehearing is not appealable as it did not dispose of the whole subject matter. Ragan v. Woodcraft Village Apartments, 255 Va. 322, 497 S.E.2d 740 (1998).
+Consequently, Defendants’ appeal from the General District Court must be dismissed by this Court for lack of jurisdiction. Warren’s motion for a new trial was only effective as to him and without effect to the co-defendant corporations. Consequently, the appeal which was filed by counsel on August 6,2014, applied solely to Warren. Co-defendants Lawless, Inc., and Veneziano, Inc., are not properly before this Court.
+July 2, 2015
+By Judge Mary Jane Hall
+This matter comes before the Court on Plaintiff’s Motion for Release of Bond. The Court has considered the legal authority submitted by counsel and is persuaded that the Virginia Code does not authorize releasing the surety bond following the dismissal of the appeal. Therefore, the Motion for Release of Bond is denied.
+Background
+Plaintiff obtained a judgment against all three defendants in Norfolk General District Court on July 8, 2014. Defendant Warren moved for a rehearing, which the General District Court granted. The judgment was vacated on August 6,2014, and then reentered. All defendants appealed the same day and posted a single civil appeal bond in all three of their names.
+In circuit court, Plaintiff moved to dismiss the appeal as to Defendants Lawless and Veneziano on the ground that it had not been properly perfected. Judge Fulton granted Plaintiff’s motion, finding that the notice of appeal applied “solely to Warren” because Lawless and Veneziano had appeared without counsel in general district court. The appeals of Lawless and Veneziano were dismissed by order dated March 25, 2015.
+Plaintiff has nonsuited Defendant Warren and moved for release of the appeal bond. Two representatives for the surety, ABC Bail Bonds, appeared pro se and opposed Plaintiff’s motion. The Court granted Plaintiff’s motion and advised the surety representatives that they could obtain counsel and seek reconsideration before the order became final pursuant to Rule 1:1 of the Rules of the Supreme Court of Virginia.
+The surety subsequently appeared by counsel and timely asked the Court to vacate the May 15, 2015, order so that it could brief the issue. The Court did vacate that order. At this time, the Court concludes that the surety’s position is correct. The motion to release bond must be denied.
+Discussion
+Va. Code § 16.1-107 governs the requirements for appeals from general district court, and states the following regarding appeal bonds:
+If such bond is furnished by or on behalf of any party against whom judgment has been rendered for money or property or both, the bond shall be conditioned for the performance and satisfaction of such judgment or order as may be entered against such party on appeal, and for the payment of all costs and damages which may be awarded against him in the appellate court. If the appeal is by a party against whom there is no recovery except for costs, the bond shall be conditioned for the payment of such costs and damages as may be awarded against him on the appeal.
+This code section formerly provided that the appeal bond should be in an amount “sufficient to satisfy the judgment of the court in which it was entered” should the appeal be withdrawn. On at least two instances, Virginia circuit courts interpreted that prior version of the statute to permit release of bond to a plaintiff when a defendant fails to perfect its appeal from general district court. Powell v. Rawlings, 78 Va. Cir. 369, 370 (Greensville Cnty. 2009); Shaw v. Macher Properties, No. CL07001048-00 at 2 (Roanoke July 11, 2007). The General Assembly eliminated this language, however, when it amended the statute in 2011.
+Va. Code § 16.1-113 governs how such appeals are tried and executions thereof issued, and states as follows:
+If judgment is recovered by the appellee, execution shall issue against the principal and his surety, jointly or separately, for the amount of the judgment, including interests and costs, with damages on the aggregate at the rate of ten percent annually, from the date of that judgment until payment, and for the costs of the appeal; and the execution shall be endorsed “No security is to be taken.” If the decision is reversed, the party substantially prevailing shall recover his costs and the order or judgment shall be made or given as ought to have been made or given by the judge of the court from which the appeal was taken.
+The Court finds that both of these statutes support the surety’s position. Va. Code § 16.1-107 clearly requires that a “judgment or order” be entered against the appellant in the appeal itself as a necessary condition for release of the appeal bond to a plaintiff. Va. Code § 16.1 -113 by its text also requires a judgment in circuit court before its provisions for execution of a judgment apply. Because the Court previously held that the corporate defendants did not perfect their appeal, there was no appeal of their case. Consequently, there was no judgment or order against them in the appeal.
+The amendment of Va. Code § 16.1 -107 to remove the language allowing appeal bonds to be disbursed upon the withdrawal of an appeal supports the conclusion that the Court may not require a surety to pay until the appeal has concluded on the merits.
+Accordingly, the Court finds that Plaintiff is not entitled to an order directing release of the civil appeal bond. The Motion is denied.
