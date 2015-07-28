@@ -1,0 +1,34 @@
+---
+court: "Chesapeake Circuit Court"
+docket: "Case No. (Civil) CL15-589"
+decided: "2015-07-28"
+citations: ["91 Va. Cir. 63"]
+reporter: "va-cir"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Priority Imports Battlefield, Inc., d/b/a Priority Honda Chesapeake v. Terry D. Reese"]
+source_url: "https://static.case.law/va-cir/91/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4134325
+cites_cases: ["239 Va. 363", "277 Va. 1"]
+---
+
+# Priority Imports Battlefield, Inc. v. Reese
+
+## Majority (By Judge John W. Brown)
+
+By Judge John W. Brown
+This matter is before the Court on the plaintiff’s motion to vacate arbitration award and defendant’s motion to affirm arbitration award. For the reasons that follow, the Court denies the motion to vacate.
+Va. Code § 8.01-581.010 provides in relevant part: “An application under this section shall be made within ninety days after delivery of a copy of the award to the applicant. . . .” Although an application may also be made “by raising reasons supporting vacation in response to another party’s petition to confirm the award,” Mr. Reese’s opposition to Priority’s motion to affirm did not raise any substantive grounds for vacating the award. Mr. Reese received a copy of the arbitrator’s award on March 9,2015, and filed his motion to vacate on June 9, 2015. Because the statute requires that a motion to vacate “be made within ninety days,” calculation of the relevant period does not include March 9th. See, e.g., W. Hamilton Bryson, Bryson on Virginia Civil Procedure, “Excursus on Time Limits,” at Exc-1 (4th ed. 2005) (“When an act is to be done within a certain time after an event, the day on which the event occurred is not to be counted.”). June 7, 2015, the last day to fall within ninety days of March 9, 2015, was a Sunday; therefore, Reese had until June 8, 2015, to file his motion to vacate. Va. Code § 1-210 (“When the last day for performing an act during the course of a judicial proceeding falls on a ... Sunday... the act may be performed on the next day that is not a . . . Sunday. . . .”). Reese failed to file his motion on the following day, June 8th, but argues that the three-day mailing provision of Rule 1:7 applies to make his June 9th filing timely.
+Reese additionally maintains that the time for filing a motion to vacate did not begin until seven days after his receipt of the award, due to a self-executing election of remedies presented by the arbitrator with a seven-day deadline. However, the arbitrator’s decision left nothing to be done on the merits of the matters to be decided, and Reese’s election or lack thereof would have no bearing on any challenge seeking vacation of the award. Indeed, the arbitrator has issued no further rulings.
+Rule 1:7 states:
+Whenever a party is required or permitted under these Rules, or by direction of the court, to do an act within a prescribed time after service of a paper upon counsel of record, three (3) days shall be added to the prescribed time when the paper is served by mail, or one (1) day shall be added to the prescribed time when the paper is served by facsimile, electronic mail, or commercial delivery service.
+(Emphasis added.) A rule of court cannot trump a statute; such rules cannot conflict with the law as enacted by the General Assembly. See Va. Const., Art. VI, § 5; Helms v. Manspile, 277 Va. 1, 7 (2009).
+Rule 1:7, by its terms, applies to deadlines imposed under the Rules (or by direction of the court), and, accordingly, does not operate on the statutory deadline imposed by Va. Code § 8.01-581.010. The Court was unable to locate any Virginia appellate precedent in which Rule 1:7 was used to expand a deadline imposed by statute. A search for relevant, analogous Uniform Arbitration Act and Federal Arbitration Act cases likewise proved fruitless. See Helms, 277 Va. at 7; Truland Sys. Corp. v. Portorsnok, 1997 Va. App. LEXIS 518, at *3 (1997) (unpublished) (“Employer’s reliance on Rule 1:7 of the Rules of the Supreme Court of Virginia is misplaced. The three-day grace period provided by Rule 1:7 applies only in a situation where a party is required to act under those rules ‘after service of a paper upon him.’ Va. Code § 65.2-705(A) makes clear that the twenty-day period runs from the date of the award.”) (emphasis added). The ninety day period is not imposed by the Rules, and the filing of a motion to vacate is not an act required under the Rules; these are incidents ofVa. Code § 8.01-581.010.
+Rule 1:12 addresses service by mailing:
+All pleadings, motions, and other papers not required to be served otherwise and requests for subpoenas duces tecum shall be served by delivering, dispatching by commercial delivery service, transmitting by facsimile, delivering by electronic mail when Rule 1:17 so provides or when consented to in writing signed by the person to be served, or by mailing, a copy to each counsel of record on or before the day of filing.
+[SJervice pursuant to this Rule shall be effective upon such . . . mailing. . . . Service by electronic mail under this Rule is not effective if the party making service learns that the attempted service did not reach the person to be served.
+Atthe foot of such pleadings and requests shall be appended either acceptance of service or a certificate of counsel that copies were served as this Rule requires, showing the date of delivery and method of service, dispatching, transmitting, or mailing.
+(Emphasis added.)
+In the instant case, the ninety day period clearly begins upon counsel’s receipt of the award. The “service upon” language of Rule 1:7 is contrasted with the “after delivery” language of Va. Code § 8.01-581.010. See Occoquan Land Dev. Corp. v. Cooper, 239 Va. 363, 368 (1990) (“The county, however, was not required to file its appeal ‘within a prescribed time after service of’ the order upon it; instead, it was required to file within 30 days of the entry of the final order [under Rule 2A:2], Therefore, Rule 1:7 does not apply here.”). Service under the Rules is completed by mailing of the paper and appending a certificate of service by mail to the document; the actual date of receipt is irrelevant. See id. Accordingly, whereas Rule 1:7 provides additional time for a party to respond when he is served by mail, no additional time is necessary or warranted in cases (such as this) where a time period begins with actual delivery of the relevant document.
+The Court thus finds that Reese’s motion to vacate arbitration award was not timely filed. Therefore, the Court does not consider the merits of this motion, and requests counsel for Priority to prepare and circulate for entry an order reflecting this letter opinion and affirming the arbitration award.
